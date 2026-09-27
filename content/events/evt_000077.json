@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000077",
+  "slug": "the-tripitaka-koreana-blocks-are-carved",
+  "title": "The Tripitaka Koreana blocks are carved",
+  "summary": "Woodworkers carved the Tripitaka Koreana’s extensive Buddhist text collection onto printing blocks between 1237 and 1248. The blocks survive at Haeinsa in Korea.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000077-c1",
+      "sourceId": "src_000100",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000077-occurrence",
+      "text": "Woodworkers carved the Tripitaka Koreana’s extensive Buddhist text collection onto printing blocks between 1237 and 1248. The blocks survive at Haeinsa in Korea.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000077-c1"
+      ]
+    },
+    {
+      "id": "evt_000077-date",
+      "text": "Source’s carving range.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000077-c1"
+      ]
+    },
+    {
+      "id": "evt_000077-context",
+      "text": "The collection connects textual preservation with skilled material work. The carving campaign is separate from the later buildings that protect the blocks.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000077-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "1,237 CE",
+      "anchor": {
+        "year": 1237,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Source’s carving range.",
+      "conversionNote": "Source’s carving range.",
+      "dateClaimIds": [
+        "evt_000077-date"
+      ]
+    },
+    "end": {
+      "label": "1,248 CE",
+      "anchor": {
+        "year": 1248,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Source’s carving range.",
+      "conversionNote": "Source’s carving range.",
+      "dateClaimIds": [
+        "evt_000077-date"
+      ]
+    }
+  },
+  "primaryRegion": "east-asia",
+  "subregion": "Korea",
+  "themeIds": [
+    "knowledge"
+  ],
+  "tier": "major",
+  "context": "The collection connects textual preservation with skilled material work. The carving campaign is separate from the later buildings that protect the blocks.",
+  "dateNote": "Source’s carving range.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000077"
+  ],
+  "alternativeTitles": []
+}

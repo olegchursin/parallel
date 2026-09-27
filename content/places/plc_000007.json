@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000007",
+  "preferredName": "North Africa",
+  "placeType": "historical-place",
+  "regionIds": [
+    "africa"
+  ],
+  "sourceRefs": [
+    "src_000007"
+  ],
+  "modernLocator": "North Africa"
+}

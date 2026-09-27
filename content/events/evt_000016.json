@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000016",
+  "slug": "goree-enters-atlantic-slave-trading-networks",
+  "title": "Gorée enters Atlantic slave-trading networks",
+  "summary": "Gorée, off present-day Senegal, was used by European powers as a stopover and market in the Atlantic trade in enslaved people. Its buildings preserve stark inequalities of power and confinement.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000016-c1",
+      "sourceId": "src_000015",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000016-occurrence",
+      "text": "Gorée, off present-day Senegal, was used by European powers as a stopover and market in the Atlantic trade in enslaved people. Its buildings preserve stark inequalities of power and confinement.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000016-c1"
+      ]
+    },
+    {
+      "id": "evt_000016-date",
+      "text": "Broad fifteenth–nineteenth-century institutional range; no trafficking totals are asserted.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000016-c1"
+      ]
+    },
+    {
+      "id": "evt_000016-context",
+      "text": "This record centres coercion and human exploitation. It avoids repeating disputed claims about Gorée’s relative size or the number of people transported, which require specialized demographic and archival research.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000016-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,401 CE",
+      "anchor": {
+        "year": 1401,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Broad fifteenth–nineteenth-century institutional range; no trafficking totals are asserted.",
+      "conversionNote": "Broad fifteenth–nineteenth-century institutional range; no trafficking totals are asserted.",
+      "dateClaimIds": [
+        "evt_000016-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,900 CE",
+      "anchor": {
+        "year": 1900,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Broad fifteenth–nineteenth-century institutional range; no trafficking totals are asserted.",
+      "conversionNote": "Broad fifteenth–nineteenth-century institutional range; no trafficking totals are asserted.",
+      "dateClaimIds": [
+        "evt_000016-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "West Africa",
+  "themeIds": [
+    "rights"
+  ],
+  "tier": "major",
+  "context": "This record centres coercion and human exploitation. It avoids repeating disputed claims about Gorée’s relative size or the number of people transported, which require specialized demographic and archival research.",
+  "dateNote": "Broad fifteenth–nineteenth-century institutional range; no trafficking totals are asserted.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000016"
+  ],
+  "alternativeTitles": []
+}

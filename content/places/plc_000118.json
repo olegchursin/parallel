@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000118",
+  "preferredName": "South America",
+  "placeType": "historical-place",
+  "regionIds": [
+    "americas"
+  ],
+  "sourceRefs": [
+    "src_000098"
+  ],
+  "modernLocator": "South America"
+}

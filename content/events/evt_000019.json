@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000019",
+  "slug": "households-cluster-at-catalhoyuk",
+  "title": "Households cluster at Çatalhöyük",
+  "summary": "The eastern mound at Çatalhöyük preserves successive levels of closely packed houses. Roof access, paintings and household features document a distinctive form of settled community life in Neolithic Anatolia.",
+  "regionIds": [
+    "west-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000019-c1",
+      "sourceId": "src_000017",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000019-occurrence",
+      "text": "The eastern mound at Çatalhöyük preserves successive levels of closely packed houses. Roof access, paintings and household features document a distinctive form of settled community life in Neolithic Anatolia.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000019-c1"
+      ]
+    },
+    {
+      "id": "evt_000019-date",
+      "text": "Eastern mound occupation only; the western mound continued into a later phase.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000019-c1"
+      ]
+    },
+    {
+      "id": "evt_000019-context",
+      "text": "Dense settlement need not resemble later street-based cities. This record invites comparison of household organization and shared space, while separating the eastern mound’s chronology from the later western settlement.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000019-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 7,400 BCE",
+      "anchor": {
+        "year": -7399,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Eastern mound occupation only; the western mound continued into a later phase.",
+      "conversionNote": "Eastern mound occupation only; the western mound continued into a later phase.",
+      "dateClaimIds": [
+        "evt_000019-date"
+      ]
+    },
+    "end": {
+      "label": "c. 6,200 BCE",
+      "anchor": {
+        "year": -6199,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Eastern mound occupation only; the western mound continued into a later phase.",
+      "conversionNote": "Eastern mound occupation only; the western mound continued into a later phase.",
+      "dateClaimIds": [
+        "evt_000019-date"
+      ]
+    }
+  },
+  "primaryRegion": "west-asia",
+  "subregion": "Anatolia",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "Dense settlement need not resemble later street-based cities. This record invites comparison of household organization and shared space, while separating the eastern mound’s chronology from the later western settlement.",
+  "dateNote": "Eastern mound occupation only; the western mound continued into a later phase.",
+  "entityIds": [
+    "ent_000009"
+  ],
+  "placeIds": [
+    "plc_000019"
+  ],
+  "alternativeTitles": []
+}

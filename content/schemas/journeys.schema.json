@@ -1,0 +1,243 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "number",
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^jrn_\\d{6}$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 20
+    },
+    "regionIds": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "claims": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1
+          },
+          "claimType": {
+            "type": "string",
+            "enum": [
+              "occurrence",
+              "date",
+              "location",
+              "significance",
+              "terminology",
+              "interpretation",
+              "relationship"
+            ]
+          },
+          "citationIds": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "id",
+          "text",
+          "claimType",
+          "citationIds"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "citations": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "sourceId": {
+            "type": "string",
+            "pattern": "^src_\\d{6}$"
+          },
+          "locator": {
+            "type": "string",
+            "minLength": 1
+          },
+          "supportRole": {
+            "type": "string",
+            "enum": [
+              "supports",
+              "qualifies",
+              "challenges"
+            ]
+          },
+          "note": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "id",
+          "sourceId",
+          "locator",
+          "supportRole",
+          "note"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "review": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "candidate",
+            "researching",
+            "drafted",
+            "evidence-checked",
+            "reviewed",
+            "published",
+            "withdrawn"
+          ]
+        },
+        "authoredBy": {
+          "type": "string"
+        },
+        "checkedBy": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reviewedAt": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "revision": {
+          "type": "integer",
+          "exclusiveMinimum": 0,
+          "maximum": 9007199254740991
+        },
+        "unresolvedIssues": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "corroboration": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "status",
+        "authoredBy",
+        "checkedBy",
+        "reviewedAt",
+        "revision",
+        "unresolvedIssues",
+        "corroboration"
+      ],
+      "additionalProperties": false
+    },
+    "kind": {
+      "type": "string",
+      "const": "journey"
+    },
+    "introduction": {
+      "type": "string"
+    },
+    "learningGoal": {
+      "type": "string"
+    },
+    "steps": {
+      "minItems": 6,
+      "maxItems": 10,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "eventId": {
+            "type": "string",
+            "pattern": "^evt_\\d{6}$"
+          },
+          "heading": {
+            "type": "string"
+          },
+          "note": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "eventId",
+          "heading",
+          "note"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "evidenceNote": {
+      "type": "string"
+    },
+    "startingViewport": {
+      "type": "object",
+      "properties": {
+        "from": {
+          "type": "string"
+        },
+        "to": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "from",
+        "to"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "id",
+    "slug",
+    "title",
+    "summary",
+    "regionIds",
+    "claims",
+    "citations",
+    "review",
+    "kind",
+    "introduction",
+    "learningGoal",
+    "steps",
+    "evidenceNote",
+    "startingViewport"
+  ],
+  "additionalProperties": false
+}

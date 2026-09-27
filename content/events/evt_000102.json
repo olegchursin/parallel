@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000102",
+  "slug": "an-oxford-team-tests-penicillin-clinically",
+  "title": "An Oxford team tests penicillin clinically",
+  "summary": "An Oxford research team treated Albert Alexander with penicillin in 1941. His temporary improvement and subsequent death when supplies ran out exposed the difficulty of producing enough medicine.",
+  "regionIds": [
+    "europe"
+  ],
+  "citations": [
+    {
+      "id": "evt_000102-c1",
+      "sourceId": "src_000085",
+      "locator": "Fleming in 1928; Oxford team and Albert Alexander in 1941",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000102-occurrence",
+      "text": "An Oxford research team treated Albert Alexander with penicillin in 1941. His temporary improvement and subsequent death when supplies ran out exposed the difficulty of producing enough medicine.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000102-c1"
+      ]
+    },
+    {
+      "id": "evt_000102-date",
+      "text": "Clinical episode, year precision.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000102-c1"
+      ]
+    },
+    {
+      "id": "evt_000102-context",
+      "text": "The episode shows why therapeutic development requires more than an initial laboratory observation. It is a historical account, not treatment advice.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000102-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1,941 CE",
+      "anchor": {
+        "year": 1941,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Clinical episode, year precision.",
+      "conversionNote": "Clinical episode, year precision.",
+      "dateClaimIds": [
+        "evt_000102-date"
+      ]
+    }
+  },
+  "primaryRegion": "europe",
+  "subregion": "Northern Europe",
+  "themeIds": [
+    "health"
+  ],
+  "tier": "major",
+  "context": "The episode shows why therapeutic development requires more than an initial laboratory observation. It is a historical account, not treatment advice.",
+  "dateNote": "Clinical episode, year precision.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000102"
+  ],
+  "alternativeTitles": []
+}

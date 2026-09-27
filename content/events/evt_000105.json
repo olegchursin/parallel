@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000105",
+  "slug": "india-becomes-independent",
+  "title": "India becomes independent",
+  "summary": "India became independent on 15 August 1947. The milestone ended British rule over the new Indian state and preceded its republican constitution.",
+  "regionIds": [
+    "south-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000105-c1",
+      "sourceId": "src_000088",
+      "locator": "Page 117: independence, Constitution and Election Commission dates",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000105-occurrence",
+      "text": "India became independent on 15 August 1947. The milestone ended British rule over the new Indian state and preceded its republican constitution.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000105-c1"
+      ]
+    },
+    {
+      "id": "evt_000105-date",
+      "text": "Independence date in the government electoral-history chronology.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000105-c1"
+      ]
+    },
+    {
+      "id": "evt_000105-context",
+      "text": "This concise legal chronology does not cover the partition’s displacement and violence. Those experiences require dedicated records and broader sources.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000105-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "15 Aug 1947 CE",
+      "anchor": {
+        "year": 1947,
+        "month": 8,
+        "day": 15,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Independence date in the government electoral-history chronology.",
+      "conversionNote": "Independence date in the government electoral-history chronology.",
+      "dateClaimIds": [
+        "evt_000105-date"
+      ]
+    }
+  },
+  "primaryRegion": "south-asia",
+  "subregion": "Indian subcontinent",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "This concise legal chronology does not cover the partition’s displacement and violence. Those experiences require dedicated records and broader sources.",
+  "dateNote": "Independence date in the government electoral-history chronology.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000105"
+  ],
+  "alternativeTitles": []
+}

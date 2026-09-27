@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000098",
+  "slug": "haiti-becomes-independent",
+  "title": "Haiti becomes independent",
+  "summary": "Haiti became independent in 1804 after a revolution against slavery and colonial rule. The new state challenged the political order of the Atlantic world.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "evt_000098-c1",
+      "sourceId": "src_000082",
+      "locator": "Independence in 1804",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000098-occurrence",
+      "text": "Haiti became independent in 1804 after a revolution against slavery and colonial rule. The new state challenged the political order of the Atlantic world.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000098-c1"
+      ]
+    },
+    {
+      "id": "evt_000098-date",
+      "text": "Year precision; no uninspected exact-day claim.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000098-c1"
+      ]
+    },
+    {
+      "id": "evt_000098-context",
+      "text": "Independence was one milestone in a longer struggle. This entry’s US diplomatic-history source needs supplementation with Haitian scholarship and primary accounts.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000098-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1,804 CE",
+      "anchor": {
+        "year": 1804,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Year precision; no uninspected exact-day claim.",
+      "conversionNote": "Year precision; no uninspected exact-day claim.",
+      "dateClaimIds": [
+        "evt_000098-date"
+      ]
+    }
+  },
+  "primaryRegion": "americas",
+  "subregion": "Caribbean",
+  "themeIds": [
+    "rights"
+  ],
+  "tier": "major",
+  "context": "Independence was one milestone in a longer struggle. This entry’s US diplomatic-history source needs supplementation with Haitian scholarship and primary accounts.",
+  "dateNote": "Year precision; no uninspected exact-day claim.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000098"
+  ],
+  "alternativeTitles": []
+}

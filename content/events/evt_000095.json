@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000095",
+  "slug": "the-emancipation-proclamation-takes-effect",
+  "title": "The Emancipation Proclamation takes effect",
+  "summary": "The Emancipation Proclamation took effect on 1 January 1863, declaring freedom for enslaved people in specified areas in rebellion against the United States.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "evt_000095-c1",
+      "sourceId": "src_000079",
+      "locator": "1 January 1863; specified areas in rebellion",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000095-occurrence",
+      "text": "The Emancipation Proclamation took effect on 1 January 1863, declaring freedom for enslaved people in specified areas in rebellion against the United States.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000095-c1"
+      ]
+    },
+    {
+      "id": "evt_000095-date",
+      "text": "Effective date of the final proclamation.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000095-c1"
+      ]
+    },
+    {
+      "id": "evt_000095-context",
+      "text": "Its scope was geographically and legally limited. It did not abolish slavery everywhere in the United States on that day; constitutional abolition came later.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000095-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1 Jan 1863 CE",
+      "anchor": {
+        "year": 1863,
+        "month": 1,
+        "day": 1,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Effective date of the final proclamation.",
+      "conversionNote": "Effective date of the final proclamation.",
+      "dateClaimIds": [
+        "evt_000095-date"
+      ]
+    }
+  },
+  "primaryRegion": "americas",
+  "subregion": "North America",
+  "themeIds": [
+    "rights"
+  ],
+  "tier": "major",
+  "context": "Its scope was geographically and legally limited. It did not abolish slavery everywhere in the United States on that day; constitutional abolition came later.",
+  "dateNote": "Effective date of the final proclamation.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000095"
+  ],
+  "alternativeTitles": []
+}

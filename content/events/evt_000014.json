@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000014",
+  "slug": "dahomeys-royal-palace-complex-develops",
+  "title": "Dahomey’s royal palace complex develops",
+  "summary": "Successive kings built palaces at Abomey, in present-day Benin, over several centuries. The compound combined royal administration, material display and craft production within an evolving architectural setting.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000014-c1",
+      "sourceId": "src_000013",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000014-occurrence",
+      "text": "Successive kings built palaces at Abomey, in present-day Benin, over several centuries. The compound combined royal administration, material display and craft production within an evolving architectural setting.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000014-c1"
+      ]
+    },
+    {
+      "id": "evt_000014-date",
+      "text": "The source’s 1625–1900 range concerns the royal succession and palace ensemble.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000014-c1"
+      ]
+    },
+    {
+      "id": "evt_000014-context",
+      "text": "The palaces preserve evidence of political power through buildings and objects. Their dates mark successive construction and use, not an assertion that the kingdom or its inhabitants remained unchanged throughout this period.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000014-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,625 CE",
+      "anchor": {
+        "year": 1625,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "The source’s 1625–1900 range concerns the royal succession and palace ensemble.",
+      "conversionNote": "The source’s 1625–1900 range concerns the royal succession and palace ensemble.",
+      "dateClaimIds": [
+        "evt_000014-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,900 CE",
+      "anchor": {
+        "year": 1900,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "The source’s 1625–1900 range concerns the royal succession and palace ensemble.",
+      "conversionNote": "The source’s 1625–1900 range concerns the royal succession and palace ensemble.",
+      "dateClaimIds": [
+        "evt_000014-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "West Africa",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "The palaces preserve evidence of political power through buildings and objects. Their dates mark successive construction and use, not an assertion that the kingdom or its inhabitants remained unchanged throughout this period.",
+  "dateNote": "The source’s 1625–1900 range concerns the royal succession and palace ensemble.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000014"
+  ],
+  "alternativeTitles": []
+}

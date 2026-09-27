@@ -1,0 +1,125 @@
+{
+  "measuredAt": "2026-09-27T03:50:34.502Z",
+  "environment": "Chromium desktop engine, 390×844 viewport, local loopback; no CPU/network throttling. Not a real phone or field p75.",
+  "stress": {
+    "records": 5000,
+    "matching": 879,
+    "searchMedianMs": 16.899999976158142,
+    "searchMaxMs": 33.5,
+    "filterAndClusterMs": 12.699999988079071,
+    "clusters": 4,
+    "accessibleRecords": 5000
+  },
+  "lab": {
+    "lcp": 64,
+    "cls": 0,
+    "navigation": {
+      "name": "http://127.0.0.1:4173/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 83.90000003576279,
+      "navigationId": 2324,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.1",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 0.10000002384185791,
+      "domainLookupStart": 2.600000023841858,
+      "domainLookupEnd": 2.900000035762787,
+      "connectStart": 2.900000035762787,
+      "secureConnectionStart": 0,
+      "connectEnd": 3.100000023841858,
+      "requestStart": 3.300000011920929,
+      "responseStart": 4.100000023841858,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 4.100000023841858,
+      "responseEnd": 5.100000023841858,
+      "transferSize": 187465,
+      "encodedBodySize": 187165,
+      "decodedBodySize": 187165,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 29.5,
+      "domContentLoadedEventStart": 29.5,
+      "domContentLoadedEventEnd": 29.600000023841858,
+      "domComplete": 83.90000003576279,
+      "loadEventStart": 83.90000003576279,
+      "loadEventEnd": 83.90000003576279,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "high"
+      }
+    },
+    "resources": [
+      {
+        "name": "http://127.0.0.1:4173/assets/App-DZBESQ6V.css",
+        "transferSize": 51542
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/index-C-Rn5RfD.css",
+        "transferSize": 3111
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/index-Dnd98mAF.js",
+        "transferSize": 319768
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/content-FXcRKYbD.js",
+        "transferSize": 2014
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/jsx-runtime-Cx0BB4qO.js",
+        "transferSize": 1388
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/lazyRouteComponent-BJLiG3ts.js",
+        "transferSize": 4081
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/not-found-i5RsCZif.js",
+        "transferSize": 418
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/arrow-right-DixCychh.js",
+        "transferSize": 492
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/routes-nmkqabVv.js",
+        "transferSize": 6526
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/move-horizontal-Bx0amXKx.js",
+        "transferSize": 1222
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/shield-check-DF9s39xC.js",
+        "transferSize": 647
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/App-BsI2L0l4.js",
+        "transferSize": 135802
+      }
+    ]
+  },
+  "unverified": [
+    "Real midrange-phone 60fps pan/zoom",
+    "Installed-PWA reopening under 2 seconds",
+    "Field p75 LCP, INP, CLS"
+  ]
+}

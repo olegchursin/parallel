@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000049",
+  "slug": "merv-flourishes-under-seljuk-rule",
+  "title": "Merv flourishes under Seljuk rule",
+  "summary": "Merv reached a major phase of development as a capital of the Great Seljuk Empire in the eleventh and twelfth centuries. It occupied an oasis with a much older settlement history.",
+  "regionIds": [
+    "central-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000049-c1",
+      "sourceId": "src_000045",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000049-occurrence",
+      "text": "Merv reached a major phase of development as a capital of the Great Seljuk Empire in the eleventh and twelfth centuries. It occupied an oasis with a much older settlement history.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000049-c1"
+      ]
+    },
+    {
+      "id": "evt_000049-date",
+      "text": "Eleventh–twelfth-century Seljuk phase; not all occupation of the Murgab oasis.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000049-c1"
+      ]
+    },
+    {
+      "id": "evt_000049-context",
+      "text": "The city places Central Asia within histories of administration and exchange rather than only migration or conquest. Its successive urban centres should not be represented as one settlement unchanged across millennia.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000049-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,001 CE",
+      "anchor": {
+        "year": 1001,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Eleventh–twelfth-century Seljuk phase; not all occupation of the Murgab oasis.",
+      "conversionNote": "Eleventh–twelfth-century Seljuk phase; not all occupation of the Murgab oasis.",
+      "dateClaimIds": [
+        "evt_000049-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,200 CE",
+      "anchor": {
+        "year": 1200,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Eleventh–twelfth-century Seljuk phase; not all occupation of the Murgab oasis.",
+      "conversionNote": "Eleventh–twelfth-century Seljuk phase; not all occupation of the Murgab oasis.",
+      "dateClaimIds": [
+        "evt_000049-date"
+      ]
+    }
+  },
+  "primaryRegion": "central-asia",
+  "subregion": "Central Asia",
+  "themeIds": [
+    "exchange"
+  ],
+  "tier": "major",
+  "context": "The city places Central Asia within histories of administration and exchange rather than only migration or conquest. Its successive urban centres should not be represented as one settlement unchanged across millennia.",
+  "dateNote": "Eleventh–twelfth-century Seljuk phase; not all occupation of the Murgab oasis.",
+  "entityIds": [
+    "ent_000020"
+  ],
+  "placeIds": [
+    "plc_000049"
+  ],
+  "alternativeTitles": []
+}

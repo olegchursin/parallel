@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000089",
+  "preferredName": "Cross-regional",
+  "placeType": "historical-place",
+  "regionIds": [
+    "global"
+  ],
+  "sourceRefs": [
+    "src_000075"
+  ],
+  "modernLocator": "Cross-regional"
+}

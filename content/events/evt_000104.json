@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000104",
+  "slug": "the-united-states-declares-war-on-japan",
+  "title": "The United States declares war on Japan",
+  "summary": "The US Congress declared war on Japan on 8 December 1941 after the attack on Pearl Harbor. President Franklin Roosevelt addressed Congress before the vote.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "evt_000104-c1",
+      "sourceId": "src_000087",
+      "locator": "8 December 1941 chronology and speech transcript",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000104-occurrence",
+      "text": "The US Congress declared war on Japan on 8 December 1941 after the attack on Pearl Harbor. President Franklin Roosevelt addressed Congress before the vote.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000104-c1"
+      ]
+    },
+    {
+      "id": "evt_000104-date",
+      "text": "Gregorian date of the declaration.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000104-c1"
+      ]
+    },
+    {
+      "id": "evt_000104-context",
+      "text": "The date marks US entry into an already ongoing war. It is not a universal starting date for the Second World War or for conflict in East Asia.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000104-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "8 Dec 1941 CE",
+      "anchor": {
+        "year": 1941,
+        "month": 12,
+        "day": 8,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Gregorian date of the declaration.",
+      "conversionNote": "Gregorian date of the declaration.",
+      "dateClaimIds": [
+        "evt_000104-date"
+      ]
+    }
+  },
+  "primaryRegion": "global",
+  "subregion": "Cross-regional",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "The date marks US entry into an already ongoing war. It is not a universal starting date for the Second World War or for conflict in East Asia.",
+  "dateNote": "Gregorian date of the declaration.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000104"
+  ],
+  "alternativeTitles": []
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "src_000066",
+  "title": "The Gutenberg Bible",
+  "creator": "Library of Congress",
+  "publisher": "Library of Congress",
+  "sourceType": "institutional",
+  "publicationDate": "See source page; not consistently supplied",
+  "url": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html",
+  "accessedAt": "2026-09-26",
+  "sourceFamily": "loc",
+  "language": "English",
+  "rights": "Linked institutional source; original summaries, no reproduced images. Source retains its own rights.",
+  "inspectionNote": "Relevant passage inspected during this build: Completion probably late in 1455. This is an evidence check, not an independent historical peer review."
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000081",
+  "preferredName": "Northern Europe",
+  "placeType": "historical-place",
+  "regionIds": [
+    "europe"
+  ],
+  "sourceRefs": [
+    "src_000071"
+  ],
+  "modernLocator": "Northern Europe"
+}

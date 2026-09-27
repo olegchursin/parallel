@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000029",
+  "preferredName": "Indus region",
+  "placeType": "historical-place",
+  "regionIds": [
+    "south-asia"
+  ],
+  "sourceRefs": [
+    "src_000028"
+  ],
+  "modernLocator": "Indus region"
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000105",
+  "preferredName": "Indian subcontinent",
+  "placeType": "historical-place",
+  "regionIds": [
+    "south-asia"
+  ],
+  "sourceRefs": [
+    "src_000088"
+  ],
+  "modernLocator": "Indian subcontinent"
+}

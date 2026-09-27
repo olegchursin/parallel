@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "ent_000008",
+  "slug": "kingdom-of-kongo",
+  "title": "Kingdom of Kongo",
+  "summary": "Mbanza Kongo was a political and spiritual centre of the kingdom of Kongo. Its built environment reflects local institutions and later changes associated with Portuguese contact and Christianity.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "ent_000008-c1",
+      "sourceId": "src_000014",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ent_000008-occurrence",
+      "text": "Mbanza Kongo was a political and spiritual centre of the kingdom of Kongo. Its built environment reflects local institutions and later changes associated with Portuguese contact and Christianity.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "ent_000008-c1"
+      ]
+    },
+    {
+      "id": "ent_000008-date",
+      "text": "Broad fourteenth–nineteenth-century kingdom context; this does not assert continuous control over fixed borders.",
+      "claimType": "date",
+      "citationIds": [
+        "ent_000008-c1"
+      ]
+    },
+    {
+      "id": "ent_000008-context",
+      "text": "The city makes it possible to examine institutions before and after overseas contact. Local traditions continued alongside change; European arrival should not be treated as the start of the region’s history.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "ent_000008-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "entity",
+  "preferredName": "Kingdom of Kongo",
+  "entityType": "polity",
+  "aliases": [
+    "Kingdom of Kongo",
+    "Mbanza Kongo anchors a regional kingdom"
+  ],
+  "eventIds": [
+    "evt_000015",
+    "evt_000119"
+  ],
+  "existencePhases": [
+    {
+      "label": "Documented phase (not a claim to the complete lifespan)",
+      "time": {
+        "type": "span",
+        "start": {
+          "label": "c. 1,301 CE",
+          "anchor": {
+            "year": 1301,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Broad fourteenth–nineteenth-century kingdom context; this does not assert continuous control over fixed borders.",
+          "conversionNote": "Broad fourteenth–nineteenth-century kingdom context; this does not assert continuous control over fixed borders.",
+          "dateClaimIds": [
+            "ent_000008-date"
+          ]
+        },
+        "end": {
+          "label": "c. 1,900 CE",
+          "anchor": {
+            "year": 1900,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Broad fourteenth–nineteenth-century kingdom context; this does not assert continuous control over fixed borders.",
+          "conversionNote": "Broad fourteenth–nineteenth-century kingdom context; this does not assert continuous control over fixed borders.",
+          "dateClaimIds": [
+            "ent_000008-date"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000032",
+  "slug": "ajantas-later-painted-caves-are-excavated",
+  "title": "Ajanta’s later painted caves are excavated",
+  "summary": "A later phase of work at Ajanta added richly decorated Buddhist caves. Paintings and sculptures accompanied new sanctuaries and monastic spaces after a long interruption in excavation activity.",
+  "regionIds": [
+    "south-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000032-c1",
+      "sourceId": "src_000030",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000032-occurrence",
+      "text": "A later phase of work at Ajanta added richly decorated Buddhist caves. Paintings and sculptures accompanied new sanctuaries and monastic spaces after a long interruption in excavation activity.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000032-c1"
+      ]
+    },
+    {
+      "id": "evt_000032-date",
+      "text": "Fifth–sixth centuries CE; attributed by the synthesis to Vakataka-period patronage.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000032-c1"
+      ]
+    },
+    {
+      "id": "evt_000032-context",
+      "text": "The gap between construction phases matters when comparing artistic styles or patronage. The later caves are not evidence that one workshop or political regime operated continuously across the entire site history.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000032-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 401 CE",
+      "anchor": {
+        "year": 401,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Fifth–sixth centuries CE; attributed by the synthesis to Vakataka-period patronage.",
+      "conversionNote": "Fifth–sixth centuries CE; attributed by the synthesis to Vakataka-period patronage.",
+      "dateClaimIds": [
+        "evt_000032-date"
+      ]
+    },
+    "end": {
+      "label": "c. 600 CE",
+      "anchor": {
+        "year": 600,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Fifth–sixth centuries CE; attributed by the synthesis to Vakataka-period patronage.",
+      "conversionNote": "Fifth–sixth centuries CE; attributed by the synthesis to Vakataka-period patronage.",
+      "dateClaimIds": [
+        "evt_000032-date"
+      ]
+    }
+  },
+  "primaryRegion": "south-asia",
+  "subregion": "Indian subcontinent",
+  "themeIds": [
+    "arts"
+  ],
+  "tier": "major",
+  "context": "The gap between construction phases matters when comparing artistic styles or patronage. The later caves are not evidence that one workshop or political regime operated continuously across the entire site history.",
+  "dateNote": "Fifth–sixth centuries CE; attributed by the synthesis to Vakataka-period patronage.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000032"
+  ],
+  "alternativeTitles": []
+}

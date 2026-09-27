@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "per_000001",
+  "slug": "carals-monumental-city-takes-shape",
+  "title": "Caral’s monumental city takes shape",
+  "summary": "Communities in Peru’s Supe Valley built monumental platforms and sunken courts at Caral. Its architecture preserves evidence of organized ceremonial life and substantial collective work in the ancient Andes.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "per_000001-c1",
+      "sourceId": "src_000001",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "per_000001-occurrence",
+      "text": "Communities in Peru’s Supe Valley built monumental platforms and sunken courts at Caral. Its architecture preserves evidence of organized ceremonial life and substantial collective work in the ancient Andes.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "per_000001-c1"
+      ]
+    },
+    {
+      "id": "per_000001-date",
+      "text": "The source’s radiocarbon-based site-development range is approximate; it is not the lifespan of a named dynasty.",
+      "claimType": "date",
+      "citationIds": [
+        "per_000001-c1"
+      ]
+    },
+    {
+      "id": "per_000001-context",
+      "text": "Caral makes early urban history a cross-regional question. Its platforms and gathering spaces can be compared with settlements elsewhere, without assuming that the societies had contact or followed an identical path.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "per_000001-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "period",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 3,000 BCE",
+      "anchor": {
+        "year": -2999,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "The source’s radiocarbon-based site-development range is approximate; it is not the lifespan of a named dynasty.",
+      "conversionNote": "The source’s radiocarbon-based site-development range is approximate; it is not the lifespan of a named dynasty.",
+      "dateClaimIds": [
+        "per_000001-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,800 BCE",
+      "anchor": {
+        "year": -1799,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "The source’s radiocarbon-based site-development range is approximate; it is not the lifespan of a named dynasty.",
+      "conversionNote": "The source’s radiocarbon-based site-development range is approximate; it is not the lifespan of a named dynasty.",
+      "dateClaimIds": [
+        "per_000001-date"
+      ]
+    }
+  },
+  "periodType": "archaeological",
+  "displayOrder": 1,
+  "entityId": "ent_000001"
+}

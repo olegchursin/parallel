@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000022",
+  "slug": "darius-begins-persepolis",
+  "title": "Darius begins Persepolis",
+  "summary": "Darius I began the great terrace at Persepolis around 518 BCE. Later Achaemenid rulers added palaces, reception halls and carved reliefs to this royal complex in present-day Iran.",
+  "regionIds": [
+    "west-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000022-c1",
+      "sourceId": "src_000021",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000022-occurrence",
+      "text": "Darius I began the great terrace at Persepolis around 518 BCE. Later Achaemenid rulers added palaces, reception halls and carved reliefs to this royal complex in present-day Iran.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000022-c1"
+      ]
+    },
+    {
+      "id": "evt_000022-date",
+      "text": "Approximate foundation year; subsequent building continued under several rulers.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000022-c1"
+      ]
+    },
+    {
+      "id": "evt_000022-context",
+      "text": "A monumental centre represents political power selectively. The architecture and tribute imagery illuminate royal display, while the site’s foundation must remain distinct from the beginning of the Achaemenid Empire.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000022-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 518 BCE",
+      "anchor": {
+        "year": -517,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate foundation year; subsequent building continued under several rulers.",
+      "conversionNote": "Approximate foundation year; subsequent building continued under several rulers.",
+      "dateClaimIds": [
+        "evt_000022-date"
+      ]
+    }
+  },
+  "primaryRegion": "west-asia",
+  "subregion": "Iran & Arabia",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "A monumental centre represents political power selectively. The architecture and tribute imagery illuminate royal display, while the site’s foundation must remain distinct from the beginning of the Achaemenid Empire.",
+  "dateNote": "Approximate foundation year; subsequent building continued under several rulers.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000022"
+  ],
+  "alternativeTitles": []
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000050",
+  "slug": "karakorum-becomes-a-mongol-imperial-centre",
+  "title": "Karakorum becomes a Mongol imperial centre",
+  "summary": "Karakorum in the Orkhon Valley served as a Mongol imperial centre in the thirteenth and fourteenth centuries. Its remains sit within a landscape shaped by pastoral societies and earlier political centres.",
+  "regionIds": [
+    "central-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000050-c1",
+      "sourceId": "src_000046",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000050-occurrence",
+      "text": "Karakorum in the Orkhon Valley served as a Mongol imperial centre in the thirteenth and fourteenth centuries. Its remains sit within a landscape shaped by pastoral societies and earlier political centres.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000050-c1"
+      ]
+    },
+    {
+      "id": "evt_000050-date",
+      "text": "Thirteenth–fourteenth-century capital context; no exact foundation year is supplied.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000050-c1"
+      ]
+    },
+    {
+      "id": "evt_000050-context",
+      "text": "Urban institutions and mobile pastoral lifeways were interconnected. Comparing Karakorum with contemporary cities challenges a simple division between a settled urban world and a separate nomadic one.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000050-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,201 CE",
+      "anchor": {
+        "year": 1201,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Thirteenth–fourteenth-century capital context; no exact foundation year is supplied.",
+      "conversionNote": "Thirteenth–fourteenth-century capital context; no exact foundation year is supplied.",
+      "dateClaimIds": [
+        "evt_000050-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,400 CE",
+      "anchor": {
+        "year": 1400,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Thirteenth–fourteenth-century capital context; no exact foundation year is supplied.",
+      "conversionNote": "Thirteenth–fourteenth-century capital context; no exact foundation year is supplied.",
+      "dateClaimIds": [
+        "evt_000050-date"
+      ]
+    }
+  },
+  "primaryRegion": "central-asia",
+  "subregion": "Steppe",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "Urban institutions and mobile pastoral lifeways were interconnected. Comparing Karakorum with contemporary cities challenges a simple division between a settled urban world and a separate nomadic one.",
+  "dateNote": "Thirteenth–fourteenth-century capital context; no exact foundation year is supplied.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000050"
+  ],
+  "alternativeTitles": []
+}

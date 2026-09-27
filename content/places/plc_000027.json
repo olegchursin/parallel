@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000027",
+  "preferredName": "Anatolia",
+  "placeType": "historical-place",
+  "regionIds": [
+    "west-asia"
+  ],
+  "sourceRefs": [
+    "src_000026"
+  ],
+  "modernLocator": "Anatolia"
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "ent_000024",
+  "slug": "world-health-organization",
+  "title": "World Health Organization",
+  "summary": "The WHO Constitution entered into force on 7 April 1948. The date marks the establishment of the World Health Organization as an international health institution.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "ent_000024-c1",
+      "sourceId": "src_000075",
+      "locator": "Constitution signed 22 July 1946; in force 7 April 1948",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ent_000024-occurrence",
+      "text": "The WHO Constitution entered into force on 7 April 1948. The date marks the establishment of the World Health Organization as an international health institution.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "ent_000024-c1"
+      ]
+    },
+    {
+      "id": "ent_000024-date",
+      "text": "Gregorian entry-into-force date.",
+      "claimType": "date",
+      "citationIds": [
+        "ent_000024-c1"
+      ]
+    },
+    {
+      "id": "ent_000024-context",
+      "text": "The legal founding is distinct from the 1946 signing and the first World Health Assembly. Institutional history helps place later campaigns in context.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "ent_000024-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "entity",
+  "preferredName": "World Health Organization",
+  "entityType": "institution",
+  "aliases": [
+    "World Health Organization",
+    "The World Health Organization comes into existence"
+  ],
+  "eventIds": [
+    "evt_000089",
+    "evt_000090",
+    "evt_000083",
+    "evt_000084",
+    "evt_000091"
+  ],
+  "existencePhases": [
+    {
+      "label": "Documented phase (not a claim to the complete lifespan)",
+      "time": {
+        "type": "point",
+        "when": {
+          "label": "7 Apr 1948 CE",
+          "anchor": {
+            "year": 1948,
+            "month": 4,
+            "day": 7,
+            "precision": "day"
+          },
+          "qualifier": "exact",
+          "sourceCalendar": "Gregorian",
+          "originalExpression": "Gregorian entry-into-force date.",
+          "conversionNote": "Gregorian entry-into-force date.",
+          "dateClaimIds": [
+            "ent_000024-date"
+          ]
+        }
+      }
+    }
+  ]
+}

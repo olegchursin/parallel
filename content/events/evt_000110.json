@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000110",
+  "slug": "new-zealand-extends-parliamentary-voting-to-women",
+  "title": "New Zealand extends parliamentary voting to women",
+  "summary": "The Electoral Act signed on 19 September 1893 extended parliamentary voting to eligible women in New Zealand, including Māori women.",
+  "regionIds": [
+    "oceania"
+  ],
+  "citations": [
+    {
+      "id": "evt_000110-c1",
+      "sourceId": "src_000091",
+      "locator": "Electoral Act signed 19 September 1893",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000110-occurrence",
+      "text": "The Electoral Act signed on 19 September 1893 extended parliamentary voting to eligible women in New Zealand, including Māori women.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000110-c1"
+      ]
+    },
+    {
+      "id": "evt_000110-date",
+      "text": "Date the Act became law.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000110-c1"
+      ]
+    },
+    {
+      "id": "evt_000110-context",
+      "text": "Eligibility still depended on the law’s other requirements and exclusions. A broad suffrage milestone should not be represented as universal adult voting without qualification.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000110-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "19 Sep 1893 CE",
+      "anchor": {
+        "year": 1893,
+        "month": 9,
+        "day": 19,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Date the Act became law.",
+      "conversionNote": "Date the Act became law.",
+      "dateClaimIds": [
+        "evt_000110-date"
+      ]
+    }
+  },
+  "primaryRegion": "oceania",
+  "subregion": "Aotearoa New Zealand",
+  "themeIds": [
+    "rights"
+  ],
+  "tier": "major",
+  "context": "Eligibility still depended on the law’s other requirements and exclusions. A broad suffrage milestone should not be represented as universal adult voting without qualification.",
+  "dateNote": "Date the Act became law.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000110"
+  ],
+  "alternativeTitles": []
+}

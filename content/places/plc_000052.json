@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000052",
+  "preferredName": "Mesoamerica",
+  "placeType": "historical-place",
+  "regionIds": [
+    "americas"
+  ],
+  "sourceRefs": [
+    "src_000048"
+  ],
+  "modernLocator": "Mesoamerica"
+}

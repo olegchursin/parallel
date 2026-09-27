@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000119",
+  "slug": "a-catechism-is-produced-in-kikongo",
+  "title": "A catechism is produced in Kikongo",
+  "summary": "A catechism in Kikongo appeared in 1624, according to the Mbanza Kongo heritage synthesis. It forms part of the history of religious exchange and written language in the Kongo kingdom.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000119-c1",
+      "sourceId": "src_000014",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000119-occurrence",
+      "text": "A catechism in Kikongo appeared in 1624, according to the Mbanza Kongo heritage synthesis. It forms part of the history of religious exchange and written language in the Kongo kingdom.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000119-c1"
+      ]
+    },
+    {
+      "id": "evt_000119-date",
+      "text": "Publication year supplied in the heritage synthesis.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000119-c1"
+      ]
+    },
+    {
+      "id": "evt_000119-context",
+      "text": "Textual production can illuminate African intellectual histories alongside architecture and political change. The entry does not claim this was the first use of written Kikongo.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000119-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1,624 CE",
+      "anchor": {
+        "year": 1624,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Publication year supplied in the heritage synthesis.",
+      "conversionNote": "Publication year supplied in the heritage synthesis.",
+      "dateClaimIds": [
+        "evt_000119-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "Central & Southern Africa",
+  "themeIds": [
+    "knowledge"
+  ],
+  "tier": "major",
+  "context": "Textual production can illuminate African intellectual histories alongside architecture and political change. The entry does not claim this was the first use of written Kikongo.",
+  "dateNote": "Publication year supplied in the heritage synthesis.",
+  "entityIds": [
+    "ent_000008"
+  ],
+  "placeIds": [
+    "plc_000119"
+  ],
+  "alternativeTitles": []
+}

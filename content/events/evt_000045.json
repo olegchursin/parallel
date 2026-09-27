@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000045",
+  "slug": "hoi-an-develops-as-an-international-port",
+  "title": "Hội An develops as an international port",
+  "summary": "Hội An on the Thu Bồn River linked local trade with wider Asian and overseas networks. Its streets and timber buildings preserve a commercial town shaped by several cultural communities.",
+  "regionIds": [
+    "southeast-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000045-c1",
+      "sourceId": "src_000042",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000045-occurrence",
+      "text": "Hội An on the Thu Bồn River linked local trade with wider Asian and overseas networks. Its streets and timber buildings preserve a commercial town shaped by several cultural communities.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000045-c1"
+      ]
+    },
+    {
+      "id": "evt_000045-date",
+      "text": "Fifteenth–nineteenth-century trading-port phase.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000045-c1"
+      ]
+    },
+    {
+      "id": "evt_000045-context",
+      "text": "Domestic buildings, markets and religious spaces make exchange visible beyond cargo alone. The city’s long trading period includes changing relationships rather than one fixed set of partners.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000045-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,401 CE",
+      "anchor": {
+        "year": 1401,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Fifteenth–nineteenth-century trading-port phase.",
+      "conversionNote": "Fifteenth–nineteenth-century trading-port phase.",
+      "dateClaimIds": [
+        "evt_000045-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,900 CE",
+      "anchor": {
+        "year": 1900,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Fifteenth–nineteenth-century trading-port phase.",
+      "conversionNote": "Fifteenth–nineteenth-century trading-port phase.",
+      "dateClaimIds": [
+        "evt_000045-date"
+      ]
+    }
+  },
+  "primaryRegion": "southeast-asia",
+  "subregion": "Mainland Southeast Asia",
+  "themeIds": [
+    "exchange"
+  ],
+  "tier": "major",
+  "context": "Domestic buildings, markets and religious spaces make exchange visible beyond cargo alone. The city’s long trading period includes changing relationships rather than one fixed set of partners.",
+  "dateNote": "Fifteenth–nineteenth-century trading-port phase.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000045"
+  ],
+  "alternativeTitles": []
+}

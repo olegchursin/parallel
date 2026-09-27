@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000083",
+  "slug": "smallpox-eradication-is-declared",
+  "title": "Smallpox eradication is declared",
+  "summary": "The World Health Assembly declared smallpox eradicated on 8 May 1980. The achievement followed international surveillance, vaccination and coordinated public-health work.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "evt_000083-c1",
+      "sourceId": "src_000072",
+      "locator": "8 May 1980 declaration; intensified programme in 1967",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000083-occurrence",
+      "text": "The World Health Assembly declared smallpox eradicated on 8 May 1980. The achievement followed international surveillance, vaccination and coordinated public-health work.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000083-c1"
+      ]
+    },
+    {
+      "id": "evt_000083-date",
+      "text": "Gregorian declaration date.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000083-c1"
+      ]
+    },
+    {
+      "id": "evt_000083-context",
+      "text": "A formal declaration is distinct from the date of the last infection. This milestone concerns smallpox specifically, not the end of infectious disease.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000083-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "8 May 1980 CE",
+      "anchor": {
+        "year": 1980,
+        "month": 5,
+        "day": 8,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Gregorian declaration date.",
+      "conversionNote": "Gregorian declaration date.",
+      "dateClaimIds": [
+        "evt_000083-date"
+      ]
+    }
+  },
+  "primaryRegion": "global",
+  "subregion": "Cross-regional",
+  "themeIds": [
+    "health"
+  ],
+  "tier": "major",
+  "context": "A formal declaration is distinct from the date of the last infection. This milestone concerns smallpox specifically, not the end of infectious disease.",
+  "dateNote": "Gregorian declaration date.",
+  "entityIds": [
+    "ent_000024"
+  ],
+  "placeIds": [
+    "plc_000083"
+  ],
+  "alternativeTitles": []
+}

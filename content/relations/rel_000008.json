@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "rel_000008",
+  "fromId": "evt_000085",
+  "toId": "evt_000086",
+  "relationType": "succeeded_by",
+  "direction": "directed",
+  "claim": "CERN’s public-domain release followed the initial Web project.",
+  "citations": [
+    {
+      "id": "rel_000008-c1",
+      "sourceId": "src_000073",
+      "locator": "1989 invention; 30 April 1993 public-domain release",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "rel_000008-c2",
+      "sourceId": "src_000073",
+      "locator": "1989 invention; 30 April 1993 public-domain release",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  }
+}

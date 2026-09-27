@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000039",
+  "slug": "horyu-ji-is-rebuilt-after-fire",
+  "title": "Hōryū-ji is rebuilt after fire",
+  "summary": "After a fire in 670, rebuilding at Hōryū-ji continued into the early eighth century. Surviving timber structures show adaptations of Buddhist architectural practices within the Japanese setting.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000039-c1",
+      "sourceId": "src_000037",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000039-occurrence",
+      "text": "After a fire in 670, rebuilding at Hōryū-ji continued into the early eighth century. Surviving timber structures show adaptations of Buddhist architectural practices within the Japanese setting.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000039-c1"
+      ]
+    },
+    {
+      "id": "evt_000039-date",
+      "text": "Rebuilding began after 670 and continued into the early eighth century; 725 is a coarse indexing bound for “early”, not a completion date.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000039-c1"
+      ]
+    },
+    {
+      "id": "evt_000039-context",
+      "text": "The history of a religious institution is longer than that of any one building. Dating the surviving structures separately helps avoid assigning the original foundation date to later woodwork.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000039-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 670 CE",
+      "anchor": {
+        "year": 670,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Rebuilding began after 670 and continued into the early eighth century; 725 is a coarse indexing bound for “early”, not a completion date.",
+      "conversionNote": "Rebuilding began after 670 and continued into the early eighth century; 725 is a coarse indexing bound for “early”, not a completion date.",
+      "dateClaimIds": [
+        "evt_000039-date"
+      ]
+    },
+    "end": {
+      "label": "c. 725 CE",
+      "anchor": {
+        "year": 725,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Rebuilding began after 670 and continued into the early eighth century; 725 is a coarse indexing bound for “early”, not a completion date.",
+      "conversionNote": "Rebuilding began after 670 and continued into the early eighth century; 725 is a coarse indexing bound for “early”, not a completion date.",
+      "dateClaimIds": [
+        "evt_000039-date"
+      ]
+    }
+  },
+  "primaryRegion": "east-asia",
+  "subregion": "Japan",
+  "themeIds": [
+    "belief"
+  ],
+  "tier": "major",
+  "context": "The history of a religious institution is longer than that of any one building. Dating the surviving structures separately helps avoid assigning the original foundation date to later woodwork.",
+  "dateNote": "Rebuilding began after 670 and continued into the early eighth century; 725 is a coarse indexing bound for “early”, not a completion date.",
+  "entityIds": [
+    "ent_000016"
+  ],
+  "placeIds": [
+    "plc_000039"
+  ],
+  "alternativeTitles": []
+}

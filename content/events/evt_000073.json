@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000073",
+  "slug": "the-gutenberg-bible-is-completed-at-mainz",
+  "title": "The Gutenberg Bible is completed at Mainz",
+  "summary": "The Gutenberg Bible was probably completed in Mainz late in 1455. Its production used movable metal type in a major early European printing project.",
+  "regionIds": [
+    "europe"
+  ],
+  "citations": [
+    {
+      "id": "evt_000073-c1",
+      "sourceId": "src_000066",
+      "locator": "Completion probably late in 1455",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000073-occurrence",
+      "text": "The Gutenberg Bible was probably completed in Mainz late in 1455. Its production used movable metal type in a major early European printing project.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000073-c1"
+      ]
+    },
+    {
+      "id": "evt_000073-date",
+      "text": "Probable completion year, not an exact day.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000073-c1"
+      ]
+    },
+    {
+      "id": "evt_000073-context",
+      "text": "This European milestone belongs alongside earlier East Asian printing histories. It is not a claim that Gutenberg invented printing everywhere or that textual reproduction began in Europe.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000073-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 1,455 CE",
+      "anchor": {
+        "year": 1455,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Probable completion year, not an exact day.",
+      "conversionNote": "Probable completion year, not an exact day.",
+      "dateClaimIds": [
+        "evt_000073-date"
+      ]
+    }
+  },
+  "primaryRegion": "europe",
+  "subregion": "Western Europe",
+  "themeIds": [
+    "knowledge"
+  ],
+  "tier": "major",
+  "context": "This European milestone belongs alongside earlier East Asian printing histories. It is not a claim that Gutenberg invented printing everywhere or that textual reproduction began in Europe.",
+  "dateNote": "Probable completion year, not an exact day.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000073"
+  ],
+  "alternativeTitles": [
+    "Gutenberg Bible",
+    "Mainz printing"
+  ]
+}

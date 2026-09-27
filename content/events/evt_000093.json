@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000093",
+  "slug": "the-paris-agreement-enters-into-force",
+  "title": "The Paris Agreement enters into force",
+  "summary": "The Paris Agreement entered into force on 4 November 2016. This legal milestone followed its adoption in December 2015.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "evt_000093-c1",
+      "sourceId": "src_000077",
+      "locator": "Adoption on 12 December 2015; entry into force 4 November 2016",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000093-occurrence",
+      "text": "The Paris Agreement entered into force on 4 November 2016. This legal milestone followed its adoption in December 2015.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000093-c1"
+      ]
+    },
+    {
+      "id": "evt_000093-date",
+      "text": "Entry-into-force date.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000093-c1"
+      ]
+    },
+    {
+      "id": "evt_000093-context",
+      "text": "Separating adoption from entry into force helps readers compare international agreements consistently. Neither date by itself measures implementation or environmental results.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000093-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "4 Nov 2016 CE",
+      "anchor": {
+        "year": 2016,
+        "month": 11,
+        "day": 4,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Entry-into-force date.",
+      "conversionNote": "Entry-into-force date.",
+      "dateClaimIds": [
+        "evt_000093-date"
+      ]
+    }
+  },
+  "primaryRegion": "global",
+  "subregion": "Cross-regional",
+  "themeIds": [
+    "environment"
+  ],
+  "tier": "major",
+  "context": "Separating adoption from entry into force helps readers compare international agreements consistently. Neither date by itself measures implementation or environmental results.",
+  "dateNote": "Entry-into-force date.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000093"
+  ],
+  "alternativeTitles": []
+}

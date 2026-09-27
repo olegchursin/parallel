@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000022",
+  "preferredName": "Iran & Arabia",
+  "placeType": "historical-place",
+  "regionIds": [
+    "west-asia"
+  ],
+  "sourceRefs": [
+    "src_000021"
+  ],
+  "modernLocator": "Iran & Arabia"
+}

@@ -1,0 +1,150 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "number",
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^rel_\\d{6}$"
+    },
+    "fromId": {
+      "type": "string"
+    },
+    "toId": {
+      "type": "string"
+    },
+    "relationType": {
+      "type": "string",
+      "enum": [
+        "part_of",
+        "succeeded_by",
+        "exchanged_with",
+        "transmitted_to",
+        "contributed_to",
+        "responded_to",
+        "compared_with"
+      ]
+    },
+    "direction": {
+      "type": "string",
+      "enum": [
+        "directed",
+        "symmetric"
+      ]
+    },
+    "claim": {
+      "type": "string"
+    },
+    "citations": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "sourceId": {
+            "type": "string",
+            "pattern": "^src_\\d{6}$"
+          },
+          "locator": {
+            "type": "string",
+            "minLength": 1
+          },
+          "supportRole": {
+            "type": "string",
+            "enum": [
+              "supports",
+              "qualifies",
+              "challenges"
+            ]
+          },
+          "note": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "id",
+          "sourceId",
+          "locator",
+          "supportRole",
+          "note"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "review": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "candidate",
+            "researching",
+            "drafted",
+            "evidence-checked",
+            "reviewed",
+            "published",
+            "withdrawn"
+          ]
+        },
+        "authoredBy": {
+          "type": "string"
+        },
+        "checkedBy": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reviewedAt": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "revision": {
+          "type": "integer",
+          "exclusiveMinimum": 0,
+          "maximum": 9007199254740991
+        },
+        "unresolvedIssues": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "corroboration": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "status",
+        "authoredBy",
+        "checkedBy",
+        "reviewedAt",
+        "revision",
+        "unresolvedIssues",
+        "corroboration"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "id",
+    "fromId",
+    "toId",
+    "relationType",
+    "direction",
+    "claim",
+    "citations",
+    "review"
+  ],
+  "additionalProperties": false
+}

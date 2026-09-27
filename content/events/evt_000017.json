@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000017",
+  "slug": "apartheid-imprisonment-on-robben-island",
+  "title": "Apartheid imprisonment on Robben Island",
+  "summary": "Robben Island’s maximum-security prison held political prisoners under apartheid. The buildings from this period now document confinement, resistance and the struggle against racial oppression in South Africa.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000017-c1",
+      "sourceId": "src_000016",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000017-occurrence",
+      "text": "Robben Island’s maximum-security prison held political prisoners under apartheid. The buildings from this period now document confinement, resistance and the struggle against racial oppression in South Africa.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000017-c1"
+      ]
+    },
+    {
+      "id": "evt_000017-date",
+      "text": "Source specifies the 1960s through the 1990s; endpoints are coarse, not exact opening and closure dates.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000017-c1"
+      ]
+    },
+    {
+      "id": "evt_000017-context",
+      "text": "The prison is one part of a much longer island history. Reading its material remains alongside the transition to inclusive elections helps distinguish experiences of imprisonment from the later commemoration of democracy.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000017-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,960 CE",
+      "anchor": {
+        "year": 1960,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Source specifies the 1960s through the 1990s; endpoints are coarse, not exact opening and closure dates.",
+      "conversionNote": "Source specifies the 1960s through the 1990s; endpoints are coarse, not exact opening and closure dates.",
+      "dateClaimIds": [
+        "evt_000017-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,999 CE",
+      "anchor": {
+        "year": 1999,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Source specifies the 1960s through the 1990s; endpoints are coarse, not exact opening and closure dates.",
+      "conversionNote": "Source specifies the 1960s through the 1990s; endpoints are coarse, not exact opening and closure dates.",
+      "dateClaimIds": [
+        "evt_000017-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "Central & Southern Africa",
+  "themeIds": [
+    "rights"
+  ],
+  "tier": "major",
+  "context": "The prison is one part of a much longer island history. Reading its material remains alongside the transition to inclusive elections helps distinguish experiences of imprisonment from the later commemoration of democracy.",
+  "dateNote": "Source specifies the 1960s through the 1990s; endpoints are coarse, not exact opening and closure dates.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000017"
+  ],
+  "alternativeTitles": []
+}

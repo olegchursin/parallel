@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "ent_000014",
+  "slug": "sanchi-buddhist-community",
+  "title": "Sanchi Buddhist community",
+  "summary": "The beginnings of Sanchi as a Buddhist sacred centre are attributed to the Mauryan emperor Aśoka. A pillar and brick stupa were followed by additions over many later periods.",
+  "regionIds": [
+    "south-asia"
+  ],
+  "citations": [
+    {
+      "id": "ent_000014-c1",
+      "sourceId": "src_000027",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ent_000014-occurrence",
+      "text": "The beginnings of Sanchi as a Buddhist sacred centre are attributed to the Mauryan emperor Aśoka. A pillar and brick stupa were followed by additions over many later periods.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "ent_000014-c1"
+      ]
+    },
+    {
+      "id": "ent_000014-date",
+      "text": "Third-century BCE attribution; individual surviving components are often later.",
+      "claimType": "date",
+      "citationIds": [
+        "ent_000014-c1"
+      ]
+    },
+    {
+      "id": "ent_000014-context",
+      "text": "Patronage links religious institutions with political power, but the monuments did not emerge in one completed form. Later enlargements should remain distinguishable from the early foundation associated with Aśoka.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "ent_000014-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "entity",
+  "preferredName": "Sanchi Buddhist community",
+  "entityType": "community",
+  "aliases": [
+    "Sanchi Buddhist community",
+    "Aśokan patronage at Sanchi"
+  ],
+  "eventIds": [
+    "evt_000028"
+  ],
+  "existencePhases": [
+    {
+      "label": "Documented phase (not a claim to the complete lifespan)",
+      "time": {
+        "type": "span",
+        "start": {
+          "label": "c. 300 BCE",
+          "anchor": {
+            "year": -299,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Third-century BCE attribution; individual surviving components are often later.",
+          "conversionNote": "Third-century BCE attribution; individual surviving components are often later.",
+          "dateClaimIds": [
+            "ent_000014-date"
+          ]
+        },
+        "end": {
+          "label": "c. 201 BCE",
+          "anchor": {
+            "year": -200,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Third-century BCE attribution; individual surviving components are often later.",
+          "conversionNote": "Third-century BCE attribution; individual surviving components are often later.",
+          "dateClaimIds": [
+            "ent_000014-date"
+          ]
+        }
+      }
+    }
+  ]
+}

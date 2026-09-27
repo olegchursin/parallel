@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000118",
+  "slug": "people-inhabit-monte-verde-in-southern-chile",
+  "title": "People inhabit Monte Verde in southern Chile",
+  "summary": "Monte Verde preserves evidence of dwellings, food remains and human activity in southern Chile around 14,800 years ago. The site offers a rich picture of adaptation to a forest environment.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "evt_000118-c1",
+      "sourceId": "src_000098",
+      "locator": "Description: calibrated radiocarbon age, about 14,800 years ago",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000118-occurrence",
+      "text": "Monte Verde preserves evidence of dwellings, food remains and human activity in southern Chile around 14,800 years ago. The site offers a rich picture of adaptation to a forest environment.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000118-c1"
+      ]
+    },
+    {
+      "id": "evt_000118-date",
+      "text": "Calibrated radiocarbon age as described by the nomination; rounded BCE anchor only. The page’s “years ago” reference epoch is not specified.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000118-c1"
+      ]
+    },
+    {
+      "id": "evt_000118-context",
+      "text": "Waterlogged preservation helps reveal materials that often disappear elsewhere. The evidence is important without establishing an exact first arrival date for all of the Americas.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000118-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 14,800 years ago",
+      "anchor": {
+        "year": -12799,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Calibrated radiocarbon age as described by the nomination; rounded BCE anchor only. The page’s “years ago” reference epoch is not specified.",
+      "conversionNote": "Calibrated radiocarbon age as described by the nomination; rounded BCE anchor only. The page’s “years ago” reference epoch is not specified.",
+      "dateClaimIds": [
+        "evt_000118-date"
+      ]
+    },
+    "scientificDating": {
+      "convention": "years-ago",
+      "expression": "Calibrated radiocarbon age as described by the nomination; rounded BCE anchor only. The page’s “years ago” reference epoch is not specified.",
+      "referenceYear": 2000,
+      "methodNote": "Rounded 2000 CE reference for layout only; the original expression and its limits are retained. This is not a radiocarbon calibration."
+    }
+  },
+  "primaryRegion": "americas",
+  "subregion": "South America",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "Waterlogged preservation helps reveal materials that often disappear elsewhere. The evidence is important without establishing an exact first arrival date for all of the Americas.",
+  "dateNote": "Calibrated radiocarbon age as described by the nomination; rounded BCE anchor only. The page’s “years ago” reference epoch is not specified.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000118"
+  ],
+  "alternativeTitles": []
+}

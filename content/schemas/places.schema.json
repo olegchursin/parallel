@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "number",
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^plc_\\d{6}$"
+    },
+    "preferredName": {
+      "type": "string"
+    },
+    "placeType": {
+      "type": "string",
+      "const": "historical-place"
+    },
+    "regionIds": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sourceRefs": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^src_\\d{6}$"
+      }
+    },
+    "modernLocator": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "id",
+    "preferredName",
+    "placeType",
+    "regionIds",
+    "sourceRefs",
+    "modernLocator"
+  ],
+  "additionalProperties": false
+}

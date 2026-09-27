@@ -1,0 +1,9 @@
+bun.lock
+src/routeTree.gen.ts
+src/generated/
+public/data/
+/content/
+tmp/
+dist/
+node_modules/
+.tools/

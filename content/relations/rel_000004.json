@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "rel_000004",
+  "fromId": "evt_000101",
+  "toId": "evt_000102",
+  "relationType": "contributed_to",
+  "direction": "directed",
+  "claim": "Fleming’s observation preceded the Oxford team’s therapeutic development, which required substantial further work.",
+  "citations": [
+    {
+      "id": "rel_000004-c1",
+      "sourceId": "src_000085",
+      "locator": "Fleming in 1928; Oxford team and Albert Alexander in 1941",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "rel_000004-c2",
+      "sourceId": "src_000085",
+      "locator": "Fleming in 1928; Oxford team and Albert Alexander in 1941",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  }
+}

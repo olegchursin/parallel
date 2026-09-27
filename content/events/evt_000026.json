@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000026",
+  "slug": "hagia-sophia-reshapes-constantinoples-skyline",
+  "title": "Hagia Sophia reshapes Constantinople’s skyline",
+  "summary": "The sixth-century Hagia Sophia became a major architectural monument in Constantinople, now Istanbul. Its large dome exemplifies the building and decorative expertise of the Eastern Roman capital.",
+  "regionIds": [
+    "west-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000026-c1",
+      "sourceId": "src_000025",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000026-occurrence",
+      "text": "The sixth-century Hagia Sophia became a major architectural monument in Constantinople, now Istanbul. Its large dome exemplifies the building and decorative expertise of the Eastern Roman capital.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000026-c1"
+      ]
+    },
+    {
+      "id": "evt_000026-date",
+      "text": "Century precision from the heritage overview; historical names are preserved alongside the modern locator.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000026-c1"
+      ]
+    },
+    {
+      "id": "evt_000026-context",
+      "text": "One building can have several religious and political histories. This record concerns the sixth-century architectural achievement and does not collapse later changes of use into its original construction.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000026-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 501 CE",
+      "anchor": {
+        "year": 501,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Century precision from the heritage overview; historical names are preserved alongside the modern locator.",
+      "conversionNote": "Century precision from the heritage overview; historical names are preserved alongside the modern locator.",
+      "dateClaimIds": [
+        "evt_000026-date"
+      ]
+    },
+    "end": {
+      "label": "c. 600 CE",
+      "anchor": {
+        "year": 600,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Century precision from the heritage overview; historical names are preserved alongside the modern locator.",
+      "conversionNote": "Century precision from the heritage overview; historical names are preserved alongside the modern locator.",
+      "dateClaimIds": [
+        "evt_000026-date"
+      ]
+    }
+  },
+  "primaryRegion": "west-asia",
+  "subregion": "Anatolia",
+  "themeIds": [
+    "arts"
+  ],
+  "tier": "major",
+  "context": "One building can have several religious and political histories. This record concerns the sixth-century architectural achievement and does not collapse later changes of use into its original construction.",
+  "dateNote": "Century precision from the heritage overview; historical names are preserved alongside the modern locator.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000026"
+  ],
+  "alternativeTitles": []
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000099",
+  "preferredName": "Western Europe",
+  "placeType": "historical-place",
+  "regionIds": [
+    "europe"
+  ],
+  "sourceRefs": [
+    "src_000083"
+  ],
+  "modernLocator": "Western Europe"
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000020",
+  "slug": "permanent-settlement-at-tell-es-sultan",
+  "title": "Permanent settlement at Tell es-Sultan",
+  "summary": "By the ninth and eighth millennia BCE, Tell es-Sultan near Jericho supported a substantial permanent settlement. Surviving walls, a ditch and a tower show coordinated work on shared structures.",
+  "regionIds": [
+    "west-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000020-c1",
+      "sourceId": "src_000019",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000020-occurrence",
+      "text": "By the ninth and eighth millennia BCE, Tell es-Sultan near Jericho supported a substantial permanent settlement. Surviving walls, a ditch and a tower show coordinated work on shared structures.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000020-c1"
+      ]
+    },
+    {
+      "id": "evt_000020-date",
+      "text": "Broad ninth–eighth-millennium evidence window; settlement began earlier.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000020-c1"
+      ]
+    },
+    {
+      "id": "evt_000020-context",
+      "text": "The settlement makes collective infrastructure visible in early village life. Its archaeological sequence includes many phases; the walls should not automatically be assigned to narratives written much later.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000020-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 9,000 BCE",
+      "anchor": {
+        "year": -8999,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Broad ninth–eighth-millennium evidence window; settlement began earlier.",
+      "conversionNote": "Broad ninth–eighth-millennium evidence window; settlement began earlier.",
+      "dateClaimIds": [
+        "evt_000020-date"
+      ]
+    },
+    "end": {
+      "label": "c. 7,001 BCE",
+      "anchor": {
+        "year": -7000,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Broad ninth–eighth-millennium evidence window; settlement began earlier.",
+      "conversionNote": "Broad ninth–eighth-millennium evidence window; settlement began earlier.",
+      "dateClaimIds": [
+        "evt_000020-date"
+      ]
+    }
+  },
+  "primaryRegion": "west-asia",
+  "subregion": "Levant",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "The settlement makes collective infrastructure visible in early village life. Its archaeological sequence includes many phases; the walls should not automatically be assigned to narratives written much later.",
+  "dateNote": "Broad ninth–eighth-millennium evidence window; settlement began earlier.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000020"
+  ],
+  "alternativeTitles": []
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000036",
+  "preferredName": "China",
+  "placeType": "historical-place",
+  "regionIds": [
+    "east-asia"
+  ],
+  "sourceRefs": [
+    "src_000034"
+  ],
+  "modernLocator": "China"
+}

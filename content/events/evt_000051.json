@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000051",
+  "slug": "teotihuacan-becomes-a-major-urban-centre",
+  "title": "Teotihuacan becomes a major urban centre",
+  "summary": "Teotihuacan in central Mexico developed monumental complexes and a planned urban landscape during the first to seventh centuries CE. Its influence extended through Mesoamerican cultural and artistic networks.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "evt_000051-c1",
+      "sourceId": "src_000047",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000051-occurrence",
+      "text": "Teotihuacan in central Mexico developed monumental complexes and a planned urban landscape during the first to seventh centuries CE. Its influence extended through Mesoamerican cultural and artistic networks.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000051-c1"
+      ]
+    },
+    {
+      "id": "evt_000051-date",
+      "text": "Broad urban development range; not a single founding event.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000051-c1"
+      ]
+    },
+    {
+      "id": "evt_000051-context",
+      "text": "The city offers a major urban comparison with contemporary centres in Eurasia and Africa. Its later name should not be mistaken for a secure identification of every community that built or inhabited it.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000051-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1 CE",
+      "anchor": {
+        "year": 1,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Broad urban development range; not a single founding event.",
+      "conversionNote": "Broad urban development range; not a single founding event.",
+      "dateClaimIds": [
+        "evt_000051-date"
+      ]
+    },
+    "end": {
+      "label": "c. 700 CE",
+      "anchor": {
+        "year": 700,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Broad urban development range; not a single founding event.",
+      "conversionNote": "Broad urban development range; not a single founding event.",
+      "dateClaimIds": [
+        "evt_000051-date"
+      ]
+    }
+  },
+  "primaryRegion": "americas",
+  "subregion": "Mesoamerica",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "The city offers a major urban comparison with contemporary centres in Eurasia and Africa. Its later name should not be mistaken for a secure identification of every community that built or inhabited it.",
+  "dateNote": "Broad urban development range; not a single founding event.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000051"
+  ],
+  "alternativeTitles": []
+}

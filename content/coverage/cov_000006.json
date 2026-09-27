@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "cov_000006",
+  "scope": "central-asia",
+  "limitation": "A selective institutional-source preview, not a representative survey. Heritage and formal institutions are overrepresented; an empty lane or time window does not mean an absence of history.",
+  "status": "research-preview",
+  "reviewedAt": null,
+  "missingTopics": [
+    "Regional-language scholarship",
+    "Everyday life and labour",
+    "Women and gender",
+    "Indigenous perspectives and oral histories",
+    "Independent expert review"
+  ]
+}

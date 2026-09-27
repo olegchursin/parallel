@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000119",
+  "preferredName": "Central & Southern Africa",
+  "placeType": "historical-place",
+  "regionIds": [
+    "africa"
+  ],
+  "sourceRefs": [
+    "src_000014"
+  ],
+  "modernLocator": "Central & Southern Africa"
+}

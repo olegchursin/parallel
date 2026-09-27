@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "per_000003",
+  "slug": "oracle-bone-writing-at-yin-xu",
+  "title": "Oracle-bone writing at Yin Xu",
+  "summary": "The late Shang capital near present-day Anyang preserved inscribed oracle bones alongside palaces, tombs and bronze objects. The inscriptions offer evidence of writing, divination and social organization.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "per_000003-c1",
+      "sourceId": "src_000003",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "per_000003-occurrence",
+      "text": "The late Shang capital near present-day Anyang preserved inscribed oracle bones alongside palaces, tombs and bronze objects. The inscriptions offer evidence of writing, divination and social organization.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "per_000003-c1"
+      ]
+    },
+    {
+      "id": "per_000003-date",
+      "text": "Site chronology from UNESCO; individual inscriptions are not all the same age.",
+      "claimType": "date",
+      "citationIds": [
+        "per_000003-c1"
+      ]
+    },
+    {
+      "id": "per_000003-context",
+      "text": "Written and material evidence meet at this site. Oracle-bone texts illuminate particular royal practices; they do not provide an unrestricted account of everyone living under Shang authority.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "per_000003-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "period",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,300 BCE",
+      "anchor": {
+        "year": -1299,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Site chronology from UNESCO; individual inscriptions are not all the same age.",
+      "conversionNote": "Site chronology from UNESCO; individual inscriptions are not all the same age.",
+      "dateClaimIds": [
+        "per_000003-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,046 BCE",
+      "anchor": {
+        "year": -1045,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Site chronology from UNESCO; individual inscriptions are not all the same age.",
+      "conversionNote": "Site chronology from UNESCO; individual inscriptions are not all the same age.",
+      "dateClaimIds": [
+        "per_000003-date"
+      ]
+    }
+  },
+  "periodType": "archaeological",
+  "displayOrder": 3,
+  "entityId": "ent_000003"
+}

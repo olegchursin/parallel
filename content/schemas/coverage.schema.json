@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "number",
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^cov_\\d{6}$"
+    },
+    "scope": {
+      "type": "string"
+    },
+    "limitation": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "const": "research-preview"
+    },
+    "reviewedAt": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "missingTopics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "id",
+    "scope",
+    "limitation",
+    "status",
+    "reviewedAt",
+    "missingTopics"
+  ],
+  "additionalProperties": false
+}

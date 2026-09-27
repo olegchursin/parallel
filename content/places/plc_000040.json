@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000040",
+  "preferredName": "Maritime Southeast Asia",
+  "placeType": "historical-place",
+  "regionIds": [
+    "southeast-asia"
+  ],
+  "sourceRefs": [
+    "src_000038"
+  ],
+  "modernLocator": "Maritime Southeast Asia"
+}

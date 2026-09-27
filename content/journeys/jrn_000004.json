@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "jrn_000004",
+  "slug": "words-blocks-and-movable-type",
+  "title": "Words, blocks and movable type",
+  "summary": "Read a connected collection of writing and printing histories.",
+  "regionIds": [
+    "west-asia",
+    "east-asia",
+    "europe",
+    "africa"
+  ],
+  "claims": [
+    {
+      "id": "jrn_000004-selection",
+      "text": "Curatorial selection of the cited events for comparative reading; no causal connection is implied by step order.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "jrn_000004-c1",
+        "jrn_000004-c2",
+        "jrn_000004-c3",
+        "jrn_000004-c4",
+        "jrn_000004-c5",
+        "jrn_000004-c6",
+        "jrn_000004-c7",
+        "jrn_000004-c8"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "id": "jrn_000004-c1",
+      "sourceId": "src_000064",
+      "locator": "Earliest cuneiform tablets, 3200–3000 BCE",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000004-c2",
+      "sourceId": "src_000003",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000004-c3",
+      "sourceId": "src_000067",
+      "locator": "Printing and dated colophon",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000004-c4",
+      "sourceId": "src_000100",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000004-c5",
+      "sourceId": "src_000069",
+      "locator": "Movable metal type printing in July 1377",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000004-c6",
+      "sourceId": "src_000066",
+      "locator": "Completion probably late in 1455",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000004-c7",
+      "sourceId": "src_000068",
+      "locator": "Completion in 1443; promulgation in 1446",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000004-c8",
+      "sourceId": "src_000014",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "journey",
+  "introduction": "Read a connected collection of writing and printing histories.",
+  "learningGoal": "Separate writing systems, reproduction technologies and preservation. This sequence does not assert direct transmission between every step.",
+  "steps": [
+    {
+      "eventId": "evt_000070",
+      "heading": "Early cuneiform records goods and allocations",
+      "note": "Evidence window for earliest surviving writing, not a precise invention date."
+    },
+    {
+      "eventId": "evt_000003",
+      "heading": "Oracle-bone writing at Yin Xu",
+      "note": "Site chronology from UNESCO; individual inscriptions are not all the same age."
+    },
+    {
+      "eventId": "evt_000074",
+      "heading": "A dated Diamond Sutra is printed",
+      "note": "The source converts the colophon to 11 May 868; this preview uses year precision because calendar-conversion details need further review."
+    },
+    {
+      "eventId": "evt_000077",
+      "heading": "The Tripitaka Koreana blocks are carved",
+      "note": "Source’s carving range."
+    },
+    {
+      "eventId": "evt_000076",
+      "heading": "Jikji is printed with movable metal type",
+      "note": "Source gives July 1377; year precision avoids an unreviewed calendar conversion."
+    },
+    {
+      "eventId": "evt_000073",
+      "heading": "The Gutenberg Bible is completed at Mainz",
+      "note": "Probable completion year, not an exact day."
+    },
+    {
+      "eventId": "evt_000075",
+      "heading": "Hunminjeongum announces the Korean alphabet",
+      "note": "Ninth lunar month of 1446 in the source; retained at year precision, without an invented Gregorian day."
+    },
+    {
+      "eventId": "evt_000119",
+      "heading": "A catechism is produced in Kikongo",
+      "note": "Publication year supplied in the heritage synthesis."
+    }
+  ],
+  "evidenceNote": "Research preview. Follow each step to its claim-level sources. Independent historical review is pending.",
+  "startingViewport": {
+    "from": "3500BCE",
+    "to": "1700CE"
+  }
+}

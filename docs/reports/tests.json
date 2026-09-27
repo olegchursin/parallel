@@ -1,0 +1,49 @@
+{
+  "verifiedAt": "2026-09-27T03:50:44.652Z",
+  "contentVersion": "v-ea50d793fcce8fa3",
+  "command": "./scripts/bun run verify:release",
+  "unitTests": {
+    "passed": 18
+  },
+  "browserTests": {
+    "startTime": "2026-09-27T03:49:59.731Z",
+    "duration": 33293.718,
+    "expected": 72,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0,
+    "projects": [
+      {
+        "name": "chromium",
+        "version": "153.0.8010.12",
+        "cases": 24,
+        "passed": 24
+      },
+      {
+        "name": "firefox",
+        "version": "155.0",
+        "cases": 24,
+        "passed": 24
+      },
+      {
+        "name": "webkit",
+        "version": "26.6",
+        "cases": 24,
+        "passed": 24
+      }
+    ]
+  },
+  "cssViewportWidths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "offlineMethod": {
+    "chromium": "Origin connections disabled plus browser offline emulation",
+    "firefox": "Origin connections disabled plus browser offline emulation",
+    "webkit": "Origin connections disabled; avoids Playwright WebKit offline emulation issue #42775"
+  },
+  "physicalDevicesTested": [],
+  "independentHistoricalReview": "Pending"
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000061",
+  "preferredName": "Mediterranean",
+  "placeType": "historical-place",
+  "regionIds": [
+    "europe"
+  ],
+  "sourceRefs": [
+    "src_000058"
+  ],
+  "modernLocator": "Mediterranean"
+}

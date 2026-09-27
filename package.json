@@ -1,0 +1,57 @@
+{
+  "name": "parallel-world-history",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "bun@1.4.2",
+  "scripts": {
+    "dev": "bun run content:build && vite --host 127.0.0.1",
+    "content:validate": "bun scripts/content/build.ts --validate",
+    "content:report": "bun scripts/content/build.ts --report",
+    "content:build": "bun scripts/content/build.ts",
+    "typecheck": "bun run content:build && tsc --noEmit",
+    "lint": "bun scripts/lint.ts",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "build": "bun run content:build && vite build && bun scripts/build-sw.ts",
+    "preview": "bun scripts/serve.ts",
+    "verify:release": "bun run typecheck && bun run lint && bun run test && bun run build && bun scripts/verify.ts && bun run test:e2e && bun run test:performance",
+    "format": "prettier --write src scripts tests *.ts *.json docs/*.md README.md",
+    "build:published": "CONTENT_MODE=production bun run build",
+    "test:install": "playwright install chromium firefox webkit",
+    "test:performance": "bun scripts/performance.ts"
+  },
+  "dependencies": {
+    "@tanstack/react-router": "1.170.39",
+    "@tanstack/react-start": "1.168.58",
+    "jsonc-parser": "3.3.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.13.0",
+    "@playwright/test": "1.63.0",
+    "@testing-library/jest-dom": "7.0.1",
+    "@testing-library/react": "16.3.3",
+    "@types/node": "26.6.3",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.1.1",
+    "bun-types": "1.4.2",
+    "jsdom": "30.1.1",
+    "lucide-react": "1.48.0",
+    "prettier": "3.6.2",
+    "typescript": "7.0.2",
+    "vite": "8.3.1",
+    "vitest": "5.0.2",
+    "workbox-build": "7.4.1",
+    "workbox-core": "7.4.1",
+    "workbox-precaching": "7.4.1",
+    "workbox-routing": "7.4.1"
+  },
+  "engines": {
+    "bun": "1.4.2",
+    "node": ">=22.12.0"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000091",
+  "slug": "who-characterizes-covid-19-as-a-pandemic",
+  "title": "WHO characterizes COVID-19 as a pandemic",
+  "summary": "On 11 March 2020, WHO characterized COVID-19 as a pandemic after assessing its international spread and severity. The statement addressed an already developing outbreak.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "evt_000091-c1",
+      "sourceId": "src_000076",
+      "locator": "Assessment that COVID-19 can be characterized as a pandemic",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000091-occurrence",
+      "text": "On 11 March 2020, WHO characterized COVID-19 as a pandemic after assessing its international spread and severity. The statement addressed an already developing outbreak.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000091-c1"
+      ]
+    },
+    {
+      "id": "evt_000091-date",
+      "text": "Date of the Director-General’s media briefing.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000091-c1"
+      ]
+    },
+    {
+      "id": "evt_000091-context",
+      "text": "The characterization is a communication milestone, not the first infection or a universal date for local public-health measures.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000091-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "11 Mar 2020 CE",
+      "anchor": {
+        "year": 2020,
+        "month": 3,
+        "day": 11,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Date of the Director-General’s media briefing.",
+      "conversionNote": "Date of the Director-General’s media briefing.",
+      "dateClaimIds": [
+        "evt_000091-date"
+      ]
+    }
+  },
+  "primaryRegion": "global",
+  "subregion": "Cross-regional",
+  "themeIds": [
+    "health"
+  ],
+  "tier": "major",
+  "context": "The characterization is a communication milestone, not the first infection or a universal date for local public-health measures.",
+  "dateNote": "Date of the Director-General’s media briefing.",
+  "entityIds": [
+    "ent_000024"
+  ],
+  "placeIds": [
+    "plc_000091"
+  ],
+  "alternativeTitles": []
+}

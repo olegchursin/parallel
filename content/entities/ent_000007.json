@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "ent_000007",
+  "slug": "aksum",
+  "title": "Aksum",
+  "summary": "Large carved stelae were erected at Aksum in the third and fourth centuries CE. Their architectural details and scale offer material evidence of the resources and craftsmanship of Aksumite society.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "ent_000007-c1",
+      "sourceId": "src_000008",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ent_000007-occurrence",
+      "text": "Large carved stelae were erected at Aksum in the third and fourth centuries CE. Their architectural details and scale offer material evidence of the resources and craftsmanship of Aksumite society.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "ent_000007-c1"
+      ]
+    },
+    {
+      "id": "ent_000007-date",
+      "text": "Third–fourth-century construction envelope; individual stelae have separate histories.",
+      "claimType": "date",
+      "citationIds": [
+        "ent_000007-c1"
+      ]
+    },
+    {
+      "id": "ent_000007-context",
+      "text": "These monuments are useful counterparts to contemporary monumental traditions elsewhere. Their survival does not mean the entire city was a cemetery: inscriptions, trade and religious change supply other parts of its history.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "ent_000007-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "entity",
+  "preferredName": "Aksum",
+  "entityType": "polity",
+  "aliases": [
+    "Aksum",
+    "Aksumite stelae mark monumental burials"
+  ],
+  "eventIds": [
+    "evt_000008"
+  ],
+  "existencePhases": [
+    {
+      "label": "Documented phase (not a claim to the complete lifespan)",
+      "time": {
+        "type": "span",
+        "start": {
+          "label": "c. 201 CE",
+          "anchor": {
+            "year": 201,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Third–fourth-century construction envelope; individual stelae have separate histories.",
+          "conversionNote": "Third–fourth-century construction envelope; individual stelae have separate histories.",
+          "dateClaimIds": [
+            "ent_000007-date"
+          ]
+        },
+        "end": {
+          "label": "c. 400 CE",
+          "anchor": {
+            "year": 400,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Third–fourth-century construction envelope; individual stelae have separate histories.",
+          "conversionNote": "Third–fourth-century construction envelope; individual stelae have separate histories.",
+          "dateClaimIds": [
+            "ent_000007-date"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000025",
+  "preferredName": "Mesopotamia",
+  "placeType": "historical-place",
+  "regionIds": [
+    "west-asia"
+  ],
+  "sourceRefs": [
+    "src_000024"
+  ],
+  "modernLocator": "Mesopotamia"
+}

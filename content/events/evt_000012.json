@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000012",
+  "slug": "swahili-merchants-connect-the-indian-ocean",
+  "title": "Swahili merchants connect the Indian Ocean",
+  "summary": "Kilwa’s merchants participated in Indian Ocean trade linking the East African coast with Arabia, India and China. Gold, ivory, ceramics and other goods moved through these overlapping commercial networks.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000012-c1",
+      "sourceId": "src_000012",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000012-occurrence",
+      "text": "Kilwa’s merchants participated in Indian Ocean trade linking the East African coast with Arabia, India and China. Gold, ivory, ceramics and other goods moved through these overlapping commercial networks.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000012-c1"
+      ]
+    },
+    {
+      "id": "evt_000012-date",
+      "text": "Thirteenth–sixteenth centuries describes the documented trading period, not all occupation.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000012-c1"
+      ]
+    },
+    {
+      "id": "evt_000012-context",
+      "text": "Trade goods provide evidence of connection beyond mere chronological coincidence. Kilwa should be understood as an active Swahili centre of commerce, with local institutions and architecture, rather than a passive stop on someone else’s route.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000012-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,201 CE",
+      "anchor": {
+        "year": 1201,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Thirteenth–sixteenth centuries describes the documented trading period, not all occupation.",
+      "conversionNote": "Thirteenth–sixteenth centuries describes the documented trading period, not all occupation.",
+      "dateClaimIds": [
+        "evt_000012-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,600 CE",
+      "anchor": {
+        "year": 1600,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Thirteenth–sixteenth centuries describes the documented trading period, not all occupation.",
+      "conversionNote": "Thirteenth–sixteenth centuries describes the documented trading period, not all occupation.",
+      "dateClaimIds": [
+        "evt_000012-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "East Africa",
+  "themeIds": [
+    "exchange"
+  ],
+  "tier": "major",
+  "context": "Trade goods provide evidence of connection beyond mere chronological coincidence. Kilwa should be understood as an active Swahili centre of commerce, with local institutions and architecture, rather than a passive stop on someone else’s route.",
+  "dateNote": "Thirteenth–sixteenth centuries describes the documented trading period, not all occupation.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000012"
+  ],
+  "alternativeTitles": []
+}

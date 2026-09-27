@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "jrn_000002",
+  "slug": "many-paths-to-the-city",
+  "title": "Many paths to the city",
+  "summary": "Explore how communities organized water, work and shared spaces.",
+  "regionIds": [
+    "west-asia",
+    "americas",
+    "south-asia",
+    "east-asia"
+  ],
+  "claims": [
+    {
+      "id": "jrn_000002-selection",
+      "text": "Curatorial selection of the cited events for comparative reading; no causal connection is implied by step order.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "jrn_000002-c1",
+        "jrn_000002-c2",
+        "jrn_000002-c3",
+        "jrn_000002-c4",
+        "jrn_000002-c5",
+        "jrn_000002-c6",
+        "jrn_000002-c7"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "id": "jrn_000002-c1",
+      "sourceId": "src_000063",
+      "locator": "Urban development around 3200 BCE",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000002-c2",
+      "sourceId": "src_000001",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000002-c3",
+      "sourceId": "src_000002",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000002-c4",
+      "sourceId": "src_000034",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000002-c5",
+      "sourceId": "src_000047",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000002-c6",
+      "sourceId": "src_000062",
+      "locator": "Great houses, approximately 850–1250",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000002-c7",
+      "sourceId": "src_000049",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "journey",
+  "introduction": "Explore how communities organized water, work and shared spaces.",
+  "learningGoal": "Compare urban forms without assuming one universal sequence or a single origin.",
+  "steps": [
+    {
+      "eventId": "evt_000069",
+      "heading": "Uruk grows into a large city",
+      "note": "Approximate urban development milestone; no exact foundation date."
+    },
+    {
+      "eventId": "evt_000001",
+      "heading": "Caral’s monumental city takes shape",
+      "note": "The source’s radiocarbon-based site-development range is approximate; it is not the lifespan of a named dynasty."
+    },
+    {
+      "eventId": "evt_000002",
+      "heading": "Dholavira adapts a city to scarce water",
+      "note": "Occupation range for this city, not the duration of the entire Indus civilization."
+    },
+    {
+      "eventId": "evt_000036",
+      "heading": "Liangzhu develops rice-based urban institutions",
+      "note": "Approximate archaeological range; not a sequence of precisely dated rulers."
+    },
+    {
+      "eventId": "evt_000051",
+      "heading": "Teotihuacan becomes a major urban centre",
+      "note": "Broad urban development range; not a single founding event."
+    },
+    {
+      "eventId": "evt_000068",
+      "heading": "Great houses rise in Chaco Canyon",
+      "note": "Approximate construction and occupation phase."
+    },
+    {
+      "eventId": "evt_000053",
+      "heading": "Cahokia reaches a major urban peak",
+      "note": "Peak-period range, not all occupation of the site."
+    }
+  ],
+  "evidenceNote": "Research preview. Follow each step to its claim-level sources. Independent historical review is pending.",
+  "startingViewport": {
+    "from": "4000BCE",
+    "to": "1400CE"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000064",
+  "preferredName": "Southern Africa",
+  "placeType": "historical-place",
+  "regionIds": [
+    "africa"
+  ],
+  "sourceRefs": [
+    "src_000060"
+  ],
+  "modernLocator": "Southern Africa"
+}

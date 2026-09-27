@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000064",
+  "slug": "coastal-communities-gather-shellfish",
+  "title": "Coastal communities gather shellfish",
+  "summary": "Evidence summarized by the Smithsonian indicates that people collected and cooked shellfish about 164,000 years ago. Coastal resources formed part of early human subsistence.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000064-c1",
+      "sourceId": "src_000060",
+      "locator": "When lived; Overview; Survival",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000064-occurrence",
+      "text": "Evidence summarized by the Smithsonian indicates that people collected and cooked shellfish about 164,000 years ago. Coastal resources formed part of early human subsistence.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000064-c1"
+      ]
+    },
+    {
+      "id": "evt_000064-date",
+      "text": "Rounded layout anchor for the source’s “164,000 years ago”; no exact calendar year is known.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000064-c1"
+      ]
+    },
+    {
+      "id": "evt_000064-context",
+      "text": "Food practices reveal human history beyond political institutions. Archaeological survival shapes what can be known; the earliest currently recognized evidence need not be the first occasion of a practice.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000064-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 164,000 years ago",
+      "anchor": {
+        "year": -161999,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Rounded layout anchor for the source’s “164,000 years ago”; no exact calendar year is known.",
+      "conversionNote": "Rounded layout anchor for the source’s “164,000 years ago”; no exact calendar year is known.",
+      "dateClaimIds": [
+        "evt_000064-date"
+      ]
+    },
+    "scientificDating": {
+      "convention": "years-ago",
+      "expression": "Rounded layout anchor for the source’s “164,000 years ago”; no exact calendar year is known.",
+      "referenceYear": 2000,
+      "methodNote": "Rounded 2000 CE reference for layout only; the original expression and its limits are retained. This is not a radiocarbon calibration."
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "Southern Africa",
+  "themeIds": [
+    "environment"
+  ],
+  "tier": "major",
+  "context": "Food practices reveal human history beyond political institutions. Archaeological survival shapes what can be known; the earliest currently recognized evidence need not be the first occasion of a practice.",
+  "dateNote": "Rounded layout anchor for the source’s “164,000 years ago”; no exact calendar year is known.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000064"
+  ],
+  "alternativeTitles": []
+}

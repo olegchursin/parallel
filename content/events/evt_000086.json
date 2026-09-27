@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000086",
+  "slug": "cern-releases-web-software-to-the-public-domain",
+  "title": "CERN releases Web software to the public domain",
+  "summary": "CERN placed World Wide Web software in the public domain on 30 April 1993. The release allowed others to use and develop the technology.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "evt_000086-c1",
+      "sourceId": "src_000073",
+      "locator": "1989 invention; 30 April 1993 public-domain release",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000086-occurrence",
+      "text": "CERN placed World Wide Web software in the public domain on 30 April 1993. The release allowed others to use and develop the technology.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000086-c1"
+      ]
+    },
+    {
+      "id": "evt_000086-date",
+      "text": "Gregorian release date.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000086-c1"
+      ]
+    },
+    {
+      "id": "evt_000086-context",
+      "text": "Institutional decisions about access can matter alongside technical invention. This milestone follows the 1989 proposal and should be dated separately.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000086-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "30 Apr 1993 CE",
+      "anchor": {
+        "year": 1993,
+        "month": 4,
+        "day": 30,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Gregorian release date.",
+      "conversionNote": "Gregorian release date.",
+      "dateClaimIds": [
+        "evt_000086-date"
+      ]
+    }
+  },
+  "primaryRegion": "global",
+  "subregion": "Cross-regional",
+  "themeIds": [
+    "knowledge"
+  ],
+  "tier": "major",
+  "context": "Institutional decisions about access can matter alongside technical invention. This milestone follows the 1989 proposal and should be dated separately.",
+  "dateNote": "Gregorian release date.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000086"
+  ],
+  "alternativeTitles": []
+}

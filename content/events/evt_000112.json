@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000112",
+  "slug": "apollo-11-lands-people-on-the-moon",
+  "title": "Apollo 11 lands people on the Moon",
+  "summary": "Apollo 11’s lunar module landed on the Moon on 20 July 1969. Neil Armstrong and Buzz Aldrin explored the surface while Michael Collins remained in lunar orbit.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "evt_000112-c1",
+      "sourceId": "src_000093",
+      "locator": "Eagle landing on 20 July 1969; Armstrong, Aldrin and Collins",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000112-occurrence",
+      "text": "Apollo 11’s lunar module landed on the Moon on 20 July 1969. Neil Armstrong and Buzz Aldrin explored the surface while Michael Collins remained in lunar orbit.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000112-c1"
+      ]
+    },
+    {
+      "id": "evt_000112-date",
+      "text": "Landing date is 20 July in both UTC and US Eastern time.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000112-c1"
+      ]
+    },
+    {
+      "id": "evt_000112-context",
+      "text": "The landing and first step have different timestamps. This record dates the landing; the first step fell on 21 July in UTC, though still 20 July in US Eastern time.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000112-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "20 Jul 1969 CE",
+      "anchor": {
+        "year": 1969,
+        "month": 7,
+        "day": 20,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Landing date is 20 July in both UTC and US Eastern time.",
+      "conversionNote": "Landing date is 20 July in both UTC and US Eastern time.",
+      "dateClaimIds": [
+        "evt_000112-date"
+      ]
+    }
+  },
+  "primaryRegion": "global",
+  "subregion": "Cross-regional",
+  "themeIds": [
+    "knowledge"
+  ],
+  "tier": "major",
+  "context": "The landing and first step have different timestamps. This record dates the landing; the first step fell on 21 July in UTC, though still 20 July in US Eastern time.",
+  "dateNote": "Landing date is 20 July in both UTC and US Eastern time.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000112"
+  ],
+  "alternativeTitles": []
+}

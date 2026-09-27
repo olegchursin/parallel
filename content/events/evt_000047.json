@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000047",
+  "slug": "timurid-samarkand-becomes-a-monumental-capital",
+  "title": "Timurid Samarkand becomes a monumental capital",
+  "summary": "Samarkand experienced major development during the fourteenth and fifteenth centuries under Timurid rule. Its monumental ensembles include religious buildings, tombs and an observatory associated with Ulugh Beg.",
+  "regionIds": [
+    "central-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000047-c1",
+      "sourceId": "src_000043",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000047-occurrence",
+      "text": "Samarkand experienced major development during the fourteenth and fifteenth centuries under Timurid rule. Its monumental ensembles include religious buildings, tombs and an observatory associated with Ulugh Beg.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000047-c1"
+      ]
+    },
+    {
+      "id": "evt_000047-date",
+      "text": "Fourteenth–fifteenth-century development envelope; individual monuments require narrower dating.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000047-c1"
+      ]
+    },
+    {
+      "id": "evt_000047-context",
+      "text": "Architecture and scholarship can be read together without reducing a city to its rulers. This phase belongs within a much longer urban sequence extending back to ancient Afrasiab.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000047-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,301 CE",
+      "anchor": {
+        "year": 1301,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Fourteenth–fifteenth-century development envelope; individual monuments require narrower dating.",
+      "conversionNote": "Fourteenth–fifteenth-century development envelope; individual monuments require narrower dating.",
+      "dateClaimIds": [
+        "evt_000047-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,500 CE",
+      "anchor": {
+        "year": 1500,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Fourteenth–fifteenth-century development envelope; individual monuments require narrower dating.",
+      "conversionNote": "Fourteenth–fifteenth-century development envelope; individual monuments require narrower dating.",
+      "dateClaimIds": [
+        "evt_000047-date"
+      ]
+    }
+  },
+  "primaryRegion": "central-asia",
+  "subregion": "Central Asia",
+  "themeIds": [
+    "arts"
+  ],
+  "tier": "major",
+  "context": "Architecture and scholarship can be read together without reducing a city to its rulers. This phase belongs within a much longer urban sequence extending back to ancient Afrasiab.",
+  "dateNote": "Fourteenth–fifteenth-century development envelope; individual monuments require narrower dating.",
+  "entityIds": [
+    "ent_000019"
+  ],
+  "placeIds": [
+    "plc_000047"
+  ],
+  "alternativeTitles": []
+}

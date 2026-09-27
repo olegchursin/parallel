@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000023",
+  "slug": "babylon-becomes-an-imperial-capital",
+  "title": "Babylon becomes an imperial capital",
+  "summary": "Babylon served as the capital of the Neo-Babylonian Empire between 626 and 539 BCE. Walls, gates, palaces and temples preserve traces of a city with a much longer history.",
+  "regionIds": [
+    "west-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000023-c1",
+      "sourceId": "src_000022",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000023-occurrence",
+      "text": "Babylon served as the capital of the Neo-Babylonian Empire between 626 and 539 BCE. Walls, gates, palaces and temples preserve traces of a city with a much longer history.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000023-c1"
+      ]
+    },
+    {
+      "id": "evt_000023-date",
+      "text": "Conventional imperial phase, not the foundation and abandonment of Babylon.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000023-c1"
+      ]
+    },
+    {
+      "id": "evt_000023-context",
+      "text": "A capital’s imperial phase is not the lifespan of its population or culture. This band can be compared with other states while keeping earlier and later Babylonian histories outside its stated scope.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000023-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 626 BCE",
+      "anchor": {
+        "year": -625,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Conventional imperial phase, not the foundation and abandonment of Babylon.",
+      "conversionNote": "Conventional imperial phase, not the foundation and abandonment of Babylon.",
+      "dateClaimIds": [
+        "evt_000023-date"
+      ]
+    },
+    "end": {
+      "label": "c. 539 BCE",
+      "anchor": {
+        "year": -538,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Conventional imperial phase, not the foundation and abandonment of Babylon.",
+      "conversionNote": "Conventional imperial phase, not the foundation and abandonment of Babylon.",
+      "dateClaimIds": [
+        "evt_000023-date"
+      ]
+    }
+  },
+  "primaryRegion": "west-asia",
+  "subregion": "Mesopotamia",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "A capital’s imperial phase is not the lifespan of its population or culture. This band can be compared with other states while keeping earlier and later Babylonian histories outside its stated scope.",
+  "dateNote": "Conventional imperial phase, not the foundation and abandonment of Babylon.",
+  "entityIds": [
+    "ent_000011"
+  ],
+  "placeIds": [
+    "plc_000023"
+  ],
+  "alternativeTitles": []
+}

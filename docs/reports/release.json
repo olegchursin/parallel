@@ -1,0 +1,132 @@
+{
+  "verifiedAt": "2026-09-27T03:49:59.434Z",
+  "contentVersion": "v-ea50d793fcce8fa3",
+  "mode": "preview",
+  "prerenderedPages": 257,
+  "verifiedArtifacts": 150,
+  "budgets": {
+    "allRouteJavaScriptGzipBytes": 170830,
+    "initialCssGzipBytes": 10932,
+    "overviewGzipBytes": 20360,
+    "searchGzipBytes": 11851,
+    "allTextGzipBytes": 173747,
+    "landingHtmlGzipBytes": 40872,
+    "conservativeLandingGzipBytes": 222634,
+    "limits": {
+      "initialJs": 250000,
+      "css": 40000,
+      "overview": 250000,
+      "search": 500000,
+      "allText": 15000000,
+      "landing": 1000000
+    }
+  },
+  "scripts": [
+    {
+      "name": "Details-CCtnt045.js",
+      "gzipBytes": 3383
+    },
+    {
+      "name": "not-found-i5RsCZif.js",
+      "gzipBytes": 111
+    },
+    {
+      "name": "search-T-kDvfJZ.js",
+      "gzipBytes": 171
+    },
+    {
+      "name": "sources._sourceId-DV5-lHSL.js",
+      "gzipBytes": 171
+    },
+    {
+      "name": "App-BsI2L0l4.js",
+      "gzipBytes": 43305
+    },
+    {
+      "name": "journeys._journeyId-BJz0HgVF.js",
+      "gzipBytes": 169
+    },
+    {
+      "name": "routes-nmkqabVv.js",
+      "gzipBytes": 2189
+    },
+    {
+      "name": "lazyRouteComponent-BJLiG3ts.js",
+      "gzipBytes": 1430
+    },
+    {
+      "name": "entities._entityId-DtWM3YHd.js",
+      "gzipBytes": 167
+    },
+    {
+      "name": "timeline-C13m8qgT.js",
+      "gzipBytes": 89
+    },
+    {
+      "name": "offline-DdkvFgum.js",
+      "gzipBytes": 163
+    },
+    {
+      "name": "Timeline-BFRpBNzl.js",
+      "gzipBytes": 6302
+    },
+    {
+      "name": "shield-check-DF9s39xC.js",
+      "gzipBytes": 266
+    },
+    {
+      "name": "events._eventId-DgbkwDIQ.js",
+      "gzipBytes": 378
+    },
+    {
+      "name": "bookmarks-VlDbVsg4.js",
+      "gzipBytes": 86
+    },
+    {
+      "name": "Pages-DRbCEZGK.js",
+      "gzipBytes": 8055
+    },
+    {
+      "name": "downloads-BBc5eINb.js",
+      "gzipBytes": 86
+    },
+    {
+      "name": "jsx-runtime-Cx0BB4qO.js",
+      "gzipBytes": 612
+    },
+    {
+      "name": "move-horizontal-Bx0amXKx.js",
+      "gzipBytes": 454
+    },
+    {
+      "name": "index-Dnd98mAF.js",
+      "gzipBytes": 102051
+    },
+    {
+      "name": "arrow-right-DixCychh.js",
+      "gzipBytes": 178
+    },
+    {
+      "name": "content-FXcRKYbD.js",
+      "gzipBytes": 931
+    },
+    {
+      "name": "about-CEaV_xJs.js",
+      "gzipBytes": 83
+    }
+  ],
+  "styles": [
+    {
+      "name": "index-C-Rn5RfD.css",
+      "gzipBytes": 1182
+    },
+    {
+      "name": "App-DZBESQ6V.css",
+      "gzipBytes": 9750
+    }
+  ],
+  "limitsOfVerification": [
+    "Gzip sizes measured from built bytes; the local server is uncompressed. Configure gzip/Brotli on a deployment host.",
+    "Real-device p75 Web Vitals and installed-PWA performance are not measured by this check."
+  ]
+}

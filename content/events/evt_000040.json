@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000040",
+  "slug": "borobudur-is-built-in-central-java",
+  "title": "Borobudur is built in central Java",
+  "summary": "Builders in central Java created Borobudur’s terraced Buddhist monument in the eighth and ninth centuries. Reliefs, stupas and the arrangement of its levels give architectural form to religious ideas.",
+  "regionIds": [
+    "southeast-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000040-c1",
+      "sourceId": "src_000038",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000040-occurrence",
+      "text": "Builders in central Java created Borobudur’s terraced Buddhist monument in the eighth and ninth centuries. Reliefs, stupas and the arrangement of its levels give architectural form to religious ideas.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000040-c1"
+      ]
+    },
+    {
+      "id": "evt_000040-date",
+      "text": "Eighth–ninth-century construction range from the institutional description.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000040-c1"
+      ]
+    },
+    {
+      "id": "evt_000040-context",
+      "text": "The monument shows a distinctive regional expression of Buddhism. Comparison with other Buddhist sites should preserve differences in setting, patronage and form rather than assuming a single architectural tradition.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000040-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 701 CE",
+      "anchor": {
+        "year": 701,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Eighth–ninth-century construction range from the institutional description.",
+      "conversionNote": "Eighth–ninth-century construction range from the institutional description.",
+      "dateClaimIds": [
+        "evt_000040-date"
+      ]
+    },
+    "end": {
+      "label": "c. 900 CE",
+      "anchor": {
+        "year": 900,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Eighth–ninth-century construction range from the institutional description.",
+      "conversionNote": "Eighth–ninth-century construction range from the institutional description.",
+      "dateClaimIds": [
+        "evt_000040-date"
+      ]
+    }
+  },
+  "primaryRegion": "southeast-asia",
+  "subregion": "Maritime Southeast Asia",
+  "themeIds": [
+    "belief"
+  ],
+  "tier": "major",
+  "context": "The monument shows a distinctive regional expression of Buddhism. Comparison with other Buddhist sites should preserve differences in setting, patronage and form rather than assuming a single architectural tradition.",
+  "dateNote": "Eighth–ninth-century construction range from the institutional description.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000040"
+  ],
+  "alternativeTitles": []
+}

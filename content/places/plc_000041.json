@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000041",
+  "preferredName": "Mainland Southeast Asia",
+  "placeType": "historical-place",
+  "regionIds": [
+    "southeast-asia"
+  ],
+  "sourceRefs": [
+    "src_000039"
+  ],
+  "modernLocator": "Mainland Southeast Asia"
+}

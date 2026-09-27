@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "jrn_000003",
+  "slug": "the-world-around-1200",
+  "title": "The world around 1200",
+  "summary": "Look sideways across a world of cities, sacred places and exchange.",
+  "regionIds": [
+    "southeast-asia",
+    "africa",
+    "central-asia",
+    "americas",
+    "oceania"
+  ],
+  "claims": [
+    {
+      "id": "jrn_000003-selection",
+      "text": "Curatorial selection of the cited events for comparative reading; no causal connection is implied by step order.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "jrn_000003-c1",
+        "jrn_000003-c2",
+        "jrn_000003-c3",
+        "jrn_000003-c4",
+        "jrn_000003-c5",
+        "jrn_000003-c6",
+        "jrn_000003-c7",
+        "jrn_000003-c8"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "id": "jrn_000003-c1",
+      "sourceId": "src_000004",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000003-c2",
+      "sourceId": "src_000005",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000003-c3",
+      "sourceId": "src_000009",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000003-c4",
+      "sourceId": "src_000039",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000003-c5",
+      "sourceId": "src_000045",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000003-c6",
+      "sourceId": "src_000049",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000003-c7",
+      "sourceId": "src_000055",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000003-c8",
+      "sourceId": "src_000046",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "journey",
+  "introduction": "Look sideways across a world of cities, sacred places and exchange.",
+  "learningGoal": "Distinguish supported contemporaneity, possible overlap and nearby developments. Some broad phases extend beyond 1200.",
+  "steps": [
+    {
+      "eventId": "evt_000004",
+      "heading": "Angkor’s cities and water networks grow",
+      "note": "Ninth–fifteenth centuries; conventional century bounds are indexing envelopes."
+    },
+    {
+      "eventId": "evt_000005",
+      "heading": "Great Zimbabwe becomes a trading centre",
+      "note": "Approximate building range; the site includes earlier occupation and later activity."
+    },
+    {
+      "eventId": "evt_000009",
+      "heading": "Churches are carved from living rock",
+      "note": "The institutional description spans twelfth- and thirteenth-century attributions; no exact foundation year is asserted."
+    },
+    {
+      "eventId": "evt_000041",
+      "heading": "Temple building flourishes at Bagan",
+      "note": "Peak building and political period; later worship and settlement continued."
+    },
+    {
+      "eventId": "evt_000049",
+      "heading": "Merv flourishes under Seljuk rule",
+      "note": "Eleventh–twelfth-century Seljuk phase; not all occupation of the Murgab oasis."
+    },
+    {
+      "eventId": "evt_000053",
+      "heading": "Cahokia reaches a major urban peak",
+      "note": "Peak-period range, not all occupation of the site."
+    },
+    {
+      "eventId": "evt_000058",
+      "heading": "Nan Madol’s stone islets are constructed",
+      "note": "Approximate building range from the site description."
+    },
+    {
+      "eventId": "evt_000050",
+      "heading": "Karakorum becomes a Mongol imperial centre",
+      "note": "Thirteenth–fourteenth-century capital context; no exact foundation year is supplied."
+    }
+  ],
+  "evidenceNote": "Research preview. Follow each step to its claim-level sources. Independent historical review is pending.",
+  "startingViewport": {
+    "from": "1000CE",
+    "to": "1400CE"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000099",
+  "slug": "the-french-assembly-adopts-a-declaration-of-rights",
+  "title": "The French assembly adopts a declaration of rights",
+  "summary": "The French National Assembly voted on the articles of the Declaration of the Rights of Man and of the Citizen during 20–26 August 1789.",
+  "regionIds": [
+    "europe"
+  ],
+  "citations": [
+    {
+      "id": "evt_000099-c1",
+      "sourceId": "src_000083",
+      "locator": "Articles voted 20–26 August 1789",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000099-occurrence",
+      "text": "The French National Assembly voted on the articles of the Declaration of the Rights of Man and of the Citizen during 20–26 August 1789.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000099-c1"
+      ]
+    },
+    {
+      "id": "evt_000099-date",
+      "text": "Voting sequence across several days, not one instant.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000099-c1"
+      ]
+    },
+    {
+      "id": "evt_000099-context",
+      "text": "The declaration articulated principles of political and civil rights. Its words should not be mistaken for immediate, equal enjoyment of those rights by every inhabitant.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000099-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "20 Aug 1789 CE",
+      "anchor": {
+        "year": 1789,
+        "month": 8,
+        "day": 20,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Voting sequence across several days, not one instant.",
+      "conversionNote": "Voting sequence across several days, not one instant.",
+      "dateClaimIds": [
+        "evt_000099-date"
+      ]
+    },
+    "end": {
+      "label": "26 Aug 1789 CE",
+      "anchor": {
+        "year": 1789,
+        "month": 8,
+        "day": 26,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Voting sequence across several days, not one instant.",
+      "conversionNote": "Voting sequence across several days, not one instant.",
+      "dateClaimIds": [
+        "evt_000099-date"
+      ]
+    }
+  },
+  "primaryRegion": "europe",
+  "subregion": "Western Europe",
+  "themeIds": [
+    "rights"
+  ],
+  "tier": "major",
+  "context": "The declaration articulated principles of political and civil rights. Its words should not be mistaken for immediate, equal enjoyment of those rights by every inhabitant.",
+  "dateNote": "Voting sequence across several days, not one instant.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000099"
+  ],
+  "alternativeTitles": []
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000013",
+  "slug": "husuni-kubwa-is-built-at-kilwa",
+  "title": "Husuni Kubwa is built at Kilwa",
+  "summary": "The Husuni Kubwa palace at Kilwa Kisiwani was built in the early fourteenth century. Its surviving structures include an octagonal bathing pool within a substantial coastal architectural complex.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000013-c1",
+      "sourceId": "src_000012",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000013-occurrence",
+      "text": "The Husuni Kubwa palace at Kilwa Kisiwani was built in the early fourteenth century. Its surviving structures include an octagonal bathing pool within a substantial coastal architectural complex.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000013-c1"
+      ]
+    },
+    {
+      "id": "evt_000013-date",
+      "text": "UNESCO gives approximately 1310–1333 for construction.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000013-c1"
+      ]
+    },
+    {
+      "id": "evt_000013-context",
+      "text": "The palace offers a closer view of the wealth and building practices associated with a Swahili trading city. It belongs within Kilwa’s longer history rather than representing the beginning of the settlement.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000013-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,310 CE",
+      "anchor": {
+        "year": 1310,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "UNESCO gives approximately 1310–1333 for construction.",
+      "conversionNote": "UNESCO gives approximately 1310–1333 for construction.",
+      "dateClaimIds": [
+        "evt_000013-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,333 CE",
+      "anchor": {
+        "year": 1333,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "UNESCO gives approximately 1310–1333 for construction.",
+      "conversionNote": "UNESCO gives approximately 1310–1333 for construction.",
+      "dateClaimIds": [
+        "evt_000013-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "East Africa",
+  "themeIds": [
+    "arts"
+  ],
+  "tier": "major",
+  "context": "The palace offers a closer view of the wealth and building practices associated with a Swahili trading city. It belongs within Kilwa’s longer history rather than representing the beginning of the settlement.",
+  "dateNote": "UNESCO gives approximately 1310–1333 for construction.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000013"
+  ],
+  "alternativeTitles": []
+}

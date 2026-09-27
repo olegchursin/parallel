@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "per_000002",
+  "slug": "dholavira-adapts-a-city-to-scarce-water",
+  "title": "Dholavira adapts a city to scarce water",
+  "summary": "At Dholavira in present-day Gujarat, a Harappan community developed reservoirs, fortified districts and craft workshops. The city’s water management responded to a dry environment supplied by seasonal streams.",
+  "regionIds": [
+    "south-asia"
+  ],
+  "citations": [
+    {
+      "id": "per_000002-c1",
+      "sourceId": "src_000002",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "per_000002-occurrence",
+      "text": "At Dholavira in present-day Gujarat, a Harappan community developed reservoirs, fortified districts and craft workshops. The city’s water management responded to a dry environment supplied by seasonal streams.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "per_000002-c1"
+      ]
+    },
+    {
+      "id": "per_000002-date",
+      "text": "Occupation range for this city, not the duration of the entire Indus civilization.",
+      "claimType": "date",
+      "citationIds": [
+        "per_000002-c1"
+      ]
+    },
+    {
+      "id": "per_000002-context",
+      "text": "Water infrastructure offers a way to compare urban communities beyond rulers and battles. The archaeological site also preserves evidence of trade with other Harappan cities, Mesopotamia and the Oman peninsula.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "per_000002-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "period",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 3,000 BCE",
+      "anchor": {
+        "year": -2999,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Occupation range for this city, not the duration of the entire Indus civilization.",
+      "conversionNote": "Occupation range for this city, not the duration of the entire Indus civilization.",
+      "dateClaimIds": [
+        "per_000002-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,500 BCE",
+      "anchor": {
+        "year": -1499,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Occupation range for this city, not the duration of the entire Indus civilization.",
+      "conversionNote": "Occupation range for this city, not the duration of the entire Indus civilization.",
+      "dateClaimIds": [
+        "per_000002-date"
+      ]
+    }
+  },
+  "periodType": "archaeological",
+  "displayOrder": 2,
+  "entityId": "ent_000002"
+}

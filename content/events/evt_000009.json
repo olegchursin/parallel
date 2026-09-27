@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000009",
+  "slug": "churches-are-carved-from-living-rock",
+  "title": "Churches are carved from living rock",
+  "summary": "At Lalibela in Ethiopia, builders carved churches directly into rock, connecting them with trenches and passages. The ensemble became an important setting for Christian pilgrimage and religious practice.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000009-c1",
+      "sourceId": "src_000009",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000009-occurrence",
+      "text": "At Lalibela in Ethiopia, builders carved churches directly into rock, connecting them with trenches and passages. The ensemble became an important setting for Christian pilgrimage and religious practice.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000009-c1"
+      ]
+    },
+    {
+      "id": "evt_000009-date",
+      "text": "The institutional description spans twelfth- and thirteenth-century attributions; no exact foundation year is asserted.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000009-c1"
+      ]
+    },
+    {
+      "id": "evt_000009-context",
+      "text": "Excavated architecture invites comparison with other rock-cut religious sites. Its historical interpretation also requires distinguishing attributed royal patronage from the individual construction phases of the churches.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000009-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,101 CE",
+      "anchor": {
+        "year": 1101,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "The institutional description spans twelfth- and thirteenth-century attributions; no exact foundation year is asserted.",
+      "conversionNote": "The institutional description spans twelfth- and thirteenth-century attributions; no exact foundation year is asserted.",
+      "dateClaimIds": [
+        "evt_000009-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,300 CE",
+      "anchor": {
+        "year": 1300,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "The institutional description spans twelfth- and thirteenth-century attributions; no exact foundation year is asserted.",
+      "conversionNote": "The institutional description spans twelfth- and thirteenth-century attributions; no exact foundation year is asserted.",
+      "dateClaimIds": [
+        "evt_000009-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "East Africa",
+  "themeIds": [
+    "belief"
+  ],
+  "tier": "major",
+  "context": "Excavated architecture invites comparison with other rock-cut religious sites. Its historical interpretation also requires distinguishing attributed royal patronage from the individual construction phases of the churches.",
+  "dateNote": "The institutional description spans twelfth- and thirteenth-century attributions; no exact foundation year is asserted.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000009"
+  ],
+  "alternativeTitles": []
+}

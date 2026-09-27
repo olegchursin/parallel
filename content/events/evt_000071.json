@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000071",
+  "slug": "the-western-han-dynasty-governs-in-china",
+  "title": "The Western Han dynasty governs in China",
+  "summary": "The Western Han dynasty governed from 206 BCE to 9 CE. The period is one phase of Han rule, followed by an interruption before the Eastern Han.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000071-c1",
+      "sourceId": "src_000065",
+      "locator": "Western and Eastern Han chronology",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000071-occurrence",
+      "text": "The Western Han dynasty governed from 206 BCE to 9 CE. The period is one phase of Han rule, followed by an interruption before the Eastern Han.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000071-c1"
+      ]
+    },
+    {
+      "id": "evt_000071-date",
+      "text": "Conventional dynastic year bounds; year 1 BCE directly precedes 1 CE.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000071-c1"
+      ]
+    },
+    {
+      "id": "evt_000071-context",
+      "text": "Separate phases prevent a dynasty from appearing as an uninterrupted political span. The conventional sequence organizes comparison without implying that all cultural practices changed with a ruler.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000071-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "206 BCE",
+      "anchor": {
+        "year": -205,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Conventional dynastic year bounds; year 1 BCE directly precedes 1 CE.",
+      "conversionNote": "Conventional dynastic year bounds; year 1 BCE directly precedes 1 CE.",
+      "dateClaimIds": [
+        "evt_000071-date"
+      ]
+    },
+    "end": {
+      "label": "9 CE",
+      "anchor": {
+        "year": 9,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Conventional dynastic year bounds; year 1 BCE directly precedes 1 CE.",
+      "conversionNote": "Conventional dynastic year bounds; year 1 BCE directly precedes 1 CE.",
+      "dateClaimIds": [
+        "evt_000071-date"
+      ]
+    }
+  },
+  "primaryRegion": "east-asia",
+  "subregion": "China",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "Separate phases prevent a dynasty from appearing as an uninterrupted political span. The conventional sequence organizes comparison without implying that all cultural practices changed with a ruler.",
+  "dateNote": "Conventional dynastic year bounds; year 1 BCE directly precedes 1 CE.",
+  "entityIds": [
+    "ent_000015"
+  ],
+  "placeIds": [
+    "plc_000071"
+  ],
+  "alternativeTitles": []
+}

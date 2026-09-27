@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000113",
+  "slug": "yuri-gagarin-completes-a-human-orbital-flight",
+  "title": "Yuri Gagarin completes a human orbital flight",
+  "summary": "Yuri Gagarin completed an orbit of Earth aboard Vostok 1 on 12 April 1961. The Soviet mission became a major milestone in human spaceflight.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "evt_000113-c1",
+      "sourceId": "src_000094",
+      "locator": "Vostok 1, 12 April 1961",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000113-occurrence",
+      "text": "Yuri Gagarin completed an orbit of Earth aboard Vostok 1 on 12 April 1961. The Soviet mission became a major milestone in human spaceflight.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000113-c1"
+      ]
+    },
+    {
+      "id": "evt_000113-date",
+      "text": "Gregorian mission date.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000113-c1"
+      ]
+    },
+    {
+      "id": "evt_000113-context",
+      "text": "Orbital flight and a later lunar landing are distinct achievements. The timeline places both in view without treating technological history as an inevitable sequence.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000113-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "12 Apr 1961 CE",
+      "anchor": {
+        "year": 1961,
+        "month": 4,
+        "day": 12,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Gregorian mission date.",
+      "conversionNote": "Gregorian mission date.",
+      "dateClaimIds": [
+        "evt_000113-date"
+      ]
+    }
+  },
+  "primaryRegion": "global",
+  "subregion": "Cross-regional",
+  "themeIds": [
+    "knowledge"
+  ],
+  "tier": "major",
+  "context": "Orbital flight and a later lunar landing are distinct achievements. The timeline places both in view without treating technological history as an inevitable sequence.",
+  "dateNote": "Gregorian mission date.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000113"
+  ],
+  "alternativeTitles": []
+}

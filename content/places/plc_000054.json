@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000054",
+  "preferredName": "North America",
+  "placeType": "historical-place",
+  "regionIds": [
+    "americas"
+  ],
+  "sourceRefs": [
+    "src_000050"
+  ],
+  "modernLocator": "North America"
+}

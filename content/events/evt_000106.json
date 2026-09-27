@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000106",
+  "slug": "indias-constitution-comes-into-effect",
+  "title": "India’s Constitution comes into effect",
+  "summary": "India’s Constitution came fully into effect on 26 January 1950. This followed its adoption in November 1949 and the earlier commencement of some provisions.",
+  "regionIds": [
+    "south-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000106-c1",
+      "sourceId": "src_000088",
+      "locator": "Page 117: independence, Constitution and Election Commission dates",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000106-occurrence",
+      "text": "India’s Constitution came fully into effect on 26 January 1950. This followed its adoption in November 1949 and the earlier commencement of some provisions.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000106-c1"
+      ]
+    },
+    {
+      "id": "evt_000106-date",
+      "text": "Date of general commencement.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000106-c1"
+      ]
+    },
+    {
+      "id": "evt_000106-context",
+      "text": "Adoption, commencement and independence are separate constitutional milestones. Keeping them distinct avoids compressing several political changes into one date.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000106-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "26 Jan 1950 CE",
+      "anchor": {
+        "year": 1950,
+        "month": 1,
+        "day": 26,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Date of general commencement.",
+      "conversionNote": "Date of general commencement.",
+      "dateClaimIds": [
+        "evt_000106-date"
+      ]
+    }
+  },
+  "primaryRegion": "south-asia",
+  "subregion": "Indian subcontinent",
+  "themeIds": [
+    "rights"
+  ],
+  "tier": "major",
+  "context": "Adoption, commencement and independence are separate constitutional milestones. Keeping them distinct avoids compressing several political changes into one date.",
+  "dateNote": "Date of general commencement.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000106"
+  ],
+  "alternativeTitles": []
+}

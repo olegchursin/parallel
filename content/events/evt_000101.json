@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000101",
+  "slug": "fleming-observes-penicillins-antibacterial-effect",
+  "title": "Fleming observes penicillin’s antibacterial effect",
+  "summary": "Alexander Fleming observed an antibacterial effect associated with Penicillium mould in 1928. The finding preceded the later work needed to develop penicillin for treatment.",
+  "regionIds": [
+    "europe"
+  ],
+  "citations": [
+    {
+      "id": "evt_000101-c1",
+      "sourceId": "src_000085",
+      "locator": "Fleming in 1928; Oxford team and Albert Alexander in 1941",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000101-occurrence",
+      "text": "Alexander Fleming observed an antibacterial effect associated with Penicillium mould in 1928. The finding preceded the later work needed to develop penicillin for treatment.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000101-c1"
+      ]
+    },
+    {
+      "id": "evt_000101-date",
+      "text": "Observation year, not the start of general clinical availability.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000101-c1"
+      ]
+    },
+    {
+      "id": "evt_000101-context",
+      "text": "Discovery, clinical use and large-scale production are separate stages. A single discovery date cannot stand for the entire history of an antibiotic.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000101-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1,928 CE",
+      "anchor": {
+        "year": 1928,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Observation year, not the start of general clinical availability.",
+      "conversionNote": "Observation year, not the start of general clinical availability.",
+      "dateClaimIds": [
+        "evt_000101-date"
+      ]
+    }
+  },
+  "primaryRegion": "europe",
+  "subregion": "Northern Europe",
+  "themeIds": [
+    "health"
+  ],
+  "tier": "major",
+  "context": "Discovery, clinical use and large-scale production are separate stages. A single discovery date cannot stand for the entire history of an antibiotic.",
+  "dateNote": "Observation year, not the start of general clinical availability.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000101"
+  ],
+  "alternativeTitles": []
+}

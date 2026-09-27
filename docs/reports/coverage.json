@@ -1,0 +1,78 @@
+{
+  "contentVersion": "v-ea50d793fcce8fa3",
+  "mode": "preview",
+  "counts": {
+    "events": 120,
+    "entities": 25,
+    "periods": 15,
+    "journeys": 6,
+    "sources": 100,
+    "published": 0
+  },
+  "statusCounts": {
+    "evidence-checked": 120
+  },
+  "byWindow": {
+    "Before 10,000 BCE": 5,
+    "10,000–3000 BCE": 8,
+    "3000–1200 BCE": 6,
+    "1200–500 BCE": 4,
+    "500 BCE–500 CE": 17,
+    "500–1000 CE": 9,
+    "1000–1450 CE": 23,
+    "1450–1750 CE": 9,
+    "1750–1914 CE": 11,
+    "1914–1945 CE": 5,
+    "1945–1991 CE": 17,
+    "1991–2025 CE": 6
+  },
+  "byRegion": {
+    "Africa": 17,
+    "West Asia": 12,
+    "Europe": 12,
+    "South Asia": 12,
+    "East Asia": 16,
+    "Central & North Asia": 6,
+    "Southeast Asia": 7,
+    "The Americas": 16,
+    "Oceania": 8,
+    "Across the world": 14
+  },
+  "nonPoliticalPercent": 79,
+  "sourceFamilies": [
+    "unesco",
+    "smithsonian",
+    "nma",
+    "nps",
+    "met",
+    "loc",
+    "bl",
+    "who",
+    "cern",
+    "un",
+    "unfccc",
+    "nara",
+    "state",
+    "elysee",
+    "nhm",
+    "smg",
+    "pib",
+    "govza",
+    "nzhistory",
+    "nasa",
+    "govkz",
+    "hiroshima",
+    "acp"
+  ],
+  "catalogGzipBytes": 20360,
+  "searchGzipBytes": 11851,
+  "maxDetailGzipBytes": 4105,
+  "allTextGzipBytes": 173747,
+  "allTextBytes": 723578,
+  "warnings": [
+    "Independent historical review is pending.",
+    "Heritage institutions dominate ancient and medieval coverage; regional scholarship, women’s histories and everyday life need expansion.",
+    "Short preview contexts are not full scholarly essays."
+  ],
+  "cutoff": "2025-12-31"
+}

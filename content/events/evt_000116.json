@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000116",
+  "slug": "war-breaks-out-on-the-korean-peninsula",
+  "title": "War breaks out on the Korean Peninsula",
+  "summary": "North Korean forces crossed into South Korea on 25 June 1950. The invasion began the Korean War’s major conventional fighting phase.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000116-c1",
+      "sourceId": "src_000097",
+      "locator": "25 June 1950 invasion; 27 July 1953 armistice",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000116-occurrence",
+      "text": "North Korean forces crossed into South Korea on 25 June 1950. The invasion began the Korean War’s major conventional fighting phase.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000116-c1"
+      ]
+    },
+    {
+      "id": "evt_000116-date",
+      "text": "Date of invasion, not the origin of every earlier conflict on the peninsula.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000116-c1"
+      ]
+    },
+    {
+      "id": "evt_000116-context",
+      "text": "The source is a US memorial institution and offers a particular perspective. Regional and civilian accounts are needed to broaden the preview.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000116-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "25 Jun 1950 CE",
+      "anchor": {
+        "year": 1950,
+        "month": 6,
+        "day": 25,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Date of invasion, not the origin of every earlier conflict on the peninsula.",
+      "conversionNote": "Date of invasion, not the origin of every earlier conflict on the peninsula.",
+      "dateClaimIds": [
+        "evt_000116-date"
+      ]
+    }
+  },
+  "primaryRegion": "east-asia",
+  "subregion": "Korea",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "The source is a US memorial institution and offers a particular perspective. Regional and civilian accounts are needed to broaden the preview.",
+  "dateNote": "Date of invasion, not the origin of every earlier conflict on the peninsula.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000116"
+  ],
+  "alternativeTitles": []
+}

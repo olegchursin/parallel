@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "ent_000023",
+  "slug": "saudeleur-centre-at-nan-madol",
+  "title": "Saudeleur centre at Nan Madol",
+  "summary": "Builders off Pohnpei created artificial islets with basalt and coral walls at Nan Madol. Palaces, temples, tombs and residential areas formed a ceremonial centre associated with the Saudeleur dynasty.",
+  "regionIds": [
+    "oceania"
+  ],
+  "citations": [
+    {
+      "id": "ent_000023-c1",
+      "sourceId": "src_000055",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ent_000023-occurrence",
+      "text": "Builders off Pohnpei created artificial islets with basalt and coral walls at Nan Madol. Palaces, temples, tombs and residential areas formed a ceremonial centre associated with the Saudeleur dynasty.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "ent_000023-c1"
+      ]
+    },
+    {
+      "id": "ent_000023-date",
+      "text": "Approximate building range from the site description.",
+      "claimType": "date",
+      "citationIds": [
+        "ent_000023-c1"
+      ]
+    },
+    {
+      "id": "ent_000023-context",
+      "text": "The complex shows substantial technical skill and organized labour in Pacific island societies. Comparing it with contemporary monumental centres elsewhere does not require treating island history as peripheral.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "ent_000023-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "entity",
+  "preferredName": "Saudeleur centre at Nan Madol",
+  "entityType": "polity",
+  "aliases": [
+    "Saudeleur centre at Nan Madol",
+    "Nan Madol’s stone islets are constructed"
+  ],
+  "eventIds": [
+    "evt_000058"
+  ],
+  "existencePhases": [
+    {
+      "label": "Documented phase (not a claim to the complete lifespan)",
+      "time": {
+        "type": "span",
+        "start": {
+          "label": "c. 1,200 CE",
+          "anchor": {
+            "year": 1200,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Approximate building range from the site description.",
+          "conversionNote": "Approximate building range from the site description.",
+          "dateClaimIds": [
+            "ent_000023-date"
+          ]
+        },
+        "end": {
+          "label": "c. 1,500 CE",
+          "anchor": {
+            "year": 1500,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Approximate building range from the site description.",
+          "conversionNote": "Approximate building range from the site description.",
+          "dateClaimIds": [
+            "ent_000023-date"
+          ]
+        }
+      }
+    }
+  ]
+}

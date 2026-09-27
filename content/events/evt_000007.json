@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000007",
+  "slug": "royal-burials-concentrate-at-meroe",
+  "title": "Royal burials concentrate at Meroe",
+  "summary": "From the third century BCE, Meroe became the site of most royal burials in the kingdom of Kush. Pyramids and associated structures formed part of a larger urban and religious landscape.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000007-c1",
+      "sourceId": "src_000007",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000007-occurrence",
+      "text": "From the third century BCE, Meroe became the site of most royal burials in the kingdom of Kush. Pyramids and associated structures formed part of a larger urban and religious landscape.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000007-c1"
+      ]
+    },
+    {
+      "id": "evt_000007-date",
+      "text": "The source dates this development to the third century BCE, not a particular year.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000007-c1"
+      ]
+    },
+    {
+      "id": "evt_000007-context",
+      "text": "Kushite monuments place the Nile within an African history broader than Egypt alone. Their form can be compared with other burial traditions while keeping the distinct political and cultural setting visible.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000007-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 300 BCE",
+      "anchor": {
+        "year": -299,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "The source dates this development to the third century BCE, not a particular year.",
+      "conversionNote": "The source dates this development to the third century BCE, not a particular year.",
+      "dateClaimIds": [
+        "evt_000007-date"
+      ]
+    },
+    "end": {
+      "label": "c. 201 BCE",
+      "anchor": {
+        "year": -200,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "The source dates this development to the third century BCE, not a particular year.",
+      "conversionNote": "The source dates this development to the third century BCE, not a particular year.",
+      "dateClaimIds": [
+        "evt_000007-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "North Africa",
+  "themeIds": [
+    "belief"
+  ],
+  "tier": "major",
+  "context": "Kushite monuments place the Nile within an African history broader than Egypt alone. Their form can be compared with other burial traditions while keeping the distinct political and cultural setting visible.",
+  "dateNote": "The source dates this development to the third century BCE, not a particular year.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000007"
+  ],
+  "alternativeTitles": []
+}

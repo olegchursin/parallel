@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000056",
+  "slug": "colonial-mexico-city-replaces-tenochtitlan",
+  "title": "Colonial Mexico City replaces Tenochtitlan",
+  "summary": "Spanish conquerors destroyed Tenochtitlan and built colonial Mexico City over its remains in the sixteenth century. Surviving structures and the surrounding lake landscape preserve traces of successive urban worlds.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "evt_000056-c1",
+      "sourceId": "src_000052",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000056-occurrence",
+      "text": "Spanish conquerors destroyed Tenochtitlan and built colonial Mexico City over its remains in the sixteenth century. Surviving structures and the surrounding lake landscape preserve traces of successive urban worlds.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000056-c1"
+      ]
+    },
+    {
+      "id": "evt_000056-date",
+      "text": "Sixteenth-century transformation; individual episodes require more specific records.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000056-c1"
+      ]
+    },
+    {
+      "id": "evt_000056-context",
+      "text": "This transition joins urban history with conquest and displacement. Earlier Indigenous settlement and engineering are essential to understanding the colonial city, rather than merely a prelude to it.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000056-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,501 CE",
+      "anchor": {
+        "year": 1501,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Sixteenth-century transformation; individual episodes require more specific records.",
+      "conversionNote": "Sixteenth-century transformation; individual episodes require more specific records.",
+      "dateClaimIds": [
+        "evt_000056-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,600 CE",
+      "anchor": {
+        "year": 1600,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Sixteenth-century transformation; individual episodes require more specific records.",
+      "conversionNote": "Sixteenth-century transformation; individual episodes require more specific records.",
+      "dateClaimIds": [
+        "evt_000056-date"
+      ]
+    }
+  },
+  "primaryRegion": "americas",
+  "subregion": "Mesoamerica",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "This transition joins urban history with conquest and displacement. Earlier Indigenous settlement and engineering are essential to understanding the colonial city, rather than merely a prelude to it.",
+  "dateNote": "Sixteenth-century transformation; individual episodes require more specific records.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000056"
+  ],
+  "alternativeTitles": []
+}

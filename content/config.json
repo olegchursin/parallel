@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "mode": "preview",
+  "corpusCutoff": "2025-12-31",
+  "note": "Explicitly enables evidence-checked research content. CONTENT_MODE=production overrides this setting and allows published records only."
+}

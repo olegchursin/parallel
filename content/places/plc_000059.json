@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000059",
+  "preferredName": "Pacific Islands",
+  "placeType": "historical-place",
+  "regionIds": [
+    "oceania"
+  ],
+  "sourceRefs": [
+    "src_000056"
+  ],
+  "modernLocator": "Pacific Islands"
+}

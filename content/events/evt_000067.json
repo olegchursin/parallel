@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000067",
+  "slug": "cultivation-transforms-the-kuk-wetlands",
+  "title": "Cultivation transforms the Kuk wetlands",
+  "summary": "At Kuk in the highlands of New Guinea, archaeological traces show the development of plant cultivation and wetland modification. UNESCO describes a transformation toward agriculture around 6,500 years ago.",
+  "regionIds": [
+    "oceania"
+  ],
+  "citations": [
+    {
+      "id": "evt_000067-c1",
+      "sourceId": "src_000054",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000067-occurrence",
+      "text": "At Kuk in the highlands of New Guinea, archaeological traces show the development of plant cultivation and wetland modification. UNESCO describes a transformation toward agriculture around 6,500 years ago.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000067-c1"
+      ]
+    },
+    {
+      "id": "evt_000067-date",
+      "text": "Approximate 6,500 years-ago statement; rounded 4,500 BCE anchor. Earlier wetland activity is distinct.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000067-c1"
+      ]
+    },
+    {
+      "id": "evt_000067-context",
+      "text": "Drainage and cultivation offer evidence for a regional history of farming. This record is one comparison point, not a claim that all agriculture came from a single origin.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000067-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 6,500 years ago",
+      "anchor": {
+        "year": -4499,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate 6,500 years-ago statement; rounded 4,500 BCE anchor. Earlier wetland activity is distinct.",
+      "conversionNote": "Approximate 6,500 years-ago statement; rounded 4,500 BCE anchor. Earlier wetland activity is distinct.",
+      "dateClaimIds": [
+        "evt_000067-date"
+      ]
+    },
+    "scientificDating": {
+      "convention": "years-ago",
+      "expression": "Approximate 6,500 years-ago statement; rounded 4,500 BCE anchor. Earlier wetland activity is distinct.",
+      "referenceYear": 2000,
+      "methodNote": "Rounded 2000 CE reference for layout only; the original expression and its limits are retained. This is not a radiocarbon calibration."
+    }
+  },
+  "primaryRegion": "oceania",
+  "subregion": "New Guinea",
+  "themeIds": [
+    "environment"
+  ],
+  "tier": "major",
+  "context": "Drainage and cultivation offer evidence for a regional history of farming. This record is one comparison point, not a claim that all agriculture came from a single origin.",
+  "dateNote": "Approximate 6,500 years-ago statement; rounded 4,500 BCE anchor. Earlier wetland activity is distinct.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000067"
+  ],
+  "alternativeTitles": []
+}

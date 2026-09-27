@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000058",
+  "slug": "nan-madols-stone-islets-are-constructed",
+  "title": "Nan Madol’s stone islets are constructed",
+  "summary": "Builders off Pohnpei created artificial islets with basalt and coral walls at Nan Madol. Palaces, temples, tombs and residential areas formed a ceremonial centre associated with the Saudeleur dynasty.",
+  "regionIds": [
+    "oceania"
+  ],
+  "citations": [
+    {
+      "id": "evt_000058-c1",
+      "sourceId": "src_000055",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000058-occurrence",
+      "text": "Builders off Pohnpei created artificial islets with basalt and coral walls at Nan Madol. Palaces, temples, tombs and residential areas formed a ceremonial centre associated with the Saudeleur dynasty.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000058-c1"
+      ]
+    },
+    {
+      "id": "evt_000058-date",
+      "text": "Approximate building range from the site description.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000058-c1"
+      ]
+    },
+    {
+      "id": "evt_000058-context",
+      "text": "The complex shows substantial technical skill and organized labour in Pacific island societies. Comparing it with contemporary monumental centres elsewhere does not require treating island history as peripheral.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000058-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,200 CE",
+      "anchor": {
+        "year": 1200,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate building range from the site description.",
+      "conversionNote": "Approximate building range from the site description.",
+      "dateClaimIds": [
+        "evt_000058-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,500 CE",
+      "anchor": {
+        "year": 1500,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate building range from the site description.",
+      "conversionNote": "Approximate building range from the site description.",
+      "dateClaimIds": [
+        "evt_000058-date"
+      ]
+    }
+  },
+  "primaryRegion": "oceania",
+  "subregion": "Pacific Islands",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "The complex shows substantial technical skill and organized labour in Pacific island societies. Comparing it with contemporary monumental centres elsewhere does not require treating island history as peripheral.",
+  "dateNote": "Approximate building range from the site description.",
+  "entityIds": [
+    "ent_000023"
+  ],
+  "placeIds": [
+    "plc_000058"
+  ],
+  "alternativeTitles": []
+}

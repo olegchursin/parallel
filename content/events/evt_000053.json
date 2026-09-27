@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000053",
+  "slug": "cahokia-reaches-a-major-urban-peak",
+  "title": "Cahokia reaches a major urban peak",
+  "summary": "Cahokia near the Mississippi River became a large centre of the Mississippian world. Earthen mounds, surrounding villages and agricultural settlement reveal a complex regional society at its eleventh- and twelfth-century peak.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "evt_000053-c1",
+      "sourceId": "src_000049",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000053-occurrence",
+      "text": "Cahokia near the Mississippi River became a large centre of the Mississippian world. Earthen mounds, surrounding villages and agricultural settlement reveal a complex regional society at its eleventh- and twelfth-century peak.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000053-c1"
+      ]
+    },
+    {
+      "id": "evt_000053-date",
+      "text": "Peak-period range, not all occupation of the site.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000053-c1"
+      ]
+    },
+    {
+      "id": "evt_000053-context",
+      "text": "Monumental earthworks provide evidence of collective labour and political organization. Cahokia belongs within Indigenous North American history well before sustained European colonization; population estimates remain approximate.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000053-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,050 CE",
+      "anchor": {
+        "year": 1050,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Peak-period range, not all occupation of the site.",
+      "conversionNote": "Peak-period range, not all occupation of the site.",
+      "dateClaimIds": [
+        "evt_000053-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,150 CE",
+      "anchor": {
+        "year": 1150,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Peak-period range, not all occupation of the site.",
+      "conversionNote": "Peak-period range, not all occupation of the site.",
+      "dateClaimIds": [
+        "evt_000053-date"
+      ]
+    }
+  },
+  "primaryRegion": "americas",
+  "subregion": "North America",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "Monumental earthworks provide evidence of collective labour and political organization. Cahokia belongs within Indigenous North American history well before sustained European colonization; population estimates remain approximate.",
+  "dateNote": "Peak-period range, not all occupation of the site.",
+  "entityIds": [
+    "ent_000022"
+  ],
+  "placeIds": [
+    "plc_000053"
+  ],
+  "alternativeTitles": []
+}

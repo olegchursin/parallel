@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "src_000060",
+  "title": "Homo sapiens",
+  "creator": "Smithsonian National Museum of Natural History",
+  "publisher": "Smithsonian National Museum of Natural History",
+  "sourceType": "museum",
+  "publicationDate": "See source page; not consistently supplied",
+  "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens",
+  "accessedAt": "2026-09-26",
+  "sourceFamily": "smithsonian",
+  "language": "English",
+  "rights": "Linked institutional source; original summaries, no reproduced images. Source retains its own rights.",
+  "inspectionNote": "Relevant passage inspected during this build: When lived; Overview; Survival. This is an evidence check, not an independent historical peer review."
+}

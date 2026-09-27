@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000072",
+  "slug": "eastern-han-rule-is-established",
+  "title": "Eastern Han rule is established",
+  "summary": "Eastern Han rule lasted from 25 to 220 CE, after an interruption in the Han dynastic sequence. Its political centre differed from that of the Western Han.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000072-c1",
+      "sourceId": "src_000065",
+      "locator": "Western and Eastern Han chronology",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000072-occurrence",
+      "text": "Eastern Han rule lasted from 25 to 220 CE, after an interruption in the Han dynastic sequence. Its political centre differed from that of the Western Han.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000072-c1"
+      ]
+    },
+    {
+      "id": "evt_000072-date",
+      "text": "Conventional dynastic year bounds.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000072-c1"
+      ]
+    },
+    {
+      "id": "evt_000072-context",
+      "text": "An entity can have several existence phases. The timeline keeps the gap visible rather than turning the entire 206 BCE–220 CE envelope into continuous rule.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000072-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "25 CE",
+      "anchor": {
+        "year": 25,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Conventional dynastic year bounds.",
+      "conversionNote": "Conventional dynastic year bounds.",
+      "dateClaimIds": [
+        "evt_000072-date"
+      ]
+    },
+    "end": {
+      "label": "220 CE",
+      "anchor": {
+        "year": 220,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Conventional dynastic year bounds.",
+      "conversionNote": "Conventional dynastic year bounds.",
+      "dateClaimIds": [
+        "evt_000072-date"
+      ]
+    }
+  },
+  "primaryRegion": "east-asia",
+  "subregion": "China",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "An entity can have several existence phases. The timeline keeps the gap visible rather than turning the entire 206 BCE–220 CE envelope into continuous rule.",
+  "dateNote": "Conventional dynastic year bounds.",
+  "entityIds": [
+    "ent_000015"
+  ],
+  "placeIds": [
+    "plc_000072"
+  ],
+  "alternativeTitles": []
+}

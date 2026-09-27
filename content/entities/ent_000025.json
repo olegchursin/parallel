@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "ent_000025",
+  "slug": "united-nations",
+  "title": "United Nations",
+  "summary": "The United Nations Charter was signed at San Francisco on 26 June 1945. It established the treaty framework for the new international organization.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "ent_000025-c1",
+      "sourceId": "src_000074",
+      "locator": "Chapter I.1; San Francisco 26 June 1945; entry into force",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ent_000025-occurrence",
+      "text": "The United Nations Charter was signed at San Francisco on 26 June 1945. It established the treaty framework for the new international organization.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "ent_000025-c1"
+      ]
+    },
+    {
+      "id": "ent_000025-date",
+      "text": "Treaty date in the UN depositary record.",
+      "claimType": "date",
+      "citationIds": [
+        "ent_000025-c1"
+      ]
+    },
+    {
+      "id": "ent_000025-context",
+      "text": "Treaty signature and legal entry into force are separate milestones. The Charter did not become operative simply at the moment of signing.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "ent_000025-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "entity",
+  "preferredName": "United Nations",
+  "entityType": "institution",
+  "aliases": [
+    "United Nations",
+    "The United Nations Charter is signed"
+  ],
+  "eventIds": [
+    "evt_000087",
+    "evt_000088"
+  ],
+  "existencePhases": [
+    {
+      "label": "Documented phase (not a claim to the complete lifespan)",
+      "time": {
+        "type": "point",
+        "when": {
+          "label": "26 Jun 1945 CE",
+          "anchor": {
+            "year": 1945,
+            "month": 6,
+            "day": 26,
+            "precision": "day"
+          },
+          "qualifier": "exact",
+          "sourceCalendar": "Gregorian",
+          "originalExpression": "Treaty date in the UN depositary record.",
+          "conversionNote": "Treaty date in the UN depositary record.",
+          "dateClaimIds": [
+            "ent_000025-date"
+          ]
+        }
+      }
+    }
+  ]
+}

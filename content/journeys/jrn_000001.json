@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "jrn_000001",
+  "slug": "from-movement-to-settlement",
+  "title": "From movement to settlement",
+  "summary": "Follow evidence of habitation, food and the making of settled places.",
+  "regionIds": [
+    "africa",
+    "oceania",
+    "americas",
+    "west-asia"
+  ],
+  "claims": [
+    {
+      "id": "jrn_000001-selection",
+      "text": "Curatorial selection of the cited events for comparative reading; no causal connection is implied by step order.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "jrn_000001-c1",
+        "jrn_000001-c2",
+        "jrn_000001-c3",
+        "jrn_000001-c4",
+        "jrn_000001-c5",
+        "jrn_000001-c6",
+        "jrn_000001-c7",
+        "jrn_000001-c8"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "id": "jrn_000001-c1",
+      "sourceId": "src_000060",
+      "locator": "When lived; Overview; Survival",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000001-c2",
+      "sourceId": "src_000061",
+      "locator": "Evidence of first peoples; ochre image caption",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000001-c3",
+      "sourceId": "src_000098",
+      "locator": "Description: calibrated radiocarbon age, about 14,800 years ago",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000001-c4",
+      "sourceId": "src_000018",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000001-c5",
+      "sourceId": "src_000019",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000001-c6",
+      "sourceId": "src_000017",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000001-c7",
+      "sourceId": "src_000054",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000001-c8",
+      "sourceId": "src_000001",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "journey",
+  "introduction": "Follow evidence of habitation, food and the making of settled places.",
+  "learningGoal": "Compare what archaeological traces can establish, and what remains uncertain.",
+  "steps": [
+    {
+      "eventId": "evt_000063",
+      "heading": "Homo sapiens emerges in Africa",
+      "note": "Source says about 300,000 years ago. Rounded 298,000 BCE is a layout anchor only; it is not a calibrated radiocarbon date."
+    },
+    {
+      "eventId": "evt_000065",
+      "heading": "Evidence of First Peoples in Australia",
+      "note": "At least 65,000 years ago; 63,000 BCE is only a rounded placement and the earlier extent remains unknown."
+    },
+    {
+      "eventId": "evt_000118",
+      "heading": "People inhabit Monte Verde in southern Chile",
+      "note": "Calibrated radiocarbon age as described by the nomination; rounded BCE anchor only. The page’s “years ago” reference epoch is not specified."
+    },
+    {
+      "eventId": "evt_000018",
+      "heading": "Communal monuments at Göbekli Tepe",
+      "note": "Approximate archaeological phase; ritual uses are interpretations, not directly observed facts."
+    },
+    {
+      "eventId": "evt_000020",
+      "heading": "Permanent settlement at Tell es-Sultan",
+      "note": "Broad ninth–eighth-millennium evidence window; settlement began earlier."
+    },
+    {
+      "eventId": "evt_000019",
+      "heading": "Households cluster at Çatalhöyük",
+      "note": "Eastern mound occupation only; the western mound continued into a later phase."
+    },
+    {
+      "eventId": "evt_000067",
+      "heading": "Cultivation transforms the Kuk wetlands",
+      "note": "Approximate 6,500 years-ago statement; rounded 4,500 BCE anchor. Earlier wetland activity is distinct."
+    },
+    {
+      "eventId": "evt_000001",
+      "heading": "Caral’s monumental city takes shape",
+      "note": "The source’s radiocarbon-based site-development range is approximate; it is not the lifespan of a named dynasty."
+    }
+  ],
+  "evidenceNote": "Research preview. Follow each step to its claim-level sources. Independent historical review is pending.",
+  "startingViewport": {
+    "from": "300000BCE",
+    "to": "1500BCE"
+  }
+}

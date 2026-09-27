@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000063",
+  "slug": "homo-sapiens-emerges-in-africa",
+  "title": "Homo sapiens emerges in Africa",
+  "summary": "Fossils place the emergence of Homo sapiens in Africa around 300,000 years ago. The species’ early history reflects a changing body of archaeological and fossil evidence.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000063-c1",
+      "sourceId": "src_000060",
+      "locator": "When lived; Overview; Survival",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000063-occurrence",
+      "text": "Fossils place the emergence of Homo sapiens in Africa around 300,000 years ago. The species’ early history reflects a changing body of archaeological and fossil evidence.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000063-c1"
+      ]
+    },
+    {
+      "id": "evt_000063-date",
+      "text": "Source says about 300,000 years ago. Rounded 298,000 BCE is a layout anchor only; it is not a calibrated radiocarbon date.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000063-c1"
+      ]
+    },
+    {
+      "id": "evt_000063-context",
+      "text": "A species does not begin in a single recorded year. This rounded placement supports a deep-time overview, with no claim to identify one birthplace or a precise moment of origin.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000063-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 300,000 years ago",
+      "anchor": {
+        "year": -297999,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Source says about 300,000 years ago. Rounded 298,000 BCE is a layout anchor only; it is not a calibrated radiocarbon date.",
+      "conversionNote": "Source says about 300,000 years ago. Rounded 298,000 BCE is a layout anchor only; it is not a calibrated radiocarbon date.",
+      "dateClaimIds": [
+        "evt_000063-date"
+      ]
+    },
+    "scientificDating": {
+      "convention": "years-ago",
+      "expression": "Source says about 300,000 years ago. Rounded 298,000 BCE is a layout anchor only; it is not a calibrated radiocarbon date.",
+      "referenceYear": 2000,
+      "methodNote": "Rounded 2000 CE reference for layout only; the original expression and its limits are retained. This is not a radiocarbon calibration."
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "Cross-regional Africa",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "A species does not begin in a single recorded year. This rounded placement supports a deep-time overview, with no claim to identify one birthplace or a precise moment of origin.",
+  "dateNote": "Source says about 300,000 years ago. Rounded 298,000 BCE is a layout anchor only; it is not a calibrated radiocarbon date.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000063"
+  ],
+  "alternativeTitles": []
+}

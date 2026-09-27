@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "ent_000019",
+  "slug": "samarkand",
+  "title": "Samarkand",
+  "summary": "The settlement known as Afrasiab developed in the seventh century BCE at the site of Samarkand. Its oasis location later supported a long history of political, commercial and cultural activity.",
+  "regionIds": [
+    "central-asia"
+  ],
+  "citations": [
+    {
+      "id": "ent_000019-c1",
+      "sourceId": "src_000043",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ent_000019-occurrence",
+      "text": "The settlement known as Afrasiab developed in the seventh century BCE at the site of Samarkand. Its oasis location later supported a long history of political, commercial and cultural activity.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "ent_000019-c1"
+      ]
+    },
+    {
+      "id": "ent_000019-date",
+      "text": "Seventh-century BCE foundation range in the heritage overview.",
+      "claimType": "date",
+      "citationIds": [
+        "ent_000019-c1"
+      ]
+    },
+    {
+      "id": "ent_000019-context",
+      "text": "Oasis cities provide a different setting for urban history from coastal ports or large river capitals. The early settlement is distinct from the later Timurid city and its monuments.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "ent_000019-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "entity",
+  "preferredName": "Samarkand",
+  "entityType": "community",
+  "aliases": [
+    "Samarkand",
+    "Afrasiab develops at Samarkand"
+  ],
+  "eventIds": [
+    "evt_000046",
+    "evt_000047"
+  ],
+  "existencePhases": [
+    {
+      "label": "Documented phase (not a claim to the complete lifespan)",
+      "time": {
+        "type": "span",
+        "start": {
+          "label": "c. 700 BCE",
+          "anchor": {
+            "year": -699,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Seventh-century BCE foundation range in the heritage overview.",
+          "conversionNote": "Seventh-century BCE foundation range in the heritage overview.",
+          "dateClaimIds": [
+            "ent_000019-date"
+          ]
+        },
+        "end": {
+          "label": "c. 601 BCE",
+          "anchor": {
+            "year": -600,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Seventh-century BCE foundation range in the heritage overview.",
+          "conversionNote": "Seventh-century BCE foundation range in the heritage overview.",
+          "dateClaimIds": [
+            "ent_000019-date"
+          ]
+        }
+      }
+    }
+  ]
+}

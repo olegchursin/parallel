@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000109",
+  "slug": "the-treaty-of-waitangi-is-first-signed",
+  "title": "The Treaty of Waitangi is first signed",
+  "summary": "Māori chiefs and representatives of the British Crown first signed the Treaty of Waitangi on 6 February 1840. Further signatures were collected around New Zealand.",
+  "regionIds": [
+    "oceania"
+  ],
+  "citations": [
+    {
+      "id": "evt_000109-c1",
+      "sourceId": "src_000090",
+      "locator": "First signing on 6 February 1840; versions and subsequent signatures",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000109-occurrence",
+      "text": "Māori chiefs and representatives of the British Crown first signed the Treaty of Waitangi on 6 February 1840. Further signatures were collected around New Zealand.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000109-c1"
+      ]
+    },
+    {
+      "id": "evt_000109-date",
+      "text": "First signing, not every later signature.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000109-c1"
+      ]
+    },
+    {
+      "id": "evt_000109-context",
+      "text": "The Māori and English texts differ in meaning. A signing date alone cannot resolve debates about authority, sovereignty and the treaty’s subsequent interpretation.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000109-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "6 Feb 1840 CE",
+      "anchor": {
+        "year": 1840,
+        "month": 2,
+        "day": 6,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "First signing, not every later signature.",
+      "conversionNote": "First signing, not every later signature.",
+      "dateClaimIds": [
+        "evt_000109-date"
+      ]
+    }
+  },
+  "primaryRegion": "oceania",
+  "subregion": "Aotearoa New Zealand",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "The Māori and English texts differ in meaning. A signing date alone cannot resolve debates about authority, sovereignty and the treaty’s subsequent interpretation.",
+  "dateNote": "First signing, not every later signature.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000109"
+  ],
+  "alternativeTitles": []
+}

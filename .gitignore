@@ -1,0 +1,12 @@
+node_modules/
+.tools/
+dist/
+.tanstack/
+.output/
+test-results/
+playwright-report/
+tmp/
+public/data/
+src/generated/
+*.tsbuildinfo
+.DS_Store

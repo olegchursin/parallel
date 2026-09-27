@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000014",
+  "preferredName": "West Africa",
+  "placeType": "historical-place",
+  "regionIds": [
+    "africa"
+  ],
+  "sourceRefs": [
+    "src_000013"
+  ],
+  "modernLocator": "West Africa"
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000116",
+  "preferredName": "Korea",
+  "placeType": "historical-place",
+  "regionIds": [
+    "east-asia"
+  ],
+  "sourceRefs": [
+    "src_000097"
+  ],
+  "modernLocator": "Korea"
+}

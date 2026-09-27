@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000030",
+  "slug": "nalanda-sustains-monastic-scholarship",
+  "title": "Nalanda sustains monastic scholarship",
+  "summary": "Nalanda in present-day Bihar developed as a monastic and teaching institution over many centuries. Its remains include residential buildings, shrines, stupas and works in stone, metal and stucco.",
+  "regionIds": [
+    "south-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000030-c1",
+      "sourceId": "src_000029",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000030-occurrence",
+      "text": "Nalanda in present-day Bihar developed as a monastic and teaching institution over many centuries. Its remains include residential buildings, shrines, stupas and works in stone, metal and stucco.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000030-c1"
+      ]
+    },
+    {
+      "id": "evt_000030-date",
+      "text": "Fifth–thirteenth-century scholastic phase; earlier remains do not establish an earlier university foundation.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000030-c1"
+      ]
+    },
+    {
+      "id": "evt_000030-context",
+      "text": "Residential learning connected religious practice and organized transmission of knowledge. The institution’s main teaching period should be distinguished from earlier archaeological remains at the same location.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000030-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 401 CE",
+      "anchor": {
+        "year": 401,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Fifth–thirteenth-century scholastic phase; earlier remains do not establish an earlier university foundation.",
+      "conversionNote": "Fifth–thirteenth-century scholastic phase; earlier remains do not establish an earlier university foundation.",
+      "dateClaimIds": [
+        "evt_000030-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,300 CE",
+      "anchor": {
+        "year": 1300,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Fifth–thirteenth-century scholastic phase; earlier remains do not establish an earlier university foundation.",
+      "conversionNote": "Fifth–thirteenth-century scholastic phase; earlier remains do not establish an earlier university foundation.",
+      "dateClaimIds": [
+        "evt_000030-date"
+      ]
+    }
+  },
+  "primaryRegion": "south-asia",
+  "subregion": "Indian subcontinent",
+  "themeIds": [
+    "knowledge"
+  ],
+  "tier": "major",
+  "context": "Residential learning connected religious practice and organized transmission of knowledge. The institution’s main teaching period should be distinguished from earlier archaeological remains at the same location.",
+  "dateNote": "Fifth–thirteenth-century scholastic phase; earlier remains do not establish an earlier university foundation.",
+  "entityIds": [
+    "ent_000013"
+  ],
+  "placeIds": [
+    "plc_000030"
+  ],
+  "alternativeTitles": []
+}

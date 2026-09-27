@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "ent_000012",
+  "slug": "nabataean-petra",
+  "title": "Nabataean Petra",
+  "summary": "Petra developed as a Nabataean centre connecting routes between Arabia, Egypt and Syria. Rock-cut monuments and water storage systems reveal how a substantial settlement operated in an arid landscape.",
+  "regionIds": [
+    "west-asia"
+  ],
+  "citations": [
+    {
+      "id": "ent_000012-c1",
+      "sourceId": "src_000023",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ent_000012-occurrence",
+      "text": "Petra developed as a Nabataean centre connecting routes between Arabia, Egypt and Syria. Rock-cut monuments and water storage systems reveal how a substantial settlement operated in an arid landscape.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "ent_000012-c1"
+      ]
+    },
+    {
+      "id": "ent_000012-date",
+      "text": "Fourth century BCE–first century CE is a broad Nabataean context, not all habitation.",
+      "claimType": "date",
+      "citationIds": [
+        "ent_000012-c1"
+      ]
+    },
+    {
+      "id": "ent_000012-context",
+      "text": "The city links environmental engineering with long-distance exchange. Architectural similarities alone cannot identify every trade route; the cited overview supplies the evidence for Petra’s role as a caravan centre.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "ent_000012-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "entity",
+  "preferredName": "Nabataean Petra",
+  "entityType": "community",
+  "aliases": [
+    "Nabataean Petra",
+    "Nabataean Petra links caravan routes"
+  ],
+  "eventIds": [
+    "evt_000024"
+  ],
+  "existencePhases": [
+    {
+      "label": "Documented phase (not a claim to the complete lifespan)",
+      "time": {
+        "type": "span",
+        "start": {
+          "label": "c. 400 BCE",
+          "anchor": {
+            "year": -399,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Fourth century BCE–first century CE is a broad Nabataean context, not all habitation.",
+          "conversionNote": "Fourth century BCE–first century CE is a broad Nabataean context, not all habitation.",
+          "dateClaimIds": [
+            "ent_000012-date"
+          ]
+        },
+        "end": {
+          "label": "c. 100 CE",
+          "anchor": {
+            "year": 100,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "Fourth century BCE–first century CE is a broad Nabataean context, not all habitation.",
+          "conversionNote": "Fourth century BCE–first century CE is a broad Nabataean context, not all habitation.",
+          "dateClaimIds": [
+            "ent_000012-date"
+          ]
+        }
+      }
+    }
+  ]
+}

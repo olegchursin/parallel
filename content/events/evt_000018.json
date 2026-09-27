@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000018",
+  "slug": "communal-monuments-at-gobekli-tepe",
+  "title": "Communal monuments at Göbekli Tepe",
+  "summary": "Communities in Upper Mesopotamia erected monumental structures with carved T-shaped pillars at Göbekli Tepe. The buildings belong to the Pre-Pottery Neolithic and are associated with hunter-gatherer societies.",
+  "regionIds": [
+    "west-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000018-c1",
+      "sourceId": "src_000018",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000018-occurrence",
+      "text": "Communities in Upper Mesopotamia erected monumental structures with carved T-shaped pillars at Göbekli Tepe. The buildings belong to the Pre-Pottery Neolithic and are associated with hunter-gatherer societies.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000018-c1"
+      ]
+    },
+    {
+      "id": "evt_000018-date",
+      "text": "Approximate archaeological phase; ritual uses are interpretations, not directly observed facts.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000018-c1"
+      ]
+    },
+    {
+      "id": "evt_000018-context",
+      "text": "Monumental construction does not fit a single sequence in which farming, cities and temples always follow one another. The site offers evidence of collective work while the precise uses of individual structures remain interpretive.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000018-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 9,600 BCE",
+      "anchor": {
+        "year": -9599,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate archaeological phase; ritual uses are interpretations, not directly observed facts.",
+      "conversionNote": "Approximate archaeological phase; ritual uses are interpretations, not directly observed facts.",
+      "dateClaimIds": [
+        "evt_000018-date"
+      ]
+    },
+    "end": {
+      "label": "c. 8,200 BCE",
+      "anchor": {
+        "year": -8199,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate archaeological phase; ritual uses are interpretations, not directly observed facts.",
+      "conversionNote": "Approximate archaeological phase; ritual uses are interpretations, not directly observed facts.",
+      "dateClaimIds": [
+        "evt_000018-date"
+      ]
+    }
+  },
+  "primaryRegion": "west-asia",
+  "subregion": "Anatolia",
+  "themeIds": [
+    "belief"
+  ],
+  "tier": "major",
+  "context": "Monumental construction does not fit a single sequence in which farming, cities and temples always follow one another. The site offers evidence of collective work while the precise uses of individual structures remain interpretive.",
+  "dateNote": "Approximate archaeological phase; ritual uses are interpretations, not directly observed facts.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000018"
+  ],
+  "alternativeTitles": []
+}

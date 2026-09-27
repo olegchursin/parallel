@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000027",
+  "slug": "bursas-ottoman-civic-centres-expand",
+  "title": "Bursa’s Ottoman civic centres expand",
+  "summary": "Early Ottoman Bursa grew around complexes combining mosques, schools, baths and public kitchens. Endowed institutions linked urban neighbourhoods with rural communities such as nearby Cumalıkızık.",
+  "regionIds": [
+    "west-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000027-c1",
+      "sourceId": "src_000026",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000027-occurrence",
+      "text": "Early Ottoman Bursa grew around complexes combining mosques, schools, baths and public kitchens. Endowed institutions linked urban neighbourhoods with rural communities such as nearby Cumalıkızık.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000027-c1"
+      ]
+    },
+    {
+      "id": "evt_000027-date",
+      "text": "Early fourteenth to mid-fifteenth-century development, following the source’s planning history.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000027-c1"
+      ]
+    },
+    {
+      "id": "evt_000027-context",
+      "text": "Urban life emerges here through services and economic relationships as well as royal rule. The documented connection between city institutions and rural support distinguishes this example from a purely monumental account.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000027-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,301 CE",
+      "anchor": {
+        "year": 1301,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Early fourteenth to mid-fifteenth-century development, following the source’s planning history.",
+      "conversionNote": "Early fourteenth to mid-fifteenth-century development, following the source’s planning history.",
+      "dateClaimIds": [
+        "evt_000027-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,450 CE",
+      "anchor": {
+        "year": 1450,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Early fourteenth to mid-fifteenth-century development, following the source’s planning history.",
+      "conversionNote": "Early fourteenth to mid-fifteenth-century development, following the source’s planning history.",
+      "dateClaimIds": [
+        "evt_000027-date"
+      ]
+    }
+  },
+  "primaryRegion": "west-asia",
+  "subregion": "Anatolia",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "Urban life emerges here through services and economic relationships as well as royal rule. The documented connection between city institutions and rural support distinguishes this example from a purely monumental account.",
+  "dateNote": "Early fourteenth to mid-fifteenth-century development, following the source’s planning history.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000027"
+  ],
+  "alternativeTitles": []
+}

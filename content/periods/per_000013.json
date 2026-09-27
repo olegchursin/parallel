@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "per_000013",
+  "slug": "maya-urban-life-develops-at-tikal",
+  "title": "Maya urban life develops at Tikal",
+  "summary": "Tikal’s temples, palaces, plazas and surrounding dwellings preserve a long sequence of Maya urban life. The site lay within a forest environment in present-day northern Guatemala.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "per_000013-c1",
+      "sourceId": "src_000048",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "per_000013-occurrence",
+      "text": "Tikal’s temples, palaces, plazas and surrounding dwellings preserve a long sequence of Maya urban life. The site lay within a forest environment in present-day northern Guatemala.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "per_000013-c1"
+      ]
+    },
+    {
+      "id": "per_000013-date",
+      "text": "Approximate settlement sequence through the urban decline around 900 CE.",
+      "claimType": "date",
+      "citationIds": [
+        "per_000013-c1"
+      ]
+    },
+    {
+      "id": "per_000013-context",
+      "text": "Ceremonial architecture is only part of the settlement. Including residential surroundings helps connect monumental sites with the communities that built and maintained them, while avoiding a claim that Maya history ended with this city’s decline.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "per_000013-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "period",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 600 BCE",
+      "anchor": {
+        "year": -599,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate settlement sequence through the urban decline around 900 CE.",
+      "conversionNote": "Approximate settlement sequence through the urban decline around 900 CE.",
+      "dateClaimIds": [
+        "per_000013-date"
+      ]
+    },
+    "end": {
+      "label": "c. 900 CE",
+      "anchor": {
+        "year": 900,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate settlement sequence through the urban decline around 900 CE.",
+      "conversionNote": "Approximate settlement sequence through the urban decline around 900 CE.",
+      "dateClaimIds": [
+        "per_000013-date"
+      ]
+    }
+  },
+  "periodType": "archaeological",
+  "displayOrder": 13,
+  "entityId": "ent_000021"
+}

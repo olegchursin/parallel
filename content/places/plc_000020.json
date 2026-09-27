@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000020",
+  "preferredName": "Levant",
+  "placeType": "historical-place",
+  "regionIds": [
+    "west-asia"
+  ],
+  "sourceRefs": [
+    "src_000019"
+  ],
+  "modernLocator": "Levant"
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000037",
+  "slug": "construction-begins-on-the-qin-royal-mausoleum",
+  "title": "Construction begins on the Qin royal mausoleum",
+  "summary": "Work began on the mausoleum associated with Qin Shihuang in the third century BCE. Its immense complex included burial structures and the terracotta figures later found near present-day Xi’an.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000037-c1",
+      "sourceId": "src_000035",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000037-occurrence",
+      "text": "Work began on the mausoleum associated with Qin Shihuang in the third century BCE. Its immense complex included burial structures and the terracotta figures later found near present-day Xi’an.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000037-c1"
+      ]
+    },
+    {
+      "id": "evt_000037-date",
+      "text": "The source gives 246 BCE for the start; year precision does not imply a known day.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000037-c1"
+      ]
+    },
+    {
+      "id": "evt_000037-context",
+      "text": "The mausoleum reveals how power could mobilize labour and craft production at great scale. The construction start is distinct from the emperor’s later unification of China and from the modern archaeological discovery.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000037-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "246 BCE",
+      "anchor": {
+        "year": -245,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "The source gives 246 BCE for the start; year precision does not imply a known day.",
+      "conversionNote": "The source gives 246 BCE for the start; year precision does not imply a known day.",
+      "dateClaimIds": [
+        "evt_000037-date"
+      ]
+    }
+  },
+  "primaryRegion": "east-asia",
+  "subregion": "China",
+  "themeIds": [
+    "arts"
+  ],
+  "tier": "major",
+  "context": "The mausoleum reveals how power could mobilize labour and craft production at great scale. The construction start is distinct from the emperor’s later unification of China and from the modern archaeological discovery.",
+  "dateNote": "The source gives 246 BCE for the start; year precision does not imply a known day.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000037"
+  ],
+  "alternativeTitles": []
+}

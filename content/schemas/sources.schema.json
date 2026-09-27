@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "number",
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^src_\\d{6}$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "creator": {
+      "type": "string"
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "sourceType": {
+      "type": "string",
+      "enum": [
+        "institutional",
+        "archive",
+        "scholarly",
+        "museum"
+      ]
+    },
+    "publicationDate": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "accessedAt": {
+      "type": "string"
+    },
+    "sourceFamily": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "rights": {
+      "type": "string"
+    },
+    "inspectionNote": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "id",
+    "title",
+    "creator",
+    "publisher",
+    "sourceType",
+    "publicationDate",
+    "url",
+    "accessedAt",
+    "sourceFamily",
+    "language",
+    "rights",
+    "inspectionNote"
+  ],
+  "additionalProperties": false
+}

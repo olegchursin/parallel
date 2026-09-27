@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000044",
+  "slug": "melaka-grows-around-maritime-exchange",
+  "title": "Melaka grows around maritime exchange",
+  "summary": "The fifteenth-century Malay sultanate formed an early phase of Melaka’s commercial history. Its later townscape records successive Asian and European influences along the strategic Straits of Malacca.",
+  "regionIds": [
+    "southeast-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000044-c1",
+      "sourceId": "src_000041",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000044-occurrence",
+      "text": "The fifteenth-century Malay sultanate formed an early phase of Melaka’s commercial history. Its later townscape records successive Asian and European influences along the strategic Straits of Malacca.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000044-c1"
+      ]
+    },
+    {
+      "id": "evt_000044-date",
+      "text": "Fifteenth-century sultanate context; later trading and urban phases continued.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000044-c1"
+      ]
+    },
+    {
+      "id": "evt_000044-context",
+      "text": "A port’s history can connect local institutions with wider shipping networks. The early sultanate phase is kept distinct from the Portuguese, Dutch and later colonial periods.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000044-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,401 CE",
+      "anchor": {
+        "year": 1401,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Fifteenth-century sultanate context; later trading and urban phases continued.",
+      "conversionNote": "Fifteenth-century sultanate context; later trading and urban phases continued.",
+      "dateClaimIds": [
+        "evt_000044-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,500 CE",
+      "anchor": {
+        "year": 1500,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Fifteenth-century sultanate context; later trading and urban phases continued.",
+      "conversionNote": "Fifteenth-century sultanate context; later trading and urban phases continued.",
+      "dateClaimIds": [
+        "evt_000044-date"
+      ]
+    }
+  },
+  "primaryRegion": "southeast-asia",
+  "subregion": "Maritime Southeast Asia",
+  "themeIds": [
+    "exchange"
+  ],
+  "tier": "major",
+  "context": "A port’s history can connect local institutions with wider shipping networks. The early sultanate phase is kept distinct from the Portuguese, Dutch and later colonial periods.",
+  "dateNote": "Fifteenth-century sultanate context; later trading and urban phases continued.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000044"
+  ],
+  "alternativeTitles": []
+}

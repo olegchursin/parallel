@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000057",
+  "slug": "potosis-silver-industry-expands",
+  "title": "Potosí’s silver industry expands",
+  "summary": "Potosí became a major silver-producing centre in the sixteenth-century Andes. Mines, hydraulic mills and worker neighbourhoods formed an interconnected industrial landscape under Spanish colonial rule.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "evt_000057-c1",
+      "sourceId": "src_000053",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000057-occurrence",
+      "text": "Potosí became a major silver-producing centre in the sixteenth-century Andes. Mines, hydraulic mills and worker neighbourhoods formed an interconnected industrial landscape under Spanish colonial rule.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000057-c1"
+      ]
+    },
+    {
+      "id": "evt_000057-date",
+      "text": "Century-level industrial development; not an exact discovery date.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000057-c1"
+      ]
+    },
+    {
+      "id": "evt_000057-context",
+      "text": "Silver connected local extraction with distant monetary systems. The landscape must also be read through labour and coercion, not only production or the wealth that reached overseas markets.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000057-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,501 CE",
+      "anchor": {
+        "year": 1501,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Century-level industrial development; not an exact discovery date.",
+      "conversionNote": "Century-level industrial development; not an exact discovery date.",
+      "dateClaimIds": [
+        "evt_000057-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,600 CE",
+      "anchor": {
+        "year": 1600,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Century-level industrial development; not an exact discovery date.",
+      "conversionNote": "Century-level industrial development; not an exact discovery date.",
+      "dateClaimIds": [
+        "evt_000057-date"
+      ]
+    }
+  },
+  "primaryRegion": "americas",
+  "subregion": "South America",
+  "themeIds": [
+    "exchange"
+  ],
+  "tier": "major",
+  "context": "Silver connected local extraction with distant monetary systems. The landscape must also be read through labour and coercion, not only production or the wealth that reached overseas markets.",
+  "dateNote": "Century-level industrial development; not an exact discovery date.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000057"
+  ],
+  "alternativeTitles": []
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000108",
+  "slug": "south-africa-holds-its-first-non-racial-national-election",
+  "title": "South Africa holds its first non-racial national election",
+  "summary": "South Africa’s 1994 election opened national voting across racial categories. The country commemorates 27 April as the milestone of its first democratic, non-racial election.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000108-c1",
+      "sourceId": "src_000089",
+      "locator": "First non-racial democratic elections, 27 April 1994",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000108-occurrence",
+      "text": "South Africa’s 1994 election opened national voting across racial categories. The country commemorates 27 April as the milestone of its first democratic, non-racial election.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000108-c1"
+      ]
+    },
+    {
+      "id": "evt_000108-date",
+      "text": "Commemorative election date; voting extended over several days.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000108-c1"
+      ]
+    },
+    {
+      "id": "evt_000108-context",
+      "text": "The election marks a political transition, not the end of every legacy of apartheid. A commemorative day should also be distinguished from the full voting period.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000108-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "27 Apr 1994 CE",
+      "anchor": {
+        "year": 1994,
+        "month": 4,
+        "day": 27,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Commemorative election date; voting extended over several days.",
+      "conversionNote": "Commemorative election date; voting extended over several days.",
+      "dateClaimIds": [
+        "evt_000108-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "Central & Southern Africa",
+  "themeIds": [
+    "rights"
+  ],
+  "tier": "major",
+  "context": "The election marks a political transition, not the end of every legacy of apartheid. A commemorative day should also be distinguished from the full voting period.",
+  "dateNote": "Commemorative election date; voting extended over several days.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000108"
+  ],
+  "alternativeTitles": []
+}

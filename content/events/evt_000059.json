@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000059",
+  "slug": "roi-matas-life-leaves-an-archaeological-record",
+  "title": "Roi Mata’s life leaves an archaeological record",
+  "summary": "Sites on Efate, Lelepa and Artok preserve associations with the last paramount chief Roi Mata. Archaeology and oral traditions connect his residence, death and burial in early seventeenth-century Vanuatu.",
+  "regionIds": [
+    "oceania"
+  ],
+  "citations": [
+    {
+      "id": "evt_000059-c1",
+      "sourceId": "src_000056",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000059-occurrence",
+      "text": "Sites on Efate, Lelepa and Artok preserve associations with the last paramount chief Roi Mata. Archaeology and oral traditions connect his residence, death and burial in early seventeenth-century Vanuatu.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000059-c1"
+      ]
+    },
+    {
+      "id": "evt_000059-date",
+      "text": "Early seventeenth-century window; 1650 is a coarse envelope boundary, not a recorded death year.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000059-c1"
+      ]
+    },
+    {
+      "id": "evt_000059-context",
+      "text": "This record keeps oral tradition and archaeological evidence in dialogue. It treats attributed social reforms respectfully while avoiding a precise biographical chronology that the cited overview does not establish.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000059-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,601 CE",
+      "anchor": {
+        "year": 1601,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Early seventeenth-century window; 1650 is a coarse envelope boundary, not a recorded death year.",
+      "conversionNote": "Early seventeenth-century window; 1650 is a coarse envelope boundary, not a recorded death year.",
+      "dateClaimIds": [
+        "evt_000059-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,650 CE",
+      "anchor": {
+        "year": 1650,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Early seventeenth-century window; 1650 is a coarse envelope boundary, not a recorded death year.",
+      "conversionNote": "Early seventeenth-century window; 1650 is a coarse envelope boundary, not a recorded death year.",
+      "dateClaimIds": [
+        "evt_000059-date"
+      ]
+    }
+  },
+  "primaryRegion": "oceania",
+  "subregion": "Pacific Islands",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "This record keeps oral tradition and archaeological evidence in dialogue. It treats attributed social reforms respectfully while avoiding a precise biographical chronology that the cited overview does not establish.",
+  "dateNote": "Early seventeenth-century window; 1650 is a coarse envelope boundary, not a recorded death year.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000059"
+  ],
+  "alternativeTitles": []
+}

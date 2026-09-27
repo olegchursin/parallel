@@ -1,0 +1,9 @@
+#!/bin/sh
+set -eu
+cd "$(dirname "$0")/.."
+case "$(uname -s)" in Darwin) platform=darwin;; Linux) platform=linux;; *) echo 'Use Bun 1.4.2 on this platform.' >&2; exit 1;; esac
+case "$(uname -m)" in arm64|aarch64) architecture=aarch64;; x86_64) architecture=x64;; *) echo 'Unsupported architecture' >&2; exit 1;; esac
+runtime=".tools/bun-$platform-$architecture/bun"
+if [ ! -x "$runtime" ]; then echo 'Run ./scripts/setup.sh to install the project-local runtime.' >&2; exit 1; fi
+if [ "$("$runtime" --version)" != '1.4.2' ]; then echo 'This project requires Bun 1.4.2.' >&2; exit 1; fi
+PATH="$PWD/.tools/bun-$platform-$architecture:$PATH" exec "$runtime" "$@"

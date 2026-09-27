@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000065",
+  "slug": "evidence-of-first-peoples-in-australia",
+  "title": "Evidence of First Peoples in Australia",
+  "summary": "Archaeological evidence places First Peoples in Australia at least 65,000 years ago. This establishes a deep history of human life on the continent.",
+  "regionIds": [
+    "oceania"
+  ],
+  "citations": [
+    {
+      "id": "evt_000065-c1",
+      "sourceId": "src_000061",
+      "locator": "Evidence of first peoples; ochre image caption",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000065-occurrence",
+      "text": "Archaeological evidence places First Peoples in Australia at least 65,000 years ago. This establishes a deep history of human life on the continent.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000065-c1"
+      ]
+    },
+    {
+      "id": "evt_000065-date",
+      "text": "At least 65,000 years ago; 63,000 BCE is only a rounded placement and the earlier extent remains unknown.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000065-c1"
+      ]
+    },
+    {
+      "id": "evt_000065-context",
+      "text": "An earliest surviving trace sets a minimum antiquity, not an exact arrival date. Living Aboriginal histories and knowledge should not be reduced to a single archaeological milestone.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000065-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "at least 65,000 years ago",
+      "anchor": {
+        "year": -62999,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "At least 65,000 years ago; 63,000 BCE is only a rounded placement and the earlier extent remains unknown.",
+      "conversionNote": "At least 65,000 years ago; 63,000 BCE is only a rounded placement and the earlier extent remains unknown.",
+      "dateClaimIds": [
+        "evt_000065-date"
+      ]
+    },
+    "scientificDating": {
+      "convention": "years-ago",
+      "expression": "At least 65,000 years ago; 63,000 BCE is only a rounded placement and the earlier extent remains unknown.",
+      "referenceYear": 2000,
+      "methodNote": "Rounded 2000 CE reference for layout only; the original expression and its limits are retained. This is not a radiocarbon calibration."
+    }
+  },
+  "primaryRegion": "oceania",
+  "subregion": "Australia",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "An earliest surviving trace sets a minimum antiquity, not an exact arrival date. Living Aboriginal histories and knowledge should not be reduced to a single archaeological milestone.",
+  "dateNote": "At least 65,000 years ago; 63,000 BCE is only a rounded placement and the earlier extent remains unknown.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000065"
+  ],
+  "alternativeTitles": []
+}

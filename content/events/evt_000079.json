@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000079",
+  "slug": "king-john-seals-magna-carta",
+  "title": "King John seals Magna Carta",
+  "summary": "King John sealed Magna Carta at Runnymede in 1215 during a conflict with his barons. The charter addressed particular grievances and limits on royal action.",
+  "regionIds": [
+    "europe"
+  ],
+  "citations": [
+    {
+      "id": "evt_000079-c1",
+      "sourceId": "src_000070",
+      "locator": "Runnymede and sealing in June 1215",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000079-occurrence",
+      "text": "King John sealed Magna Carta at Runnymede in 1215 during a conflict with his barons. The charter addressed particular grievances and limits on royal action.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000079-c1"
+      ]
+    },
+    {
+      "id": "evt_000079-date",
+      "text": "Source dates sealing to 15 June 1215 in the historical calendar; year precision is used here.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000079-c1"
+      ]
+    },
+    {
+      "id": "evt_000079-context",
+      "text": "The document’s original setting differs from later uses as a symbol of rights. It should not be read as an immediate grant of equal political rights to everyone.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000079-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1,215 CE",
+      "anchor": {
+        "year": 1215,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Source dates sealing to 15 June 1215 in the historical calendar; year precision is used here.",
+      "conversionNote": "Source dates sealing to 15 June 1215 in the historical calendar; year precision is used here.",
+      "dateClaimIds": [
+        "evt_000079-date"
+      ]
+    }
+  },
+  "primaryRegion": "europe",
+  "subregion": "Northern Europe",
+  "themeIds": [
+    "rights"
+  ],
+  "tier": "major",
+  "context": "The document’s original setting differs from later uses as a symbol of rights. It should not be read as an immediate grant of equal political rights to everyone.",
+  "dateNote": "Source dates sealing to 15 June 1215 in the historical calendar; year precision is used here.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000079"
+  ],
+  "alternativeTitles": []
+}

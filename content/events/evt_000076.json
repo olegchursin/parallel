@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000076",
+  "slug": "jikji-is-printed-with-movable-metal-type",
+  "title": "Jikji is printed with movable metal type",
+  "summary": "The surviving second volume of Jikji was printed using movable metal type at Cheongju in 1377. It is a material witness to Korean Buddhist book production.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000076-c1",
+      "sourceId": "src_000069",
+      "locator": "Movable metal type printing in July 1377",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000076-occurrence",
+      "text": "The surviving second volume of Jikji was printed using movable metal type at Cheongju in 1377. It is a material witness to Korean Buddhist book production.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000076-c1"
+      ]
+    },
+    {
+      "id": "evt_000076-date",
+      "text": "Source gives July 1377; year precision avoids an unreviewed calendar conversion.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000076-c1"
+      ]
+    },
+    {
+      "id": "evt_000076-context",
+      "text": "Comparison with the Gutenberg Bible reveals different contexts and earlier surviving evidence outside Europe. It does not by itself establish a direct transmission route between the two projects.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000076-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1,377 CE",
+      "anchor": {
+        "year": 1377,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Source gives July 1377; year precision avoids an unreviewed calendar conversion.",
+      "conversionNote": "Source gives July 1377; year precision avoids an unreviewed calendar conversion.",
+      "dateClaimIds": [
+        "evt_000076-date"
+      ]
+    }
+  },
+  "primaryRegion": "east-asia",
+  "subregion": "Korea",
+  "themeIds": [
+    "knowledge"
+  ],
+  "tier": "major",
+  "context": "Comparison with the Gutenberg Bible reveals different contexts and earlier surviving evidence outside Europe. It does not by itself establish a direct transmission route between the two projects.",
+  "dateNote": "Source gives July 1377; year precision avoids an unreviewed calendar conversion.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000076"
+  ],
+  "alternativeTitles": [
+    "Jikji",
+    "Cheongju movable metal type"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000085",
+  "slug": "berners-lee-proposes-the-world-wide-web",
+  "title": "Berners-Lee proposes the World Wide Web",
+  "summary": "Tim Berners-Lee proposed the World Wide Web at CERN in 1989. The project offered a way to link and access information across connected computers.",
+  "regionIds": [
+    "europe"
+  ],
+  "citations": [
+    {
+      "id": "evt_000085-c1",
+      "sourceId": "src_000073",
+      "locator": "1989 invention; 30 April 1993 public-domain release",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000085-occurrence",
+      "text": "Tim Berners-Lee proposed the World Wide Web at CERN in 1989. The project offered a way to link and access information across connected computers.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000085-c1"
+      ]
+    },
+    {
+      "id": "evt_000085-date",
+      "text": "Year of the proposal and invention as described by CERN.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000085-c1"
+      ]
+    },
+    {
+      "id": "evt_000085-context",
+      "text": "The Web and the Internet are different developments. This record dates the web project, not the beginning of computer networking.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000085-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1,989 CE",
+      "anchor": {
+        "year": 1989,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Year of the proposal and invention as described by CERN.",
+      "conversionNote": "Year of the proposal and invention as described by CERN.",
+      "dateClaimIds": [
+        "evt_000085-date"
+      ]
+    }
+  },
+  "primaryRegion": "europe",
+  "subregion": "Western Europe",
+  "themeIds": [
+    "knowledge"
+  ],
+  "tier": "major",
+  "context": "The Web and the Internet are different developments. This record dates the web project, not the beginning of computer networking.",
+  "dateNote": "Year of the proposal and invention as described by CERN.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000085"
+  ],
+  "alternativeTitles": []
+}

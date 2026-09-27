@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000068",
+  "slug": "great-houses-rise-in-chaco-canyon",
+  "title": "Great houses rise in Chaco Canyon",
+  "summary": "Ancestral Pueblo builders created great houses and connected sites in Chaco Canyon between approximately 850 and 1250. The buildings formed part of a wider regional landscape.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "evt_000068-c1",
+      "sourceId": "src_000062",
+      "locator": "Great houses, approximately 850–1250",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000068-occurrence",
+      "text": "Ancestral Pueblo builders created great houses and connected sites in Chaco Canyon between approximately 850 and 1250. The buildings formed part of a wider regional landscape.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000068-c1"
+      ]
+    },
+    {
+      "id": "evt_000068-date",
+      "text": "Approximate construction and occupation phase.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000068-c1"
+      ]
+    },
+    {
+      "id": "evt_000068-context",
+      "text": "Large settlements can be compared through construction and community organization. Chaco’s occupation sequence is not the lifespan of Pueblo peoples, whose histories continue beyond this archaeological phase.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000068-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 850 CE",
+      "anchor": {
+        "year": 850,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate construction and occupation phase.",
+      "conversionNote": "Approximate construction and occupation phase.",
+      "dateClaimIds": [
+        "evt_000068-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,250 CE",
+      "anchor": {
+        "year": 1250,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate construction and occupation phase.",
+      "conversionNote": "Approximate construction and occupation phase.",
+      "dateClaimIds": [
+        "evt_000068-date"
+      ]
+    }
+  },
+  "primaryRegion": "americas",
+  "subregion": "North America",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "Large settlements can be compared through construction and community organization. Chaco’s occupation sequence is not the lifespan of Pueblo peoples, whose histories continue beyond this archaeological phase.",
+  "dateNote": "Approximate construction and occupation phase.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000068"
+  ],
+  "alternativeTitles": []
+}

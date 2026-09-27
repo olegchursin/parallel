@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000065",
+  "preferredName": "Australia",
+  "placeType": "historical-place",
+  "regionIds": [
+    "oceania"
+  ],
+  "sourceRefs": [
+    "src_000061"
+  ],
+  "modernLocator": "Australia"
+}

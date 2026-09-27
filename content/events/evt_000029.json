@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000029",
+  "slug": "urban-planning-at-mohenjo-daro",
+  "title": "Urban planning at Mohenjo-daro",
+  "summary": "Mohenjo-daro in the Indus Valley preserves streets, residential areas and water infrastructure from the third millennium BCE. Its planned urban fabric gives material evidence of a complex settlement.",
+  "regionIds": [
+    "south-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000029-c1",
+      "sourceId": "src_000028",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000029-occurrence",
+      "text": "Mohenjo-daro in the Indus Valley preserves streets, residential areas and water infrastructure from the third millennium BCE. Its planned urban fabric gives material evidence of a complex settlement.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000029-c1"
+      ]
+    },
+    {
+      "id": "evt_000029-date",
+      "text": "Third-millennium urban context; institutional summaries differ on narrower dates, which are not asserted here.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000029-c1"
+      ]
+    },
+    {
+      "id": "evt_000029-context",
+      "text": "Drainage and street organization allow comparison of everyday urban infrastructure. The precise political institutions remain harder to recover, so the record avoids assigning familiar modern governmental labels to the city.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000029-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 3,000 BCE",
+      "anchor": {
+        "year": -2999,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Third-millennium urban context; institutional summaries differ on narrower dates, which are not asserted here.",
+      "conversionNote": "Third-millennium urban context; institutional summaries differ on narrower dates, which are not asserted here.",
+      "dateClaimIds": [
+        "evt_000029-date"
+      ]
+    },
+    "end": {
+      "label": "c. 2,001 BCE",
+      "anchor": {
+        "year": -2000,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Third-millennium urban context; institutional summaries differ on narrower dates, which are not asserted here.",
+      "conversionNote": "Third-millennium urban context; institutional summaries differ on narrower dates, which are not asserted here.",
+      "dateClaimIds": [
+        "evt_000029-date"
+      ]
+    }
+  },
+  "primaryRegion": "south-asia",
+  "subregion": "Indus region",
+  "themeIds": [
+    "society"
+  ],
+  "tier": "major",
+  "context": "Drainage and street organization allow comparison of everyday urban infrastructure. The precise political institutions remain harder to recover, so the record avoids assigning familiar modern governmental labels to the city.",
+  "dateNote": "Third-millennium urban context; institutional summaries differ on narrower dates, which are not asserted here.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000029"
+  ],
+  "alternativeTitles": []
+}

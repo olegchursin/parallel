@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "ent_000018",
+  "slug": "ayutthaya-kingdom",
+  "title": "Ayutthaya kingdom",
+  "summary": "Ayutthaya developed as a Siamese capital on an island formed by rivers connected to the sea. Its location supported commerce and diplomacy while shaping the city’s protection from floods and attack.",
+  "regionIds": [
+    "southeast-asia"
+  ],
+  "citations": [
+    {
+      "id": "ent_000018-c1",
+      "sourceId": "src_000040",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ent_000018-occurrence",
+      "text": "Ayutthaya developed as a Siamese capital on an island formed by rivers connected to the sea. Its location supported commerce and diplomacy while shaping the city’s protection from floods and attack.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "ent_000018-c1"
+      ]
+    },
+    {
+      "id": "ent_000018-date",
+      "text": "The heritage description qualifies the foundation as approximately 1350.",
+      "claimType": "date",
+      "citationIds": [
+        "ent_000018-c1"
+      ]
+    },
+    {
+      "id": "ent_000018-context",
+      "text": "River geography helps explain the capital’s regional and overseas connections. The foundation year marks a political milestone, not the beginning of all human activity in the area.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "ent_000018-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "entity",
+  "preferredName": "Ayutthaya kingdom",
+  "entityType": "polity",
+  "aliases": [
+    "Ayutthaya kingdom",
+    "Ayutthaya is founded as a Siamese capital"
+  ],
+  "eventIds": [
+    "evt_000042",
+    "evt_000043"
+  ],
+  "existencePhases": [
+    {
+      "label": "Documented phase (not a claim to the complete lifespan)",
+      "time": {
+        "type": "point",
+        "when": {
+          "label": "c. 1,350 CE",
+          "anchor": {
+            "year": 1350,
+            "precision": "year"
+          },
+          "qualifier": "approximate",
+          "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+          "originalExpression": "The heritage description qualifies the foundation as approximately 1350.",
+          "conversionNote": "The heritage description qualifies the foundation as approximately 1350.",
+          "dateClaimIds": [
+            "ent_000018-date"
+          ]
+        }
+      }
+    }
+  ]
+}

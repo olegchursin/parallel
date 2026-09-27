@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000107",
+  "slug": "india-establishes-its-election-commission",
+  "title": "India establishes its Election Commission",
+  "summary": "The Election Commission of India was established on 25 January 1950, immediately before the Constitution’s general commencement.",
+  "regionIds": [
+    "south-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000107-c1",
+      "sourceId": "src_000088",
+      "locator": "Page 117: independence, Constitution and Election Commission dates",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000107-occurrence",
+      "text": "The Election Commission of India was established on 25 January 1950, immediately before the Constitution’s general commencement.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000107-c1"
+      ]
+    },
+    {
+      "id": "evt_000107-date",
+      "text": "Institutional establishment date.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000107-c1"
+      ]
+    },
+    {
+      "id": "evt_000107-context",
+      "text": "Electoral institutions are part of the machinery of representative government. Their founding date is distinct from the dates of elections they later administer.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000107-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "25 Jan 1950 CE",
+      "anchor": {
+        "year": 1950,
+        "month": 1,
+        "day": 25,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Institutional establishment date.",
+      "conversionNote": "Institutional establishment date.",
+      "dateClaimIds": [
+        "evt_000107-date"
+      ]
+    }
+  },
+  "primaryRegion": "south-asia",
+  "subregion": "Indian subcontinent",
+  "themeIds": [
+    "politics"
+  ],
+  "tier": "major",
+  "context": "Electoral institutions are part of the machinery of representative government. Their founding date is distinct from the dates of elections they later administer.",
+  "dateNote": "Institutional establishment date.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000107"
+  ],
+  "alternativeTitles": []
+}

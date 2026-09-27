@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000114",
+  "preferredName": "Central Asia",
+  "placeType": "historical-place",
+  "regionIds": [
+    "central-asia"
+  ],
+  "sourceRefs": [
+    "src_000095"
+  ],
+  "modernLocator": "Central Asia"
+}

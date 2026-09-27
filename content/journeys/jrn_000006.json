@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "jrn_000006",
+  "slug": "health-across-borders",
+  "title": "Health across borders",
+  "summary": "Trace changing medical practices and international public-health institutions.",
+  "regionIds": [
+    "east-asia",
+    "europe",
+    "global"
+  ],
+  "claims": [
+    {
+      "id": "jrn_000006-selection",
+      "text": "Curatorial selection of the cited events for comparative reading; no causal connection is implied by step order.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "jrn_000006-c1",
+        "jrn_000006-c2",
+        "jrn_000006-c3",
+        "jrn_000006-c4",
+        "jrn_000006-c5",
+        "jrn_000006-c6",
+        "jrn_000006-c7",
+        "jrn_000006-c8",
+        "jrn_000006-c9"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "id": "jrn_000006-c1",
+      "sourceId": "src_000071",
+      "locator": "1500s; 1721; 1796 timeline entries",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000006-c2",
+      "sourceId": "src_000071",
+      "locator": "1500s; 1721; 1796 timeline entries",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000006-c3",
+      "sourceId": "src_000071",
+      "locator": "1500s; 1721; 1796 timeline entries",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000006-c4",
+      "sourceId": "src_000085",
+      "locator": "Fleming in 1928; Oxford team and Albert Alexander in 1941",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000006-c5",
+      "sourceId": "src_000085",
+      "locator": "Fleming in 1928; Oxford team and Albert Alexander in 1941",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000006-c6",
+      "sourceId": "src_000075",
+      "locator": "Constitution signed 22 July 1946; in force 7 April 1948",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000006-c7",
+      "sourceId": "src_000072",
+      "locator": "8 May 1980 declaration; intensified programme in 1967",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000006-c8",
+      "sourceId": "src_000072",
+      "locator": "8 May 1980 declaration; intensified programme in 1967",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000006-c9",
+      "sourceId": "src_000076",
+      "locator": "Assessment that COVID-19 can be characterized as a pandemic",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "journey",
+  "introduction": "Trace changing medical practices and international public-health institutions.",
+  "learningGoal": "Distinguish experiments, therapies, institutions and collective campaigns; these records are historical, not medical advice.",
+  "steps": [
+    {
+      "eventId": "evt_000082",
+      "heading": "Chinese accounts describe smallpox variolation",
+      "note": "Mid-1500s: 1550 is a coarse anchor, not an exact invention date."
+    },
+    {
+      "eventId": "evt_000080",
+      "heading": "Montagu advocates smallpox inoculation",
+      "note": "Year-level milestone."
+    },
+    {
+      "eventId": "evt_000081",
+      "heading": "Jenner tests cowpox-based vaccination",
+      "note": "Year precision; the WHO chronology distinguishes May inoculation from a later challenge."
+    },
+    {
+      "eventId": "evt_000101",
+      "heading": "Fleming observes penicillin’s antibacterial effect",
+      "note": "Observation year, not the start of general clinical availability."
+    },
+    {
+      "eventId": "evt_000102",
+      "heading": "An Oxford team tests penicillin clinically",
+      "note": "Clinical episode, year precision."
+    },
+    {
+      "eventId": "evt_000089",
+      "heading": "The World Health Organization comes into existence",
+      "note": "Gregorian entry-into-force date."
+    },
+    {
+      "eventId": "evt_000084",
+      "heading": "Smallpox eradication efforts intensify",
+      "note": "Programme milestone, year precision."
+    },
+    {
+      "eventId": "evt_000083",
+      "heading": "Smallpox eradication is declared",
+      "note": "Gregorian declaration date."
+    },
+    {
+      "eventId": "evt_000091",
+      "heading": "WHO characterizes COVID-19 as a pandemic",
+      "note": "Date of the Director-General’s media briefing."
+    }
+  ],
+  "evidenceNote": "Research preview. Follow each step to its claim-level sources. Independent historical review is pending.",
+  "startingViewport": {
+    "from": "1500CE",
+    "to": "2026CE"
+  }
+}

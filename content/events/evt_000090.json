@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000090",
+  "slug": "states-sign-the-who-constitution",
+  "title": "States sign the WHO Constitution",
+  "summary": "Representatives of 61 states signed the WHO Constitution on 22 July 1946. Ratification later brought the organization formally into existence.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "evt_000090-c1",
+      "sourceId": "src_000075",
+      "locator": "Constitution signed 22 July 1946; in force 7 April 1948",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000090-occurrence",
+      "text": "Representatives of 61 states signed the WHO Constitution on 22 July 1946. Ratification later brought the organization formally into existence.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000090-c1"
+      ]
+    },
+    {
+      "id": "evt_000090-date",
+      "text": "Gregorian signature date.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000090-c1"
+      ]
+    },
+    {
+      "id": "evt_000090-context",
+      "text": "A constitution sets an institutional framework; it does not itself demonstrate that its health objectives were achieved. Signing and implementation belong to different stages.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000090-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "22 Jul 1946 CE",
+      "anchor": {
+        "year": 1946,
+        "month": 7,
+        "day": 22,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "Gregorian signature date.",
+      "conversionNote": "Gregorian signature date.",
+      "dateClaimIds": [
+        "evt_000090-date"
+      ]
+    }
+  },
+  "primaryRegion": "global",
+  "subregion": "Cross-regional",
+  "themeIds": [
+    "health"
+  ],
+  "tier": "major",
+  "context": "A constitution sets an institutional framework; it does not itself demonstrate that its health objectives were achieved. Signing and implementation belong to different stages.",
+  "dateNote": "Gregorian signature date.",
+  "entityIds": [
+    "ent_000024"
+  ],
+  "placeIds": [
+    "plc_000090"
+  ],
+  "alternativeTitles": []
+}

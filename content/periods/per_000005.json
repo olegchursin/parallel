@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "per_000005",
+  "slug": "great-zimbabwe-becomes-a-trading-centre",
+  "title": "Great Zimbabwe becomes a trading centre",
+  "summary": "Shona-associated communities built stone enclosures and settlements at Great Zimbabwe. Archaeological finds, including imported beads and ceramics, connect the site to wider networks of exchange beyond southern Africa.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "per_000005-c1",
+      "sourceId": "src_000005",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "per_000005-occurrence",
+      "text": "Shona-associated communities built stone enclosures and settlements at Great Zimbabwe. Archaeological finds, including imported beads and ceramics, connect the site to wider networks of exchange beyond southern Africa.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "per_000005-c1"
+      ]
+    },
+    {
+      "id": "per_000005-date",
+      "text": "Approximate building range; the site includes earlier occupation and later activity.",
+      "claimType": "date",
+      "citationIds": [
+        "per_000005-c1"
+      ]
+    },
+    {
+      "id": "per_000005-context",
+      "text": "The surviving masonry and artifacts establish African authorship and extensive regional connections. The site’s construction history should be distinguished from later legends about its origin and from the continuing histories of local communities.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "per_000005-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "period",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1,100 CE",
+      "anchor": {
+        "year": 1100,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate building range; the site includes earlier occupation and later activity.",
+      "conversionNote": "Approximate building range; the site includes earlier occupation and later activity.",
+      "dateClaimIds": [
+        "per_000005-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,450 CE",
+      "anchor": {
+        "year": 1450,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Approximate building range; the site includes earlier occupation and later activity.",
+      "conversionNote": "Approximate building range; the site includes earlier occupation and later activity.",
+      "dateClaimIds": [
+        "per_000005-date"
+      ]
+    }
+  },
+  "periodType": "archaeological",
+  "displayOrder": 5,
+  "entityId": "ent_000005"
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000063",
+  "preferredName": "Cross-regional Africa",
+  "placeType": "historical-place",
+  "regionIds": [
+    "africa"
+  ],
+  "sourceRefs": [
+    "src_000060"
+  ],
+  "modernLocator": "Cross-regional Africa"
+}

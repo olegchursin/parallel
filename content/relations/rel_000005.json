@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "rel_000005",
+  "fromId": "evt_000087",
+  "toId": "evt_000088",
+  "relationType": "succeeded_by",
+  "direction": "directed",
+  "claim": "The Charter’s entry into force followed its signature.",
+  "citations": [
+    {
+      "id": "rel_000005-c1",
+      "sourceId": "src_000074",
+      "locator": "Chapter I.1; San Francisco 26 June 1945; entry into force",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "rel_000005-c2",
+      "sourceId": "src_000074",
+      "locator": "Chapter I.1; San Francisco 26 June 1945; entry into force",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  }
+}

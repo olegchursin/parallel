@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "rel_000009",
+  "fromId": "evt_000092",
+  "toId": "evt_000093",
+  "relationType": "succeeded_by",
+  "direction": "directed",
+  "claim": "Entry into force followed the agreement’s adoption.",
+  "citations": [
+    {
+      "id": "rel_000009-c1",
+      "sourceId": "src_000077",
+      "locator": "Adoption on 12 December 2015; entry into force 4 November 2016",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "rel_000009-c2",
+      "sourceId": "src_000077",
+      "locator": "Adoption on 12 December 2015; entry into force 4 November 2016",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  }
+}

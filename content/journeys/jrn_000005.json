@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "jrn_000005",
+  "slug": "revolutions-and-the-language-of-rights",
+  "title": "Revolutions and the language of rights",
+  "summary": "Compare declarations, emancipation and expansions of political participation.",
+  "regionIds": [
+    "americas",
+    "europe",
+    "oceania",
+    "south-asia",
+    "africa"
+  ],
+  "claims": [
+    {
+      "id": "jrn_000005-selection",
+      "text": "Curatorial selection of the cited events for comparative reading; no causal connection is implied by step order.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "jrn_000005-c1",
+        "jrn_000005-c2",
+        "jrn_000005-c3",
+        "jrn_000005-c4",
+        "jrn_000005-c5",
+        "jrn_000005-c6",
+        "jrn_000005-c7",
+        "jrn_000005-c8",
+        "jrn_000005-c9"
+      ]
+    }
+  ],
+  "citations": [
+    {
+      "id": "jrn_000005-c1",
+      "sourceId": "src_000078",
+      "locator": "Adoption and signing chronology",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000005-c2",
+      "sourceId": "src_000083",
+      "locator": "Articles voted 20–26 August 1789",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000005-c3",
+      "sourceId": "src_000082",
+      "locator": "Independence in 1804",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000005-c4",
+      "sourceId": "src_000081",
+      "locator": "Convention on 19–20 July 1848",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000005-c5",
+      "sourceId": "src_000079",
+      "locator": "1 January 1863; specified areas in rebellion",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000005-c6",
+      "sourceId": "src_000080",
+      "locator": "Ratification; text of Section 1",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000005-c7",
+      "sourceId": "src_000091",
+      "locator": "Electoral Act signed 19 September 1893",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000005-c8",
+      "sourceId": "src_000088",
+      "locator": "Page 117: independence, Constitution and Election Commission dates",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    },
+    {
+      "id": "jrn_000005-c9",
+      "sourceId": "src_000089",
+      "locator": "First non-racial democratic elections, 27 April 1994",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "journey",
+  "introduction": "Compare declarations, emancipation and expansions of political participation.",
+  "learningGoal": "Compare legal milestones with their scope and exclusions; words, laws and lived equality are not interchangeable.",
+  "steps": [
+    {
+      "eventId": "evt_000094",
+      "heading": "The US Declaration of Independence is adopted",
+      "note": "Adoption date, not the date of every signature."
+    },
+    {
+      "eventId": "evt_000099",
+      "heading": "The French assembly adopts a declaration of rights",
+      "note": "Voting sequence across several days, not one instant."
+    },
+    {
+      "eventId": "evt_000098",
+      "heading": "Haiti becomes independent",
+      "note": "Year precision; no uninspected exact-day claim."
+    },
+    {
+      "eventId": "evt_000097",
+      "heading": "A women’s rights convention meets at Seneca Falls",
+      "note": "Two-day meeting; the end date is inclusive in the source."
+    },
+    {
+      "eventId": "evt_000095",
+      "heading": "The Emancipation Proclamation takes effect",
+      "note": "Effective date of the final proclamation."
+    },
+    {
+      "eventId": "evt_000096",
+      "heading": "The Thirteenth Amendment is ratified",
+      "note": "Ratification date, distinguished from congressional passage."
+    },
+    {
+      "eventId": "evt_000110",
+      "heading": "New Zealand extends parliamentary voting to women",
+      "note": "Date the Act became law."
+    },
+    {
+      "eventId": "evt_000106",
+      "heading": "India’s Constitution comes into effect",
+      "note": "Date of general commencement."
+    },
+    {
+      "eventId": "evt_000108",
+      "heading": "South Africa holds its first non-racial national election",
+      "note": "Commemorative election date; voting extended over several days."
+    }
+  ],
+  "evidenceNote": "Research preview. Follow each step to its claim-level sources. Independent historical review is pending.",
+  "startingViewport": {
+    "from": "1750CE",
+    "to": "2000CE"
+  }
+}

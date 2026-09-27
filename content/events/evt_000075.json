@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000075",
+  "slug": "hunminjeongum-announces-the-korean-alphabet",
+  "title": "Hunminjeongum announces the Korean alphabet",
+  "summary": "The Hunminjeongum text promulgated the Korean alphabet in 1446, after its completion in 1443. The manuscript explains the new writing system and its intended use.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000075-c1",
+      "sourceId": "src_000068",
+      "locator": "Completion in 1443; promulgation in 1446",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000075-occurrence",
+      "text": "The Hunminjeongum text promulgated the Korean alphabet in 1446, after its completion in 1443. The manuscript explains the new writing system and its intended use.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000075-c1"
+      ]
+    },
+    {
+      "id": "evt_000075-date",
+      "text": "Ninth lunar month of 1446 in the source; retained at year precision, without an invented Gregorian day.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000075-c1"
+      ]
+    },
+    {
+      "id": "evt_000075-context",
+      "text": "Writing systems and printing technologies answer different questions. Placing alphabet design beside book production helps distinguish the representation of language from methods of reproducing it.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000075-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1,446 CE",
+      "anchor": {
+        "year": 1446,
+        "precision": "year"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Ninth lunar month of 1446 in the source; retained at year precision, without an invented Gregorian day.",
+      "conversionNote": "Ninth lunar month of 1446 in the source; retained at year precision, without an invented Gregorian day.",
+      "dateClaimIds": [
+        "evt_000075-date"
+      ]
+    }
+  },
+  "primaryRegion": "east-asia",
+  "subregion": "Korea",
+  "themeIds": [
+    "knowledge"
+  ],
+  "tier": "major",
+  "context": "Writing systems and printing technologies answer different questions. Placing alphabet design beside book production helps distinguish the representation of language from methods of reproducing it.",
+  "dateNote": "Ninth lunar month of 1446 in the source; retained at year precision, without an invented Gregorian day.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000075"
+  ],
+  "alternativeTitles": [
+    "Hangul",
+    "Hunminjeongum"
+  ]
+}

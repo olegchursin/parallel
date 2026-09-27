@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000110",
+  "preferredName": "Aotearoa New Zealand",
+  "placeType": "historical-place",
+  "regionIds": [
+    "oceania"
+  ],
+  "sourceRefs": [
+    "src_000091"
+  ],
+  "modernLocator": "Aotearoa New Zealand"
+}

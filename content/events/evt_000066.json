@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000066",
+  "slug": "people-use-ochre-in-northern-australia",
+  "title": "People use ochre in northern Australia",
+  "summary": "Ochre evidence from northern Australia is dated to approximately 53,000–59,000 years ago in the museum’s account. Pigment use adds a material dimension to the deep history of the continent.",
+  "regionIds": [
+    "oceania"
+  ],
+  "citations": [
+    {
+      "id": "evt_000066-c1",
+      "sourceId": "src_000061",
+      "locator": "Evidence of first peoples; ochre image caption",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000066-occurrence",
+      "text": "Ochre evidence from northern Australia is dated to approximately 53,000–59,000 years ago in the museum’s account. Pigment use adds a material dimension to the deep history of the continent.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000066-c1"
+      ]
+    },
+    {
+      "id": "evt_000066-date",
+      "text": "Dating envelope for an occurrence, not an actual duration. Rounded BCE equivalents retain the original years-ago expression.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000066-c1"
+      ]
+    },
+    {
+      "id": "evt_000066-context",
+      "text": "The date range describes the evidence, not six millennia of uninterrupted production. It does not by itself establish the precise symbolic meaning of every piece of pigment.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000066-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 59,000–53,000 years ago",
+      "anchor": {
+        "year": -56999,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Dating envelope for an occurrence, not an actual duration. Rounded BCE equivalents retain the original years-ago expression.",
+      "conversionNote": "Dating envelope for an occurrence, not an actual duration. Rounded BCE equivalents retain the original years-ago expression.",
+      "dateClaimIds": [
+        "evt_000066-date"
+      ],
+      "earliest": {
+        "year": -56999,
+        "precision": "year"
+      },
+      "latest": {
+        "year": -50999,
+        "precision": "year"
+      }
+    },
+    "scientificDating": {
+      "convention": "years-ago",
+      "expression": "Dating envelope for an occurrence, not an actual duration. Rounded BCE equivalents retain the original years-ago expression.",
+      "referenceYear": 2000,
+      "methodNote": "Rounded 2000 CE reference for layout only; the original expression and its limits are retained. This is not a radiocarbon calibration."
+    }
+  },
+  "primaryRegion": "oceania",
+  "subregion": "Australia",
+  "themeIds": [
+    "arts"
+  ],
+  "tier": "major",
+  "context": "The date range describes the evidence, not six millennia of uninterrupted production. It does not by itself establish the precise symbolic meaning of every piece of pigment.",
+  "dateNote": "Dating envelope for an occurrence, not an actual duration. Rounded BCE equivalents retain the original years-ago expression.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000066"
+  ],
+  "alternativeTitles": []
+}

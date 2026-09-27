@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "per_000004",
+  "slug": "angkors-cities-and-water-networks-grow",
+  "title": "Angkor’s cities and water networks grow",
+  "summary": "Successive Khmer capitals developed across the Angkor landscape in present-day Cambodia. Temples, reservoirs, canals and roads reveal an extensive urban environment where infrastructure and religious architecture were closely connected.",
+  "regionIds": [
+    "southeast-asia"
+  ],
+  "citations": [
+    {
+      "id": "per_000004-c1",
+      "sourceId": "src_000004",
+      "locator": "Description and Outstanding Universal Value / Brief synthesis",
+      "supportRole": "supports",
+      "note": "Supports the factual summary and chronology. Context includes explicitly interpretive comparisons; the date note identifies limits of precision."
+    }
+  ],
+  "claims": [
+    {
+      "id": "per_000004-occurrence",
+      "text": "Successive Khmer capitals developed across the Angkor landscape in present-day Cambodia. Temples, reservoirs, canals and roads reveal an extensive urban environment where infrastructure and religious architecture were closely connected.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "per_000004-c1"
+      ]
+    },
+    {
+      "id": "per_000004-date",
+      "text": "Ninth–fifteenth centuries; conventional century bounds are indexing envelopes.",
+      "claimType": "date",
+      "citationIds": [
+        "per_000004-c1"
+      ]
+    },
+    {
+      "id": "per_000004-context",
+      "text": "The site provides a comparison with contemporary cities in Africa and the Americas. Its long history contains multiple capitals and building phases, rather than one unchanging city or a single moment of construction.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "per_000004-c1"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending; institutional-source coverage is incomplete."
+    ],
+    "corroboration": "An institutional source passage was inspected against the stated claim and date. Source discovery included searches for relevant institutional accounts; independent scholarly corroboration is not established. No independent reviewer has approved this record."
+  },
+  "kind": "period",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 801 CE",
+      "anchor": {
+        "year": 801,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Ninth–fifteenth centuries; conventional century bounds are indexing envelopes.",
+      "conversionNote": "Ninth–fifteenth centuries; conventional century bounds are indexing envelopes.",
+      "dateClaimIds": [
+        "per_000004-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1,500 CE",
+      "anchor": {
+        "year": 1500,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Source BCE/CE chronology; proleptic Gregorian year buckets for placement",
+      "originalExpression": "Ninth–fifteenth centuries; conventional century bounds are indexing envelopes.",
+      "conversionNote": "Ninth–fifteenth centuries; conventional century bounds are indexing envelopes.",
+      "dateClaimIds": [
+        "per_000004-date"
+      ]
+    }
+  },
+  "periodType": "archaeological",
+  "displayOrder": 4,
+  "entityId": "ent_000004"
+}
