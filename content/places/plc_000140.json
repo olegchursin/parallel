@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000140",
+  "preferredName": "Maya lowlands",
+  "placeType": "historical-place",
+  "regionIds": [
+    "americas"
+  ],
+  "sourceRefs": [
+    "src_000140",
+    "src_000120"
+  ],
+  "modernLocator": "Guatemala or Mexico; exact workshop uncertain"
+}

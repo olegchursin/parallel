@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000142",
+  "preferredName": "Lapita archaeological tradition",
+  "placeType": "historical-place",
+  "regionIds": [
+    "oceania"
+  ],
+  "sourceRefs": [
+    "src_000122",
+    "src_000134"
+  ],
+  "modernLocator": "Western Pacific, including New Caledonia"
+}

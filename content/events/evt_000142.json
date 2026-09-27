@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000142",
+  "slug": "lapita-potters-stamp-geometric-designs-in-clay",
+  "title": "Lapita potters stamp geometric designs in clay",
+  "summary": "Potters of the Lapita tradition impressed toothed stamps into clay to build geometric designs across vessels found in the western Pacific.",
+  "regionIds": [
+    "oceania"
+  ],
+  "citations": [
+    {
+      "id": "evt_000142-c122",
+      "sourceId": "src_000122",
+      "locator": "Essay title; dentate stamping and name derived from New Caledonian site",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    },
+    {
+      "id": "evt_000142-c134",
+      "sourceId": "src_000134",
+      "locator": "Category overview; toothed stamps and geometric motifs (Art & Architecture Thesaurus)",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000142-occurrence",
+      "text": "Potters of the Lapita tradition impressed toothed stamps into clay to build geometric designs across vessels found in the western Pacific.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000142-c122",
+        "evt_000142-c134"
+      ]
+    },
+    {
+      "id": "evt_000142-date",
+      "text": "The Met’s 2002 overview uses about 1500–500 BCE. This broad material-culture framing is not a calibrated chronology for every island.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000142-c122"
+      ]
+    },
+    {
+      "id": "evt_000142-context",
+      "text": "The style takes its name from a New Caledonian site. Its patterns sometimes include faces; pottery distributions should not be treated as a complete map of migration.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000142-c122",
+        "evt_000142-c134"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending.",
+      "Broad dating derives from a 2002 overview; island-by-island archaeological chronology is not independently checked."
+    ],
+    "corroboration": "Te Papa’s thesaurus-based entry corroborates the technique and name, but supplies no independent chronology. The older Met date envelope requires specialist regional review."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1500 BCE",
+      "anchor": {
+        "year": -1499,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "c. 1500 BCE",
+      "conversionNote": "The Met’s 2002 overview uses about 1500–500 BCE. This broad material-culture framing is not a calibrated chronology for every island.",
+      "dateClaimIds": [
+        "evt_000142-date"
+      ]
+    },
+    "end": {
+      "label": "c. 500 BCE",
+      "anchor": {
+        "year": -499,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "c. 500 BCE",
+      "conversionNote": "The Met’s 2002 overview uses about 1500–500 BCE. This broad material-culture framing is not a calibrated chronology for every island.",
+      "dateClaimIds": [
+        "evt_000142-date"
+      ]
+    }
+  },
+  "primaryRegion": "oceania",
+  "subregion": "Pacific Islands",
+  "themeIds": [
+    "arts",
+    "exchange"
+  ],
+  "tier": "contextual",
+  "context": "The style takes its name from a New Caledonian site. Its patterns sometimes include faces; pottery distributions should not be treated as a complete map of migration.",
+  "dateNote": "The Met’s 2002 overview uses about 1500–500 BCE. This broad material-culture framing is not a calibrated chronology for every island.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000142"
+  ],
+  "alternativeTitles": [
+    "Dentate-stamped pottery",
+    "Lapita ceramics"
+  ]
+}

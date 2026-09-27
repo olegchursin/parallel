@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000136",
+  "preferredName": "Vietnam",
+  "placeType": "historical-place",
+  "regionIds": [
+    "southeast-asia"
+  ],
+  "sourceRefs": [
+    "src_000116"
+  ],
+  "modernLocator": "Vietnam; findspot not specified"
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000150",
+  "slug": "the-human-genome-project-announces-completion",
+  "title": "The Human Genome Project announces completion",
+  "summary": "The international consortium announced completion of the Human Genome Project and made its sequence data freely available for research.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "evt_000150-c130",
+      "sourceId": "src_000130",
+      "locator": "14 April 2003 release; finished-sequence definition, remaining gaps and public data release",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000150-occurrence",
+      "text": "The international consortium announced completion of the Human Genome Project and made its sequence data freely available for research.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000150-c130"
+      ]
+    },
+    {
+      "id": "evt_000150-date",
+      "text": "The record dates the public completion announcement on 14 April 2003, rather than later gap-closing work.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000150-c130"
+      ]
+    },
+    {
+      "id": "evt_000150-context",
+      "text": "“Finished” meant a highly accurate reference covering about 99% of gene-containing regions. Difficult sequences still left gaps; this was not a gapless human genome.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000150-c130"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The contemporaneous NHGRI release was inspected, including its explicit remaining-gap definition. No second independent account was established for this record."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "14 April 2003 CE",
+      "anchor": {
+        "year": 2003,
+        "month": 4,
+        "day": 14,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "14 April 2003 CE",
+      "conversionNote": "The record dates the public completion announcement on 14 April 2003, rather than later gap-closing work.",
+      "dateClaimIds": [
+        "evt_000150-date"
+      ]
+    }
+  },
+  "primaryRegion": "global",
+  "subregion": "Cross-regional",
+  "themeIds": [
+    "knowledge",
+    "health"
+  ],
+  "tier": "contextual",
+  "context": "“Finished” meant a highly accurate reference covering about 99% of gene-containing regions. Difficult sequences still left gaps; this was not a gapless human genome.",
+  "dateNote": "The record dates the public completion announcement on 14 April 2003, rather than later gap-closing work.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000150"
+  ],
+  "alternativeTitles": [
+    "HGP",
+    "Human genome sequencing",
+    "Genome project"
+  ]
+}

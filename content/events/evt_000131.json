@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000131",
+  "slug": "guo-xi-paints-old-trees-level-distance",
+  "title": "Guo Xi paints Old Trees, Level Distance",
+  "summary": "Guo Xi’s landscape handscroll sets tall foreground trees against an open river valley, using ink and color on silk.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000131-c111",
+      "sourceId": "src_000111",
+      "locator": "Object 1981.276; Date, Medium and proposed retirement occasion",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000131-occurrence",
+      "text": "Guo Xi’s landscape handscroll sets tall foreground trees against an open river valley, using ink and color on silk.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000131-c111"
+      ]
+    },
+    {
+      "id": "evt_000131-date",
+      "text": "The catalogue dates the painting to about 1080; the year is approximate.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000131-c111"
+      ]
+    },
+    {
+      "id": "evt_000131-context",
+      "text": "The Met reads its autumnal mood as possibly connected to an official’s retirement. That proposed occasion remains an interpretation, not a documented commission.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000131-c111"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met object record was compared with its landscape-painting essay’s caption. Both are one institution; independent confirmation of the proposed occasion is absent."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 1080 CE",
+      "anchor": {
+        "year": 1080,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "c. 1080 CE",
+      "conversionNote": "The catalogue dates the painting to about 1080; the year is approximate.",
+      "dateClaimIds": [
+        "evt_000131-date"
+      ]
+    }
+  },
+  "primaryRegion": "east-asia",
+  "subregion": "China",
+  "themeIds": [
+    "arts"
+  ],
+  "tier": "contextual",
+  "context": "The Met reads its autumnal mood as possibly connected to an official’s retirement. That proposed occasion remains an interpretation, not a documented commission.",
+  "dateNote": "The catalogue dates the painting to about 1080; the year is approximate.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000131"
+  ],
+  "alternativeTitles": [
+    "Guo Hsi",
+    "Old Trees Level Distance"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000121",
+  "preferredName": "Ile-Ife",
+  "placeType": "historical-place",
+  "regionIds": [
+    "africa"
+  ],
+  "sourceRefs": [
+    "src_000101"
+  ],
+  "modernLocator": "Ile-Ife, Nigeria"
+}

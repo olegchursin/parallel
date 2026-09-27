@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000132",
+  "slug": "hokusai-publishes-the-great-wave",
+  "title": "Hokusai publishes The Great Wave",
+  "summary": "Hokusai’s color woodblock design The Great Wave presents boats beneath a breaking wave, with Mount Fuji visible in the distance.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000132-c112",
+      "sourceId": "src_000112",
+      "locator": "Object JP1847; Date, Medium and indigo/Prussian blue description",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    },
+    {
+      "id": "evt_000132-c138",
+      "sourceId": "src_000138",
+      "locator": "Collection details: c. 1830–32 (Tenpo 1–3), color woodblock print",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000132-occurrence",
+      "text": "Hokusai’s color woodblock design The Great Wave presents boats beneath a breaking wave, with Mount Fuji visible in the distance.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000132-c112",
+        "evt_000132-c138"
+      ]
+    },
+    {
+      "id": "evt_000132-date",
+      "text": "The Met and Tokyo Fuji Art Museum give about 1830–1832; the range estimates publication, not a continuous two-year printing operation.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000132-c112",
+        "evt_000132-c138"
+      ]
+    },
+    {
+      "id": "evt_000132-context",
+      "text": "The print belongs to Thirty-six Views of Mount Fuji. Its blue palette combines indigo with imported Prussian blue, linking Japanese printmaking to traded pigments.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000132-c112"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met and Tokyo Fuji Art Museum catalogue dates agree at about 1830–32. They describe separate impressions of the same design."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 1830–1832 CE",
+      "earliest": {
+        "year": 1830,
+        "precision": "year"
+      },
+      "latest": {
+        "year": 1832,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "c. 1830–1832 CE",
+      "conversionNote": "The Met and Tokyo Fuji Art Museum give about 1830–1832; the range estimates publication, not a continuous two-year printing operation.",
+      "dateClaimIds": [
+        "evt_000132-date"
+      ]
+    }
+  },
+  "primaryRegion": "east-asia",
+  "subregion": "Japan",
+  "themeIds": [
+    "arts",
+    "exchange"
+  ],
+  "tier": "contextual",
+  "context": "The print belongs to Thirty-six Views of Mount Fuji. Its blue palette combines indigo with imported Prussian blue, linking Japanese printmaking to traded pigments.",
+  "dateNote": "The Met and Tokyo Fuji Art Museum give about 1830–1832; the range estimates publication, not a continuous two-year printing operation.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000132"
+  ],
+  "alternativeTitles": [
+    "Under the Wave off Kanagawa",
+    "Katsushika Hokusai",
+    "Kanagawa oki nami ura"
+  ]
+}

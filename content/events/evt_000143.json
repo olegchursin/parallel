@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000143",
+  "slug": "rukupo-and-fellow-carvers-build-te-hau-ki-turanga",
+  "title": "Rukupō and fellow carvers build Te Hau-ki-Tūranga",
+  "summary": "Raharuhi Rukupō and fellow carvers built Te Hau-ki-Tūranga as a memorial to his elder brother, Te Waaka Māngere.",
+  "regionIds": [
+    "oceania"
+  ],
+  "citations": [
+    {
+      "id": "evt_000143-c123",
+      "sourceId": "src_000123",
+      "locator": "Final biographical paragraph: meeting house built in 1842–3 in memory of Māngere",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    },
+    {
+      "id": "evt_000143-c141",
+      "sourceId": "src_000141",
+      "locator": "Paragraph beginning “In 1842 Rukupō began the house”; eighteen carvers and memorial purpose",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000143-occurrence",
+      "text": "Raharuhi Rukupō and fellow carvers built Te Hau-ki-Tūranga as a memorial to his elder brother, Te Waaka Māngere.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000143-c123",
+        "evt_000143-c141"
+      ]
+    },
+    {
+      "id": "evt_000143-date",
+      "text": "Te Ara dates the beginning to 1842; NZHistory describes construction in 1842–1843. The interval represents building activity, at year-level precision.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000143-c123",
+        "evt_000143-c141"
+      ]
+    },
+    {
+      "id": "evt_000143-context",
+      "text": "Te Ara describes eighteen expert carvers participating. The house’s collaborative creation is distinct from its later seizure and museum history.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000143-c141"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "NZHistory’s 1842–43 account was compared with Te Ara’s 1842 start. Both belong to Manatū Taonga and are not counted as independent institutional corroboration."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "1842 CE",
+      "anchor": {
+        "year": 1842,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "1842 CE",
+      "conversionNote": "Te Ara dates the beginning to 1842; NZHistory describes construction in 1842–1843. The interval represents building activity, at year-level precision.",
+      "dateClaimIds": [
+        "evt_000143-date"
+      ]
+    },
+    "end": {
+      "label": "1843 CE",
+      "anchor": {
+        "year": 1843,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "1843 CE",
+      "conversionNote": "Te Ara dates the beginning to 1842; NZHistory describes construction in 1842–1843. The interval represents building activity, at year-level precision.",
+      "dateClaimIds": [
+        "evt_000143-date"
+      ]
+    }
+  },
+  "primaryRegion": "oceania",
+  "subregion": "Aotearoa New Zealand",
+  "themeIds": [
+    "arts",
+    "society"
+  ],
+  "tier": "contextual",
+  "context": "Te Ara describes eighteen expert carvers participating. The house’s collaborative creation is distinct from its later seizure and museum history.",
+  "dateNote": "Te Ara dates the beginning to 1842; NZHistory describes construction in 1842–1843. The interval represents building activity, at year-level precision.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000143"
+  ],
+  "alternativeTitles": [
+    "Te Hau ki Turanga",
+    "Raharuhi Rukupo",
+    "Whare whakairo"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000140",
+  "slug": "a-maya-painter-depicts-the-rain-god-on-a-vessel",
+  "title": "A Maya painter depicts the rain god on a vessel",
+  "summary": "A Maya drinking vessel attributed to the Metropolitan Painter depicts the rain god Chahk and other supernatural figures in a finely drawn mythological scene.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "evt_000140-c140",
+      "sourceId": "src_000140",
+      "locator": "Object 1978.412.206; Date 600–800 CE, Guatemala or Mexico, and rain god Chahk",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    },
+    {
+      "id": "evt_000140-c120",
+      "sourceId": "src_000120",
+      "locator": "Codex-style vessels, Calakmul/northern Petén attribution, mythological scenes and object 1978.412.206",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000140-occurrence",
+      "text": "A Maya drinking vessel attributed to the Metropolitan Painter depicts the rain god Chahk and other supernatural figures in a finely drawn mythological scene.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000140-c140"
+      ]
+    },
+    {
+      "id": "evt_000140-date",
+      "text": "The collection catalogue gives 600–800 CE for this vessel, not for the entire Maya painted-ceramic tradition.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000140-c140"
+      ]
+    },
+    {
+      "id": "evt_000140-context",
+      "text": "Such codex-style ceramics combine imagery with hieroglyphic writing. Their proposed production around Calakmul and northern Petén remains an attribution rather than a known workshop address.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000140-c120"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met’s thematic essay was compared with its object catalogue. This checks scope and date within one institution, not through independent source families."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "600–800 CE",
+      "earliest": {
+        "year": 600,
+        "precision": "year"
+      },
+      "latest": {
+        "year": 800,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "600–800 CE",
+      "conversionNote": "The collection catalogue gives 600–800 CE for this vessel, not for the entire Maya painted-ceramic tradition.",
+      "dateClaimIds": [
+        "evt_000140-date"
+      ]
+    }
+  },
+  "primaryRegion": "americas",
+  "subregion": "Mesoamerica",
+  "themeIds": [
+    "arts",
+    "belief"
+  ],
+  "tier": "contextual",
+  "context": "Such codex-style ceramics combine imagery with hieroglyphic writing. Their proposed production around Calakmul and northern Petén remains an attribution rather than a known workshop address.",
+  "dateNote": "The collection catalogue gives 600–800 CE for this vessel, not for the entire Maya painted-ceramic tradition.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000140"
+  ],
+  "alternativeTitles": [
+    "Maya codex-style ceramics",
+    "Chahk",
+    "Metropolitan Painter"
+  ]
+}

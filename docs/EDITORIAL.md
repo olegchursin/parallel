@@ -1,14 +1,16 @@
 # Editorial status and coverage
 
-This is a **research preview**, not an editorially published history product. Historical coverage ends on **31 December 2025**. The 120 event/process records are marked `evidence-checked`, with `checkedBy` and `reviewedAt` left null. No independent historian has reviewed or approved them. The author field identifies source-assisted development rather than inventing a reviewer.
+This is a **research preview**, not an editorially published history product. Historical coverage ends on **31 December 2025**. The 150 event/process records are marked `evidence-checked`, with `checkedBy` and `reviewedAt` left null. No independent historian has reviewed or approved them. The author field identifies source-assisted development rather than inventing a reviewer.
 
-The build contains 25 entity records, 15 period records, six journeys and 100 bibliographic sources. All ten regions and all twelve temporal allocation windows are represented. Approximately 79% of primary themes are outside politics/warfare. The generated [coverage report](reports/coverage.json) is authoritative for counts and version.
+The build contains 25 entity records, 15 period records, six journeys and 142 bibliographic sources. All ten regions and all twelve temporal allocation windows are represented. Approximately 83% of primary themes are outside politics/warfare. The generated [coverage report](reports/coverage.json) is authoritative for counts and version.
 
 ## Selection and known limits
 
-The requested 120-record sample uses the PDF's regions and temporal windows, but not mechanically scaled quotas. Source availability led to more archaeological sites and documented institutional milestones, and fewer accounts of everyday life, labour, gender and local intellectual traditions. Empty lanes are labeled as collection gaps.
+The initial 120-record sample uses the PDF's regions and temporal windows, but not mechanically scaled quotas. Source availability led to more archaeological sites and documented institutional milestones, and fewer accounts of everyday life, labour, gender and local intellectual traditions. Empty lanes are labeled as collection gaps.
 
-UNESCO heritage summaries dominate ancient and medieval coverage. These summaries are useful for identifying dates and material evidence but are not substitutes for regional scholarship, Indigenous perspectives or historiographical debate. Central and North Asia and Southeast Asia have small samples. Recent history is especially selective. The Americas include eight pre-1492 primary start anchors out of sixteen, meeting the PDF's suggested 50% audit target; this numerical check does not establish balanced representation. Oceania includes deep-time Australia, New Guinea and Pacific records, but “before colonization” must be assessed by place rather than by a universal date.
+The [September 2026 expansion](CONTENT-EXPANSION-2026-09-27.md) adds 30 records, three per region, emphasizing material culture, technical knowledge and cultural agency. Museum objects have estimated manufacture dates; these are not modeled as centuries-long production tasks.
+
+UNESCO heritage summaries dominate ancient and medieval coverage. These summaries are useful for identifying dates and material evidence but are not substitutes for regional scholarship, Indigenous perspectives or historiographical debate. Central and North Asia and Southeast Asia have small samples. Recent history is especially selective. The Americas include eleven pre-1492 primary start anchors out of nineteen, meeting the PDF's suggested 50% audit target; this numerical check does not establish balanced representation. Oceania includes deep-time Australia, New Guinea and Pacific records, but “before colonization” must be assessed by place rather than by a universal date.
 
 The 40 entity/period records intentionally reuse supported evidence about phases. Their panels say that a phase is not a complete lifespan. Western and Eastern Han phases preserve the intervening gap. Journeys are curatorial comparisons; step order alone never asserts transmission or causation.
 
@@ -30,7 +32,7 @@ Examples of issues handled conservatively:
 - The Korean armistice is not described as a peace treaty.
 - The Kazakhstan source is in Russian; its English paraphrase still needs independent language review.
 
-Search-discovered pages that could not be inspected were not used as supporting sources. Failed IWM/UN landing-page and some national-archive retrievals were replaced by accessible inspected institutional passages, or their candidate events were omitted. Two URLs from the same institution are one source family, not independent corroboration.
+Search-discovered pages without inspectable supporting passages were not used. The NGA batik glossary is a documented exception to direct-page retrieval: the complete relevant passage was inspected in its indexed copy after the site returned 403. Its access limitation is visible in the source record. Failed IWM/UN landing-page and some national-archive retrievals were replaced by accessible inspected institutional passages, or their candidate events were omitted. Two URLs from the same institution are one source family, not independent corroboration.
 
 ## Publication and correction workflow
 

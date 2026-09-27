@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000131",
+  "preferredName": "Northern Song China",
+  "placeType": "historical-place",
+  "regionIds": [
+    "east-asia"
+  ],
+  "sourceRefs": [
+    "src_000111"
+  ],
+  "modernLocator": "China; precise place of execution not specified"
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000137",
+  "slug": "ban-chiang-potters-decorate-a-jar-with-red-designs",
+  "title": "Ban Chiang potters decorate a jar with red designs",
+  "summary": "A jar associated with the Ban Chiang tradition combines a buff surface with red painted decoration, showing a distinctive approach to earthenware design.",
+  "regionIds": [
+    "southeast-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000137-c117",
+      "sourceId": "src_000117",
+      "locator": "Object 1987.424.9; Date, Medium and painted decoration; phase-label inconsistency retained",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000137-occurrence",
+      "text": "A jar associated with the Ban Chiang tradition combines a buff surface with red painted decoration, showing a distinctive approach to earthenware design.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000137-c117"
+      ]
+    },
+    {
+      "id": "evt_000137-date",
+      "text": "The Met’s Date field gives 300 BCE–200 CE. Its “Middle period” label conflicts with the description’s final-phase association; broader archaeological dating remains unresolved.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000137-c117"
+      ]
+    },
+    {
+      "id": "evt_000137-context",
+      "text": "The record concerns this catalogued object. Its phase label and descriptive chronology are inconsistent, so it is not used to date all Ban Chiang pottery.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000137-c117"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending.",
+      "The museum’s period label and descriptive phase attribution disagree; a specialist check is pending."
+    ],
+    "corroboration": "Catalogue date, medium and description were inspected. Their phase-label inconsistency is disclosed rather than resolved by an invented date."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "300 BCE–200 CE",
+      "earliest": {
+        "year": -299,
+        "precision": "year"
+      },
+      "latest": {
+        "year": 200,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "300 BCE–200 CE",
+      "conversionNote": "The Met’s Date field gives 300 BCE–200 CE. Its “Middle period” label conflicts with the description’s final-phase association; broader archaeological dating remains unresolved.",
+      "dateClaimIds": [
+        "evt_000137-date"
+      ]
+    }
+  },
+  "primaryRegion": "southeast-asia",
+  "subregion": "Mainland Southeast Asia",
+  "themeIds": [
+    "arts"
+  ],
+  "tier": "contextual",
+  "context": "The record concerns this catalogued object. Its phase label and descriptive chronology are inconsistent, so it is not used to date all Ban Chiang pottery.",
+  "dateNote": "The Met’s Date field gives 300 BCE–200 CE. Its “Middle period” label conflicts with the description’s final-phase association; broader archaeological dating remains unresolved.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000137"
+  ],
+  "alternativeTitles": [
+    "Ban Chiang painted pottery"
+  ]
+}

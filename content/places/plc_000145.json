@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000145",
+  "preferredName": "England and Normandy",
+  "placeType": "historical-place",
+  "regionIds": [
+    "europe"
+  ],
+  "sourceRefs": [
+    "src_000125",
+    "src_000142"
+  ],
+  "modernLocator": "England and Bayeux, France; workshop uncertain"
+}

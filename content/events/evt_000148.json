@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000148",
+  "slug": "the-metre-convention-establishes-international-cooperation",
+  "title": "The Metre Convention establishes international cooperation",
+  "summary": "States signed the Metre Convention to coordinate measurement standards and create the Bureau International des Poids et Mesures.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "evt_000148-c128",
+      "sourceId": "src_000128",
+      "locator": "Opening paragraph: treaty signed 20 May 1875 and creation of the BIPM",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000148-occurrence",
+      "text": "States signed the Metre Convention to coordinate measurement standards and create the Bureau International des Poids et Mesures.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000148-c128"
+      ]
+    },
+    {
+      "id": "evt_000148-date",
+      "text": "20 May 1875 is the treaty’s signature date, not the date every country adopted metric measures.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000148-c128"
+      ]
+    },
+    {
+      "id": "evt_000148-context",
+      "text": "The treaty provided a continuing institution through which participating states could work together on measurement science and international standardization.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000148-c128"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The BIPM’s treaty account and initial-signatory list were inspected. Independent archival corroboration was not established; the claim is limited to signature and institutional purpose."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "20 May 1875 CE",
+      "anchor": {
+        "year": 1875,
+        "month": 5,
+        "day": 20,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "20 May 1875 CE",
+      "conversionNote": "20 May 1875 is the treaty’s signature date, not the date every country adopted metric measures.",
+      "dateClaimIds": [
+        "evt_000148-date"
+      ]
+    }
+  },
+  "primaryRegion": "global",
+  "subregion": "Cross-regional",
+  "themeIds": [
+    "knowledge",
+    "exchange"
+  ],
+  "tier": "contextual",
+  "context": "The treaty provided a continuing institution through which participating states could work together on measurement science and international standardization.",
+  "dateNote": "20 May 1875 is the treaty’s signature date, not the date every country adopted metric measures.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000148"
+  ],
+  "alternativeTitles": [
+    "Meter Convention",
+    "Treaty of the Metre",
+    "BIPM"
+  ]
+}

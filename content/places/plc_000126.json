@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000126",
+  "preferredName": "Iran",
+  "placeType": "historical-place",
+  "regionIds": [
+    "west-asia"
+  ],
+  "sourceRefs": [
+    "src_000106",
+    "src_000131"
+  ],
+  "modernLocator": "Iran; exact weaving center uncertain"
+}

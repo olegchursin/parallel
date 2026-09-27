@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000136",
+  "slug": "dongson-founders-cast-a-miniature-bronze-drum",
+  "title": "Dongson founders cast a miniature bronze drum",
+  "summary": "A miniature Dongson bronze drum from Vietnam carries four frogs, preserving a small-scale form of a widely distributed drum tradition.",
+  "regionIds": [
+    "southeast-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000136-c116",
+      "sourceId": "src_000116",
+      "locator": "Object 2000.284.57; ca. 500 BCE–300 CE, Vietnam, and uncertain drum functions",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000136-occurrence",
+      "text": "A miniature Dongson bronze drum from Vietnam carries four frogs, preserving a small-scale form of a widely distributed drum tradition.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000136-c116"
+      ]
+    },
+    {
+      "id": "evt_000136-date",
+      "text": "The catalogue’s broad 500 BCE–300 CE range estimates one casting. Astronomical year −499 represents 500 BCE; this is not an 800-year duration.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000136-c116"
+      ]
+    },
+    {
+      "id": "evt_000136-context",
+      "text": "Bronze drums occur in burial contexts across Southeast Asia. Suggested ritual and political functions remain uncertain; this object cannot establish one universal use.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000136-c116"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met catalogue date and function discussion were inspected. A regional museum guide was located in discovery but not used as corroborating evidence."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 500 BCE–300 CE",
+      "earliest": {
+        "year": -499,
+        "precision": "year"
+      },
+      "latest": {
+        "year": 300,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "c. 500 BCE–300 CE",
+      "conversionNote": "The catalogue’s broad 500 BCE–300 CE range estimates one casting. Astronomical year −499 represents 500 BCE; this is not an 800-year duration.",
+      "dateClaimIds": [
+        "evt_000136-date"
+      ]
+    }
+  },
+  "primaryRegion": "southeast-asia",
+  "subregion": "Mainland Southeast Asia",
+  "themeIds": [
+    "arts",
+    "belief"
+  ],
+  "tier": "contextual",
+  "context": "Bronze drums occur in burial contexts across Southeast Asia. Suggested ritual and political functions remain uncertain; this object cannot establish one universal use.",
+  "dateNote": "The catalogue’s broad 500 BCE–300 CE range estimates one casting. Astronomical year −499 represents 500 BCE; this is not an 800-year duration.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000136"
+  ],
+  "alternativeTitles": [
+    "Dong Son drum",
+    "Đông Sơn",
+    "Bronze drum"
+  ]
+}

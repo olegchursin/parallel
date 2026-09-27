@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000135",
+  "slug": "a-herat-scribe-completes-the-text-of-mantiq-al-tair",
+  "title": "A Herat scribe completes the text of Mantiq al-tair",
+  "summary": "The text of a Herat manuscript of Attar’s Mantiq al-tair was completed under Timurid patronage, with a colophon interpreted as dating to 1487.",
+  "regionIds": [
+    "central-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000135-c115",
+      "sourceId": "src_000115",
+      "locator": "Colophon paragraph, Herat production and later Safavid completion; compare folio captions",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000135-occurrence",
+      "text": "The text of a Herat manuscript of Attar’s Mantiq al-tair was completed under Timurid patronage, with a colophon interpreted as dating to 1487.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000135-c115"
+      ]
+    },
+    {
+      "id": "evt_000135-date",
+      "text": "The essay reads the colophon as 1487, while one associated caption says 1486. This discrepancy remains flagged; no day-level conversion is asserted.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000135-c115"
+      ]
+    },
+    {
+      "id": "evt_000135-context",
+      "text": "Its illustration history continued later: Safavid additions around 1600 helped complete the book. The text’s date therefore cannot date every painted folio.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000135-c115"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending.",
+      "One linked folio caption gives 1486 rather than the essay’s 1487 colophon interpretation."
+    ],
+    "corroboration": "The essay’s colophon discussion was compared with its folio captions. Their 1486/1487 inconsistency remains unresolved; these are not independent sources."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1487 CE (AH 892)",
+      "anchor": {
+        "year": 1487,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Islamic Hijri colophon; scholarly conversion to CE",
+      "originalExpression": "AH 892; essay interprets the colophon as 1487 CE",
+      "conversionNote": "The essay reads the colophon as 1487, while one associated caption says 1486. This discrepancy remains flagged; no day-level conversion is asserted.",
+      "dateClaimIds": [
+        "evt_000135-date"
+      ]
+    },
+    "alternatives": [
+      {
+        "label": "1486 CE in one associated folio caption",
+        "start": {
+          "label": "1486 CE in one associated folio caption",
+          "anchor": {
+            "year": 1486,
+            "precision": "year"
+          },
+          "qualifier": "uncertain",
+          "sourceCalendar": "Islamic Hijri colophon; scholarly conversion to CE",
+          "originalExpression": "AH 892; essay interprets the colophon as 1487 CE",
+          "conversionNote": "The essay reads the colophon as 1487, while one associated caption says 1486. This discrepancy remains flagged; no day-level conversion is asserted.",
+          "dateClaimIds": [
+            "evt_000135-date"
+          ]
+        }
+      }
+    ]
+  },
+  "primaryRegion": "central-asia",
+  "subregion": "Central Asia",
+  "themeIds": [
+    "arts",
+    "belief"
+  ],
+  "tier": "contextual",
+  "context": "Its illustration history continued later: Safavid additions around 1600 helped complete the book. The text’s date therefore cannot date every painted folio.",
+  "dateNote": "The essay reads the colophon as 1487, while one associated caption says 1486. This discrepancy remains flagged; no day-level conversion is asserted.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000135"
+  ],
+  "alternativeTitles": [
+    "Conference of the Birds",
+    "Language of the Birds",
+    "Sultan Ali al-Mashhadi"
+  ]
+}

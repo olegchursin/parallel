@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000149",
+  "preferredName": "Worldwide observation network",
+  "placeType": "historical-place",
+  "regionIds": [
+    "global"
+  ],
+  "sourceRefs": [
+    "src_000129",
+    "src_000137"
+  ],
+  "modernLocator": "Global, including Antarctica"
+}

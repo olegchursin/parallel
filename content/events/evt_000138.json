@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000138",
+  "slug": "metal-cap-stamps-accelerate-javanese-batik",
+  "title": "Metal cap stamps accelerate Javanese batik",
+  "summary": "Metal stamps called cap made it possible to apply wax designs more quickly in Javanese batik, alongside the hand-drawn canting technique.",
+  "regionIds": [
+    "southeast-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000138-c118",
+      "sourceId": "src_000118",
+      "locator": "Glossary > Indonesian Textile Techniques > Batik",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000138-occurrence",
+      "text": "Metal stamps called cap made it possible to apply wax designs more quickly in Javanese batik, alongside the hand-drawn canting technique.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000138-c118"
+      ]
+    },
+    {
+      "id": "evt_000138-date",
+      "text": "The gallery dates cap development to the mid-nineteenth century. 1850 is a rounded anchor, not an attested first invention.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000138-c118"
+      ]
+    },
+    {
+      "id": "evt_000138-context",
+      "text": "Wax prevents dye from reaching selected areas of cloth. The National Gallery of Australia describes stamping as faster but less flexible than drawing wax designs.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000138-c118"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The NGA Batik glossary passage was inspected in its indexed copy after direct access failed. Searches did not establish an independent date; that limit is recorded."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "mid-19th century CE",
+      "anchor": {
+        "year": 1850,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "mid-19th century CE",
+      "conversionNote": "The gallery dates cap development to the mid-nineteenth century. 1850 is a rounded anchor, not an attested first invention.",
+      "dateClaimIds": [
+        "evt_000138-date"
+      ]
+    }
+  },
+  "primaryRegion": "southeast-asia",
+  "subregion": "Maritime Southeast Asia",
+  "themeIds": [
+    "arts",
+    "knowledge"
+  ],
+  "tier": "contextual",
+  "context": "Wax prevents dye from reaching selected areas of cloth. The National Gallery of Australia describes stamping as faster but less flexible than drawing wax designs.",
+  "dateNote": "The gallery dates cap development to the mid-nineteenth century. 1850 is a rounded anchor, not an attested first invention.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000138"
+  ],
+  "alternativeTitles": [
+    "Batik cap",
+    "Tjap",
+    "Wax-resist textiles"
+  ]
+}

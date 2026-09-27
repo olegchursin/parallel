@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000145",
+  "slug": "embroiderers-tell-the-conquest-story-at-bayeux",
+  "title": "Embroiderers tell the conquest story at Bayeux",
+  "summary": "The Bayeux embroidery narrates the Norman conquest through wool stitched onto linen, combining a continuous story with borders of animals and other scenes.",
+  "regionIds": [
+    "europe"
+  ],
+  "citations": [
+    {
+      "id": "evt_000145-c125",
+      "sourceId": "src_000125",
+      "locator": "Making the Bayeux Tapestry; wool on linen and uncertain makers/commission",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    },
+    {
+      "id": "evt_000145-c142",
+      "sourceId": "src_000142",
+      "locator": "Story of a conquest and FAQ on eleventh-century creation after the conquest",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000145-occurrence",
+      "text": "The Bayeux embroidery narrates the Norman conquest through wool stitched onto linen, combining a continuous story with borders of animals and other scenes.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000145-c125",
+        "evt_000145-c142"
+      ]
+    },
+    {
+      "id": "evt_000145-date",
+      "text": "The museum places creation after the 1066 conquest within the eleventh century. 1067–1100 is a conservative envelope; 1077 is not asserted as completion.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000145-c142"
+      ]
+    },
+    {
+      "id": "evt_000145-context",
+      "text": "The makers are unknown. A commission by Bishop Odo for Bayeux Cathedral is a leading hypothesis, not an established identification of patron or workshop.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000145-c125"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "Two Bayeux Museum explanations were compared for technique and chronology. They are one source family; uncertainties over the commission remain explicit."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "late 11th century CE",
+      "earliest": {
+        "year": 1067,
+        "precision": "year"
+      },
+      "latest": {
+        "year": 1100,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "late 11th century CE",
+      "conversionNote": "The museum places creation after the 1066 conquest within the eleventh century. 1067–1100 is a conservative envelope; 1077 is not asserted as completion.",
+      "dateClaimIds": [
+        "evt_000145-date"
+      ]
+    }
+  },
+  "primaryRegion": "europe",
+  "subregion": "Western Europe",
+  "themeIds": [
+    "arts",
+    "politics"
+  ],
+  "tier": "contextual",
+  "context": "The makers are unknown. A commission by Bishop Odo for Bayeux Cathedral is a leading hypothesis, not an established identification of patron or workshop.",
+  "dateNote": "The museum places creation after the 1066 conquest within the eleventh century. 1067–1100 is a conservative envelope; 1077 is not asserted as completion.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000145"
+  ],
+  "alternativeTitles": [
+    "Bayeux Tapestry",
+    "Norman embroidery"
+  ]
+}

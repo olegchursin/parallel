@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000147",
+  "preferredName": "Paris",
+  "placeType": "historical-place",
+  "regionIds": [
+    "europe"
+  ],
+  "sourceRefs": [
+    "src_000127",
+    "src_000136"
+  ],
+  "modernLocator": "Paris, France"
+}

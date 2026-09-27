@@ -667,7 +667,11 @@ export function JourneyPage({
 }
 export function AboutPage() {
   const { catalog, manifest } = useApp(),
-    nonPolitical = catalog.events.filter((e) => e.themeIds[0] !== 'politics').length
+    nonPolitical = catalog.events.filter((e) => e.themeIds[0] !== 'politics').length,
+    largestRegion = Math.max(
+      1,
+      ...REGIONS.map((r) => catalog.events.filter((e) => e.primaryRegion === r.id).length),
+    )
   return (
     <main id="main" className={s.page}>
       <div className={s.pageIntro}>
@@ -769,7 +773,7 @@ export function AboutPage() {
                   <span>{r.name}</span>
                   <strong>{n}</strong>
                 </div>
-                <i style={{ width: (n / 20) * 100 + '%', background: r.color }} />
+                <i style={{ width: (n / largestRegion) * 100 + '%', background: r.color }} />
               </div>
             )
           })}

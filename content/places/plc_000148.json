@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000148",
+  "preferredName": "International metric cooperation",
+  "placeType": "historical-place",
+  "regionIds": [
+    "global"
+  ],
+  "sourceRefs": [
+    "src_000128"
+  ],
+  "modernLocator": "International"
+}

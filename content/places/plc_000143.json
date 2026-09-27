@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000143",
+  "preferredName": "Ōrākaiapu Pā",
+  "placeType": "historical-place",
+  "regionIds": [
+    "oceania"
+  ],
+  "sourceRefs": [
+    "src_000123",
+    "src_000141"
+  ],
+  "modernLocator": "Near Gisborne, Aotearoa New Zealand"
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000129",
+  "preferredName": "Mughal India",
+  "placeType": "historical-place",
+  "regionIds": [
+    "south-asia"
+  ],
+  "sourceRefs": [
+    "src_000109"
+  ],
+  "modernLocator": "India; exact workshop for this folio not specified"
+}

@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000147",
+  "slug": "artists-open-the-first-impressionist-exhibition",
+  "title": "Artists open the first Impressionist exhibition",
+  "summary": "An independent artists’ society opened an exhibition at Nadar’s Paris studio, bringing together painters later associated with Impressionism outside the official Salon.",
+  "regionIds": [
+    "europe"
+  ],
+  "citations": [
+    {
+      "id": "evt_000147-c127",
+      "sourceId": "src_000127",
+      "locator": "Opening historical paragraphs: independent Paris exhibition of 1874",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    },
+    {
+      "id": "evt_000147-c136",
+      "sourceId": "src_000136",
+      "locator": "Opening paragraph: exhibition opened 15 April 1874 at Nadar’s studio",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000147-occurrence",
+      "text": "An independent artists’ society opened an exhibition at Nadar’s Paris studio, bringing together painters later associated with Impressionism outside the official Salon.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000147-c127",
+        "evt_000147-c136"
+      ]
+    },
+    {
+      "id": "evt_000147-date",
+      "text": "The National Gallery gives 15 April 1874 as the opening date; the Met independently identifies the exhibition and year.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000147-c136",
+        "evt_000147-c127"
+      ]
+    },
+    {
+      "id": "evt_000147-context",
+      "text": "Monet, Degas, Morisot and Pissarro were among its participants. Their approaches differed; participation did not imply one uniform style.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000147-c127",
+        "evt_000147-c136"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met historical essay and National Gallery exhibition research agree on the event and year; the latter supplies the opening day."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "15 April 1874 CE",
+      "anchor": {
+        "year": 1874,
+        "month": 4,
+        "day": 15,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "15 April 1874 CE",
+      "conversionNote": "The National Gallery gives 15 April 1874 as the opening date; the Met independently identifies the exhibition and year.",
+      "dateClaimIds": [
+        "evt_000147-date"
+      ]
+    }
+  },
+  "primaryRegion": "europe",
+  "subregion": "Western Europe",
+  "themeIds": [
+    "arts",
+    "society"
+  ],
+  "tier": "contextual",
+  "context": "Monet, Degas, Morisot and Pissarro were among its participants. Their approaches differed; participation did not imply one uniform style.",
+  "dateNote": "The National Gallery gives 15 April 1874 as the opening date; the Met independently identifies the exhibition and year.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000147"
+  ],
+  "alternativeTitles": [
+    "Paris 1874",
+    "First Impressionist exhibition",
+    "Société anonyme"
+  ]
+}

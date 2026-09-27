@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000125",
+  "slug": "iznik-potters-reinterpret-floral-designs",
+  "title": "Iznik potters reinterpret floral designs",
+  "summary": "An Iznik stonepaste dish sets white floral motifs against a blue ground, combining Chinese-derived design elements with Ottoman floral forms.",
+  "regionIds": [
+    "west-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000125-c105",
+      "sourceId": "src_000105",
+      "locator": "Object 17.120.19; Date, Geography and opening description",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000125-occurrence",
+      "text": "An Iznik stonepaste dish sets white floral motifs against a blue ground, combining Chinese-derived design elements with Ottoman floral forms.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000125-c105"
+      ]
+    },
+    {
+      "id": "evt_000125-date",
+      "text": "The Met dates this dish to about 1560; the year is approximate and does not identify a documented firing date.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000125-c105"
+      ]
+    },
+    {
+      "id": "evt_000125-context",
+      "text": "Its tulips and flowering branches exemplify the reinterpretation of imported motifs in Ottoman ceramic workshops rather than simple copying of a Chinese model.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000125-c105"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met catalogue’s date and design discussion were inspected. A Courtauld result concerned another dish and was not used to date this object."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 1560 CE",
+      "anchor": {
+        "year": 1560,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "c. 1560 CE",
+      "conversionNote": "The Met dates this dish to about 1560; the year is approximate and does not identify a documented firing date.",
+      "dateClaimIds": [
+        "evt_000125-date"
+      ]
+    }
+  },
+  "primaryRegion": "west-asia",
+  "subregion": "Anatolia",
+  "themeIds": [
+    "arts",
+    "exchange"
+  ],
+  "tier": "contextual",
+  "context": "Its tulips and flowering branches exemplify the reinterpretation of imported motifs in Ottoman ceramic workshops rather than simple copying of a Chinese model.",
+  "dateNote": "The Met dates this dish to about 1560; the year is approximate and does not identify a documented firing date.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000125"
+  ],
+  "alternativeTitles": [
+    "İznik ceramics",
+    "Ottoman pottery"
+  ]
+}

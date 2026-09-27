@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000149",
+  "slug": "scientists-coordinate-the-international-geophysical-year",
+  "title": "Scientists coordinate the International Geophysical Year",
+  "summary": "Scientists coordinated worldwide observations of Earth, its atmosphere and solar interactions during the eighteen-month International Geophysical Year.",
+  "regionIds": [
+    "global"
+  ],
+  "citations": [
+    {
+      "id": "evt_000149-c129",
+      "sourceId": "src_000129",
+      "locator": "Opening paragraphs: 1 July 1957–31 December 1958, coordinated observations and World Data Centers",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    },
+    {
+      "id": "evt_000149-c137",
+      "sourceId": "src_000137",
+      "locator": "Opening paragraphs: July 1957–December 1958 and coordinated global geophysical observations",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000149-occurrence",
+      "text": "Scientists coordinated worldwide observations of Earth, its atmosphere and solar interactions during the eighteen-month International Geophysical Year.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000149-c129",
+        "evt_000149-c137"
+      ]
+    },
+    {
+      "id": "evt_000149-date",
+      "text": "NASA gives 1 July 1957–31 December 1958; NOAA independently describes the same July-to-December program interval.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000149-c129",
+        "evt_000149-c137"
+      ]
+    },
+    {
+      "id": "evt_000149-context",
+      "text": "The program brought together researchers across national boundaries. World Data Centers helped make the large body of resulting observations accessible.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000149-c129"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "NASA’s historical account and NOAA’s observatory history agree on the interval and international coordination. Day-level boundaries come from NASA."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "1 July 1957 CE",
+      "anchor": {
+        "year": 1957,
+        "month": 7,
+        "day": 1,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "1 July 1957 CE",
+      "conversionNote": "NASA gives 1 July 1957–31 December 1958; NOAA independently describes the same July-to-December program interval.",
+      "dateClaimIds": [
+        "evt_000149-date"
+      ]
+    },
+    "end": {
+      "label": "31 December 1958 CE",
+      "anchor": {
+        "year": 1958,
+        "month": 12,
+        "day": 31,
+        "precision": "day"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "31 December 1958 CE",
+      "conversionNote": "NASA gives 1 July 1957–31 December 1958; NOAA independently describes the same July-to-December program interval.",
+      "dateClaimIds": [
+        "evt_000149-date"
+      ]
+    }
+  },
+  "primaryRegion": "global",
+  "subregion": "Cross-regional",
+  "themeIds": [
+    "knowledge",
+    "environment"
+  ],
+  "tier": "contextual",
+  "context": "The program brought together researchers across national boundaries. World Data Centers helped make the large body of resulting observations accessible.",
+  "dateNote": "NASA gives 1 July 1957–31 December 1958; NOAA independently describes the same July-to-December program interval.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000149"
+  ],
+  "alternativeTitles": [
+    "IGY",
+    "International Geophysical Year"
+  ]
+}

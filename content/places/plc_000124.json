@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000124",
+  "preferredName": "Iraq",
+  "placeType": "historical-place",
+  "regionIds": [
+    "west-asia"
+  ],
+  "sourceRefs": [
+    "src_000104"
+  ],
+  "modernLocator": "Iraq; precise workshop unknown"
+}

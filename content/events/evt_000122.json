@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000122",
+  "slug": "benin-brass-plaques-adorn-palace-pillars",
+  "title": "Benin brass plaques adorn palace pillars",
+  "summary": "Benin court artists cast brass plaques for palace pillars, depicting warriors, attendants and other figures in compositions that expressed differences in rank.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000122-c102",
+      "sourceId": "src_000102",
+      "locator": "Object 1990.332; palace plaques in the sixteenth and seventeenth centuries; scale and rank",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000122-occurrence",
+      "text": "Benin court artists cast brass plaques for palace pillars, depicting warriors, attendants and other figures in compositions that expressed differences in rank.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000122-c102"
+      ]
+    },
+    {
+      "id": "evt_000122-date",
+      "text": "The palace-plaque tradition is placed in the sixteenth and seventeenth centuries; the example’s narrower date does not date the entire series.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000122-c102"
+      ]
+    },
+    {
+      "id": "evt_000122-context",
+      "text": "The Met’s Warrior and Attendants plaque dates to about 1540–1570. Differences in figure size communicate status within its composition.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000122-c102"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met catalogue was inspected. A British Museum plaque record was sought but returned 403; it is not counted as independent verification."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "16th century CE",
+      "anchor": {
+        "year": 1501,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "16th century CE",
+      "conversionNote": "The palace-plaque tradition is placed in the sixteenth and seventeenth centuries; the example’s narrower date does not date the entire series.",
+      "dateClaimIds": [
+        "evt_000122-date"
+      ]
+    },
+    "end": {
+      "label": "17th century CE",
+      "anchor": {
+        "year": 1700,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "17th century CE",
+      "conversionNote": "The palace-plaque tradition is placed in the sixteenth and seventeenth centuries; the example’s narrower date does not date the entire series.",
+      "dateClaimIds": [
+        "evt_000122-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "West Africa",
+  "themeIds": [
+    "arts",
+    "politics"
+  ],
+  "tier": "contextual",
+  "context": "The Met’s Warrior and Attendants plaque dates to about 1540–1570. Differences in figure size communicate status within its composition.",
+  "dateNote": "The palace-plaque tradition is placed in the sixteenth and seventeenth centuries; the example’s narrower date does not date the entire series.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000122"
+  ],
+  "alternativeTitles": [
+    "Benin Bronzes",
+    "Edo brass plaques"
+  ]
+}

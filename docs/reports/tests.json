@@ -1,14 +1,14 @@
 {
-  "verifiedAt": "2026-09-27T03:50:44.652Z",
-  "contentVersion": "v-ea50d793fcce8fa3",
+  "verifiedAt": "2026-09-27T05:53:03.710Z",
+  "contentVersion": "v-0b747fa80135e5ed",
   "command": "./scripts/bun run verify:release",
   "unitTests": {
     "passed": 18
   },
   "browserTests": {
-    "startTime": "2026-09-27T03:49:59.731Z",
-    "duration": 33293.718,
-    "expected": 72,
+    "startTime": "2026-09-27T05:52:16.977Z",
+    "duration": 35348.275,
+    "expected": 75,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0,
@@ -16,20 +16,20 @@
       {
         "name": "chromium",
         "version": "153.0.8010.12",
-        "cases": 24,
-        "passed": 24
+        "cases": 25,
+        "passed": 25
       },
       {
         "name": "firefox",
         "version": "155.0",
-        "cases": 24,
-        "passed": 24
+        "cases": 25,
+        "passed": 25
       },
       {
         "name": "webkit",
         "version": "26.6",
-        "cases": 24,
-        "passed": 24
+        "cases": 25,
+        "passed": 25
       }
     ]
   },

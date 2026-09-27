@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000133",
+  "slug": "sogdian-letters-connect-gansu-with-samarkand",
+  "title": "Sogdian letters connect Gansu with Samarkand",
+  "summary": "Sogdian letters written in the Gansu corridor describe merchant networks extending toward Samarkand, alongside the hardships of people living far from home.",
+  "regionIds": [
+    "central-asia",
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000133-c113",
+      "sourceId": "src_000113",
+      "locator": "Origins section: Ancient Letters written in 313; Gansu and Samarkand",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    },
+    {
+      "id": "evt_000133-c132",
+      "sourceId": "src_000132",
+      "locator": "Introduction: dating to 313 (–314); translated letters 1–3 and 5",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000133-occurrence",
+      "text": "Sogdian letters written in the Gansu corridor describe merchant networks extending toward Samarkand, alongside the hardships of people living far from home.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000133-c113",
+        "evt_000133-c132"
+      ]
+    },
+    {
+      "id": "evt_000133-date",
+      "text": "Iranica uses 313; the University of Washington introduction prefers 313–314 while acknowledging debate. The range retains that uncertainty.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000133-c113",
+        "evt_000133-c132"
+      ]
+    },
+    {
+      "id": "evt_000133-context",
+      "text": "Commercial correspondence and Miwnay’s family letters reveal different experiences of the same diaspora. Their survival does not make them a representative census of Sogdian life.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000133-c132"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "Iranica was compared with the Sims-Williams translations and Waugh introduction. These scholarly accounts overlap in their underlying research; date uncertainty is retained."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 313–314 CE",
+      "earliest": {
+        "year": 313,
+        "precision": "year"
+      },
+      "latest": {
+        "year": 314,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "c. 313–314 CE",
+      "conversionNote": "Iranica uses 313; the University of Washington introduction prefers 313–314 while acknowledging debate. The range retains that uncertainty.",
+      "dateClaimIds": [
+        "evt_000133-date"
+      ]
+    }
+  },
+  "primaryRegion": "central-asia",
+  "subregion": "Central Asia",
+  "themeIds": [
+    "exchange",
+    "society"
+  ],
+  "tier": "contextual",
+  "context": "Commercial correspondence and Miwnay’s family letters reveal different experiences of the same diaspora. Their survival does not make them a representative census of Sogdian life.",
+  "dateNote": "Iranica uses 313; the University of Washington introduction prefers 313–314 while acknowledging debate. The range retains that uncertainty.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000133"
+  ],
+  "alternativeTitles": [
+    "Sogdian Ancient Letters",
+    "Miwnay",
+    "Silk Road letters"
+  ]
+}

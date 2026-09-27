@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000130",
+  "slug": "goryeo-potters-develop-sanggam-inlay",
+  "title": "Goryeo potters develop sanggam inlay",
+  "summary": "Goryeo potters developed a distinctive celadon aesthetic, including sanggam decoration made by inlaying carved designs with contrasting slips beneath the glaze.",
+  "regionIds": [
+    "east-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000130-c110",
+      "sourceId": "src_000110",
+      "locator": "Mid-twelfth-century production at Buan and Gangjin; sanggam inlay technique",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000130-occurrence",
+      "text": "Goryeo potters developed a distinctive celadon aesthetic, including sanggam decoration made by inlaying carved designs with contrasting slips beneath the glaze.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000130-c110"
+      ]
+    },
+    {
+      "id": "evt_000130-date",
+      "text": "The source places the consolidation of this aesthetic in the mid-twelfth century; 1150 is an approximate display anchor, not an invention year.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000130-c110"
+      ]
+    },
+    {
+      "id": "evt_000130-context",
+      "text": "Production at Buan and Gangjin combined knowledge adapted from Chinese ceramics with local experimentation. Inlay provided an alternative to painted or incised surface decoration.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000130-c110"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met essay’s mid-twelfth-century and inlay passages were inspected together. Independent priority or invention claims were not established and are not made."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "mid-12th century CE",
+      "anchor": {
+        "year": 1150,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "mid-12th century CE",
+      "conversionNote": "The source places the consolidation of this aesthetic in the mid-twelfth century; 1150 is an approximate display anchor, not an invention year.",
+      "dateClaimIds": [
+        "evt_000130-date"
+      ]
+    }
+  },
+  "primaryRegion": "east-asia",
+  "subregion": "Korea",
+  "themeIds": [
+    "arts",
+    "knowledge"
+  ],
+  "tier": "contextual",
+  "context": "Production at Buan and Gangjin combined knowledge adapted from Chinese ceramics with local experimentation. Inlay provided an alternative to painted or incised surface decoration.",
+  "dateNote": "The source places the consolidation of this aesthetic in the mid-twelfth century; 1150 is an approximate display anchor, not an invention year.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000130"
+  ],
+  "alternativeTitles": [
+    "Korean celadon",
+    "Sanggam",
+    "Koryo ceramics"
+  ]
+}

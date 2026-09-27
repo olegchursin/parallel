@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000129",
+  "slug": "akbar-s-painters-illustrate-the-hamzanama",
+  "title": "Akbar’s painters illustrate the Hamzanama",
+  "summary": "A surviving Hamzanama folio from Akbar’s monumental illustrated project depicts the spy Zambur bringing Mahiya to Tawariq.",
+  "regionIds": [
+    "south-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000129-c109",
+      "sourceId": "src_000109",
+      "locator": "Object 23.264.1; Date, artist attributions and project description",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000129-occurrence",
+      "text": "A surviving Hamzanama folio from Akbar’s monumental illustrated project depicts the spy Zambur bringing Mahiya to Tawariq.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000129-c109"
+      ]
+    },
+    {
+      "id": "evt_000129-date",
+      "text": "About 1570 dates this surviving folio, not the start or completion of the entire Hamzanama project.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000129-c109"
+      ]
+    },
+    {
+      "id": "evt_000129-context",
+      "text": "Large paintings accompanied storytelling, with text on their reverse. The Met attributes this folio to Kesav Das and Mah Muhammad rather than identifying either artist with certainty.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000129-c109"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met catalogue’s folio date, artist attributions and project description were inspected. The full project chronology was not independently established."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "c. 1570 CE",
+      "anchor": {
+        "year": 1570,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "c. 1570 CE",
+      "conversionNote": "About 1570 dates this surviving folio, not the start or completion of the entire Hamzanama project.",
+      "dateClaimIds": [
+        "evt_000129-date"
+      ]
+    }
+  },
+  "primaryRegion": "south-asia",
+  "subregion": "Indian subcontinent",
+  "themeIds": [
+    "arts",
+    "society"
+  ],
+  "tier": "contextual",
+  "context": "Large paintings accompanied storytelling, with text on their reverse. The Met attributes this folio to Kesav Das and Mah Muhammad rather than identifying either artist with certainty.",
+  "dateNote": "About 1570 dates this surviving folio, not the start or completion of the entire Hamzanama project.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000129"
+  ],
+  "alternativeTitles": [
+    "Book of Hamza",
+    "Hamza paintings",
+    "Kesav Das"
+  ]
+}

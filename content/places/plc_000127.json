@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000127",
+  "preferredName": "Gandhara",
+  "placeType": "historical-place",
+  "regionIds": [
+    "south-asia"
+  ],
+  "sourceRefs": [
+    "src_000107"
+  ],
+  "modernLocator": "Northwestern Pakistan and eastern Afghanistan"
+}

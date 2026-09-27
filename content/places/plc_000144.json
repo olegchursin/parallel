@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000144",
+  "preferredName": "Yirrkala and Canberra",
+  "placeType": "historical-place",
+  "regionIds": [
+    "oceania"
+  ],
+  "sourceRefs": [
+    "src_000124",
+    "src_000135"
+  ],
+  "modernLocator": "Northern Territory and Australian Capital Territory, Australia"
+}

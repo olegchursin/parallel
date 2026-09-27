@@ -1,6 +1,6 @@
 # Parallel — World History Atlas
 
-A locally runnable, source-backed **research preview** with 120 events/processes, 25 entities, 15 periods, six journeys, and 100 source records. Historical coverage ends on **31 December 2025**. Source passages were inspected during development; independent historical review remains pending. No record is represented as independently reviewed or published.
+A locally runnable, source-backed **research preview** with 150 events/processes, 25 entities, 15 periods, six journeys, and 142 source records. Historical coverage ends on **31 December 2025**. Source passages were inspected during development; independent historical review remains pending. No record is represented as independently reviewed or published.
 
 ## Run it
 

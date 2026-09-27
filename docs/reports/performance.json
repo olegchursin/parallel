@@ -1,24 +1,24 @@
 {
-  "measuredAt": "2026-09-27T03:50:34.502Z",
+  "measuredAt": "2026-09-27T05:52:53.670Z",
   "environment": "Chromium desktop engine, 390×844 viewport, local loopback; no CPU/network throttling. Not a real phone or field p75.",
   "stress": {
     "records": 5000,
-    "matching": 879,
-    "searchMedianMs": 16.899999976158142,
-    "searchMaxMs": 33.5,
-    "filterAndClusterMs": 12.699999988079071,
+    "matching": 743,
+    "searchMedianMs": 17.30000001192093,
+    "searchMaxMs": 29,
+    "filterAndClusterMs": 13.800000011920929,
     "clusters": 4,
     "accessibleRecords": 5000
   },
   "lab": {
-    "lcp": 64,
+    "lcp": 32,
     "cls": 0,
     "navigation": {
       "name": "http://127.0.0.1:4173/",
       "entryType": "navigation",
       "startTime": 0,
-      "duration": 83.90000003576279,
-      "navigationId": 2324,
+      "duration": 51.39999997615814,
+      "navigationId": 1889,
       "initiatorType": "navigation",
       "deliveryType": "",
       "nextHopProtocol": "http/1.1",
@@ -32,30 +32,30 @@
       "workerFinalSourceType": "",
       "redirectStart": 0,
       "redirectEnd": 0,
-      "fetchStart": 0.10000002384185791,
-      "domainLookupStart": 2.600000023841858,
-      "domainLookupEnd": 2.900000035762787,
-      "connectStart": 2.900000035762787,
+      "fetchStart": 0.19999998807907104,
+      "domainLookupStart": 0.8999999761581421,
+      "domainLookupEnd": 1,
+      "connectStart": 1,
       "secureConnectionStart": 0,
-      "connectEnd": 3.100000023841858,
-      "requestStart": 3.300000011920929,
-      "responseStart": 4.100000023841858,
+      "connectEnd": 1.199999988079071,
+      "requestStart": 1.2999999523162842,
+      "responseStart": 1.699999988079071,
       "firstInterimResponseStart": 0,
-      "finalResponseHeadersStart": 4.100000023841858,
-      "responseEnd": 5.100000023841858,
-      "transferSize": 187465,
-      "encodedBodySize": 187165,
-      "decodedBodySize": 187165,
+      "finalResponseHeadersStart": 1.699999988079071,
+      "responseEnd": 2.199999988079071,
+      "transferSize": 222376,
+      "encodedBodySize": 222076,
+      "decodedBodySize": 222076,
       "responseStatus": 200,
       "serverTiming": [],
       "unloadEventStart": 0,
       "unloadEventEnd": 0,
-      "domInteractive": 29.5,
-      "domContentLoadedEventStart": 29.5,
-      "domContentLoadedEventEnd": 29.600000023841858,
-      "domComplete": 83.90000003576279,
-      "loadEventStart": 83.90000003576279,
-      "loadEventEnd": 83.90000003576279,
+      "domInteractive": 32.799999952316284,
+      "domContentLoadedEventStart": 32.799999952316284,
+      "domContentLoadedEventEnd": 32.799999952316284,
+      "domComplete": 51.39999997615814,
+      "loadEventStart": 51.39999997615814,
+      "loadEventEnd": 51.39999997615814,
       "type": "navigate",
       "redirectCount": 0,
       "activationStart": 0,
@@ -76,44 +76,44 @@
         "transferSize": 3111
       },
       {
-        "name": "http://127.0.0.1:4173/assets/index-Dnd98mAF.js",
-        "transferSize": 319768
-      },
-      {
-        "name": "http://127.0.0.1:4173/assets/content-FXcRKYbD.js",
-        "transferSize": 2014
-      },
-      {
         "name": "http://127.0.0.1:4173/assets/jsx-runtime-Cx0BB4qO.js",
         "transferSize": 1388
-      },
-      {
-        "name": "http://127.0.0.1:4173/assets/lazyRouteComponent-BJLiG3ts.js",
-        "transferSize": 4081
       },
       {
         "name": "http://127.0.0.1:4173/assets/not-found-i5RsCZif.js",
         "transferSize": 418
       },
       {
-        "name": "http://127.0.0.1:4173/assets/arrow-right-DixCychh.js",
+        "name": "http://127.0.0.1:4173/assets/App-C5A_H-JQ.js",
+        "transferSize": 135802
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/index-9rLfr2F9.js",
+        "transferSize": 319768
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/lazyRouteComponent-CfFR4I4v.js",
+        "transferSize": 4081
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/content-BDkxOkbW.js",
+        "transferSize": 2014
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/arrow-right-DFjRPf1W.js",
         "transferSize": 492
       },
       {
-        "name": "http://127.0.0.1:4173/assets/routes-nmkqabVv.js",
-        "transferSize": 6526
-      },
-      {
-        "name": "http://127.0.0.1:4173/assets/move-horizontal-Bx0amXKx.js",
+        "name": "http://127.0.0.1:4173/assets/move-horizontal-Bi-Kmk31.js",
         "transferSize": 1222
       },
       {
-        "name": "http://127.0.0.1:4173/assets/shield-check-DF9s39xC.js",
-        "transferSize": 647
+        "name": "http://127.0.0.1:4173/assets/routes-Bj20zbD6.js",
+        "transferSize": 6526
       },
       {
-        "name": "http://127.0.0.1:4173/assets/App-BsI2L0l4.js",
-        "transferSize": 135802
+        "name": "http://127.0.0.1:4173/assets/shield-check-DH4KbELv.js",
+        "transferSize": 647
       }
     ]
   },

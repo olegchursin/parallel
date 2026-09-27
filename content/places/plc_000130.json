@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000130",
+  "preferredName": "Buan and Gangjin",
+  "placeType": "historical-place",
+  "regionIds": [
+    "east-asia"
+  ],
+  "sourceRefs": [
+    "src_000110"
+  ],
+  "modernLocator": "South Korea"
+}

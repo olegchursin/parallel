@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000128",
+  "preferredName": "Tamil Nadu",
+  "placeType": "historical-place",
+  "regionIds": [
+    "south-asia"
+  ],
+  "sourceRefs": [
+    "src_000108"
+  ],
+  "modernLocator": "Tamil Nadu, India"
+}

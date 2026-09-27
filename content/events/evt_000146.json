@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000146",
+  "slug": "senefelder-develops-printing-from-stone",
+  "title": "Senefelder develops printing from stone",
+  "summary": "Alois Senefelder experimented with printing from stone and developed the chemical principle used in lithography, seeking an inexpensive way to reproduce texts and music.",
+  "regionIds": [
+    "europe"
+  ],
+  "citations": [
+    {
+      "id": "evt_000146-c126",
+      "sourceId": "src_000126",
+      "locator": "Object 28.15.1; opening paragraph distinguishes 1796 experiments from 1798 chemical printing",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    },
+    {
+      "id": "evt_000146-c139",
+      "sourceId": "src_000139",
+      "locator": "Opening historical paragraph: invention around 1796",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000146-occurrence",
+      "text": "Alois Senefelder experimented with printing from stone and developed the chemical principle used in lithography, seeking an inexpensive way to reproduce texts and music.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000146-c126"
+      ]
+    },
+    {
+      "id": "evt_000146-date",
+      "text": "The Met catalogue distinguishes 1796 relief-printing experiments from the 1798 chemical discovery; its overview compresses the invention to “around 1796.”",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000146-c126",
+        "evt_000146-c139"
+      ]
+    },
+    {
+      "id": "evt_000146-context",
+      "text": "Greasy marks accept oily ink while a damp treated surface resists it. The method opened new possibilities for reproducing drawings.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000146-c126",
+        "evt_000146-c139"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "Two Met accounts were compared. Their dates describe different stages; the record uses a development interval. National Galleries of Scotland retrieval failed and is not cited."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "1796 CE",
+      "anchor": {
+        "year": 1796,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "1796 CE",
+      "conversionNote": "The Met catalogue distinguishes 1796 relief-printing experiments from the 1798 chemical discovery; its overview compresses the invention to “around 1796.”",
+      "dateClaimIds": [
+        "evt_000146-date"
+      ]
+    },
+    "end": {
+      "label": "1798 CE",
+      "anchor": {
+        "year": 1798,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "1798 CE",
+      "conversionNote": "The Met catalogue distinguishes 1796 relief-printing experiments from the 1798 chemical discovery; its overview compresses the invention to “around 1796.”",
+      "dateClaimIds": [
+        "evt_000146-date"
+      ]
+    }
+  },
+  "primaryRegion": "europe",
+  "subregion": "Western Europe",
+  "themeIds": [
+    "knowledge",
+    "arts"
+  ],
+  "tier": "contextual",
+  "context": "Greasy marks accept oily ink while a damp treated surface resists it. The method opened new possibilities for reproducing drawings.",
+  "dateNote": "The Met catalogue distinguishes 1796 relief-printing experiments from the 1798 chemical discovery; its overview compresses the invention to “around 1796.”",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000146"
+  ],
+  "alternativeTitles": [
+    "Lithography",
+    "Alois Senefelder",
+    "Stone printing"
+  ]
+}

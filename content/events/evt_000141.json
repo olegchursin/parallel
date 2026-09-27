@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000141",
+  "slug": "inka-makers-encode-records-in-knotted-cords",
+  "title": "Inka makers encode records in knotted cords",
+  "summary": "A surviving plant-fiber khipu from the Nasca region belongs to the Inka tradition of recording information through arrangements of knotted cords.",
+  "regionIds": [
+    "americas"
+  ],
+  "citations": [
+    {
+      "id": "evt_000141-c121",
+      "sourceId": "src_000121",
+      "locator": "Object 55.32.13302: 1438–1532, plant fiber, Nasca region; distinguish broader Period field",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    },
+    {
+      "id": "evt_000141-c133",
+      "sourceId": "src_000133",
+      "locator": "A khipucamayuc, 1615: knotted cords, census and movement of goods",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000141-occurrence",
+      "text": "A surviving plant-fiber khipu from the Nasca region belongs to the Inka tradition of recording information through arrangements of knotted cords.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000141-c121",
+        "evt_000141-c133"
+      ]
+    },
+    {
+      "id": "evt_000141-date",
+      "text": "The Hood object heading dates it to 1438–1532; its broader 1400–1600 Period field is not a separate exact object date.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000141-c121"
+      ]
+    },
+    {
+      "id": "evt_000141-context",
+      "text": "Khipucamayuc used these devices to keep information about people and goods. The specific contents of this museum example are not identified by its catalogue.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000141-c133",
+        "evt_000141-c121"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "Hood supplies the object attribution and date; Smithsonian NMAI independently explains administrative uses. Neither is treated as a decipherment of this example."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1438–1532 CE",
+      "earliest": {
+        "year": 1438,
+        "precision": "year"
+      },
+      "latest": {
+        "year": 1532,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "1438–1532 CE",
+      "conversionNote": "The Hood object heading dates it to 1438–1532; its broader 1400–1600 Period field is not a separate exact object date.",
+      "dateClaimIds": [
+        "evt_000141-date"
+      ]
+    }
+  },
+  "primaryRegion": "americas",
+  "subregion": "South America",
+  "themeIds": [
+    "knowledge",
+    "society"
+  ],
+  "tier": "contextual",
+  "context": "Khipucamayuc used these devices to keep information about people and goods. The specific contents of this museum example are not identified by its catalogue.",
+  "dateNote": "The Hood object heading dates it to 1438–1532; its broader 1400–1600 Period field is not a separate exact object date.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000141"
+  ],
+  "alternativeTitles": [
+    "Quipu",
+    "Khipu",
+    "Inca recordkeeping"
+  ]
+}

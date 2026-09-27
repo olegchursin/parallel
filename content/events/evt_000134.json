@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000134",
+  "slug": "sogdian-silversmiths-make-a-petaled-footed-cup",
+  "title": "Sogdian silversmiths make a petaled footed cup",
+  "summary": "A sixth-century silver cup attributed to Sogdia has a foot and a petaled body, illustrating the region’s luxury metalwork.",
+  "regionIds": [
+    "central-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000134-c114",
+      "sourceId": "src_000114",
+      "locator": "Object 1998.223; sixth-century Sogdian silver and proposed Mediterranean antecedents",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000134-occurrence",
+      "text": "A sixth-century silver cup attributed to Sogdia has a foot and a petaled body, illustrating the region’s luxury metalwork.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000134-c114"
+      ]
+    },
+    {
+      "id": "evt_000134-date",
+      "text": "The catalogue assigns the cup to the sixth century; the range estimates its manufacture rather than a century of use.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000134-c114"
+      ]
+    },
+    {
+      "id": "evt_000134-context",
+      "text": "The Met connects this vessel type tentatively with Mediterranean models transmitted through Iran. That proposed lineage is less certain than the object’s material and form.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000134-c114"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met object entry was inspected. A transmission hypothesis is explicitly qualified; no independent workshop or route identification was established."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "6th century CE",
+      "earliest": {
+        "year": 501,
+        "precision": "year"
+      },
+      "latest": {
+        "year": 600,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "6th century CE",
+      "conversionNote": "The catalogue assigns the cup to the sixth century; the range estimates its manufacture rather than a century of use.",
+      "dateClaimIds": [
+        "evt_000134-date"
+      ]
+    }
+  },
+  "primaryRegion": "central-asia",
+  "subregion": "Central Asia",
+  "themeIds": [
+    "arts",
+    "exchange"
+  ],
+  "tier": "contextual",
+  "context": "The Met connects this vessel type tentatively with Mediterranean models transmitted through Iran. That proposed lineage is less certain than the object’s material and form.",
+  "dateNote": "The catalogue assigns the cup to the sixth century; the range estimates its manufacture rather than a century of use.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000134"
+  ],
+  "alternativeTitles": [
+    "Sogdian silver",
+    "Sogdiana cup"
+  ]
+}

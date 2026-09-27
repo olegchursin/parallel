@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000127",
+  "slug": "gandharan-patrons-expand-buddhist-sacred-complexes",
+  "title": "Gandharan patrons expand Buddhist sacred complexes",
+  "summary": "Gandhara saw increased patronage of Buddhist monasteries and sacred areas from the third to the mid-fifth century, alongside expanding sculptural production.",
+  "regionIds": [
+    "south-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000127-c107",
+      "sourceId": "src_000107",
+      "locator": "Paragraph beginning “From the third to the mid-fifth century” and discussion of stucco sculpture",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000127-occurrence",
+      "text": "Gandhara saw increased patronage of Buddhist monasteries and sacred areas from the third to the mid-fifth century, alongside expanding sculptural production.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000127-c107"
+      ]
+    },
+    {
+      "id": "evt_000127-date",
+      "text": "The boundaries translate the essay’s third-to-mid-fifth-century phase approximately; 201 and 450 are display coordinates, not documented turning points.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000127-c107"
+      ]
+    },
+    {
+      "id": "evt_000127-context",
+      "text": "Stucco enabled rapid production of images that could be molded and painted. This phase followed earlier foundations and does not date Buddhism’s arrival.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000127-c107"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met’s phase discussion was inspected. An inconsistent date for a separate reliquary in the essay is outside this record’s claims."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "3rd century CE",
+      "anchor": {
+        "year": 201,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "3rd century CE",
+      "conversionNote": "The boundaries translate the essay’s third-to-mid-fifth-century phase approximately; 201 and 450 are display coordinates, not documented turning points.",
+      "dateClaimIds": [
+        "evt_000127-date"
+      ]
+    },
+    "end": {
+      "label": "mid-5th century CE",
+      "anchor": {
+        "year": 450,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "mid-5th century CE",
+      "conversionNote": "The boundaries translate the essay’s third-to-mid-fifth-century phase approximately; 201 and 450 are display coordinates, not documented turning points.",
+      "dateClaimIds": [
+        "evt_000127-date"
+      ]
+    }
+  },
+  "primaryRegion": "south-asia",
+  "subregion": "Indus region",
+  "themeIds": [
+    "belief",
+    "arts"
+  ],
+  "tier": "contextual",
+  "context": "Stucco enabled rapid production of images that could be molded and painted. This phase followed earlier foundations and does not date Buddhism’s arrival.",
+  "dateNote": "The boundaries translate the essay’s third-to-mid-fifth-century phase approximately; 201 and 450 are display coordinates, not documented turning points.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000127"
+  ],
+  "alternativeTitles": [
+    "Gandharan Buddhist art",
+    "Takht-i-Bahi sculpture"
+  ]
+}

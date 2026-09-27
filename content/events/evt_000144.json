@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000144",
+  "slug": "yol-u-present-the-yirrkala-bark-petitions",
+  "title": "Yolŋu present the Yirrkala bark petitions",
+  "summary": "Yolŋu bark petitions reached Australia’s House of Representatives in August 1963, asserting relationships to land threatened by proposed bauxite mining.",
+  "regionIds": [
+    "oceania"
+  ],
+  "citations": [
+    {
+      "id": "evt_000144-c124",
+      "sourceId": "src_000124",
+      "locator": "Näku Dhäruk and Tabled in parliament sections: August 1963 and painted clan designs",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    },
+    {
+      "id": "evt_000144-c135",
+      "sourceId": "src_000135",
+      "locator": "Paragraphs on the 1963 bark petitions and art asserting relationships to land",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000144-occurrence",
+      "text": "Yolŋu bark petitions reached Australia’s House of Representatives in August 1963, asserting relationships to land threatened by proposed bauxite mining.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000144-c124",
+        "evt_000144-c135"
+      ]
+    },
+    {
+      "id": "evt_000144-date",
+      "text": "Two bark petitions were tabled on different August dates. The record uses month precision to encompass both, rather than inventing a single presentation day.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000144-c124"
+      ]
+    },
+    {
+      "id": "evt_000144-context",
+      "text": "Typed text and painted clan designs conveyed the petitioners’ case together. Buku-Larrŋgay Mulka describes this use of visual art as an assertion of political sovereignty.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000144-c124",
+        "evt_000144-c135"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The National Museum’s account was compared with the Indigenous community art centre’s history. They agree on the 1963 petitions; the museum supplies parliamentary timing."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "August 1963 CE",
+      "anchor": {
+        "year": 1963,
+        "month": 8,
+        "precision": "month"
+      },
+      "qualifier": "exact",
+      "sourceCalendar": "Gregorian",
+      "originalExpression": "August 1963 CE",
+      "conversionNote": "Two bark petitions were tabled on different August dates. The record uses month precision to encompass both, rather than inventing a single presentation day.",
+      "dateClaimIds": [
+        "evt_000144-date"
+      ]
+    }
+  },
+  "primaryRegion": "oceania",
+  "subregion": "Australia",
+  "themeIds": [
+    "rights",
+    "arts"
+  ],
+  "tier": "contextual",
+  "context": "Typed text and painted clan designs conveyed the petitioners’ case together. Buku-Larrŋgay Mulka describes this use of visual art as an assertion of political sovereignty.",
+  "dateNote": "Two bark petitions were tabled on different August dates. The record uses month precision to encompass both, rather than inventing a single presentation day.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000144"
+  ],
+  "alternativeTitles": [
+    "Yolngu bark petitions",
+    "Näku Dhäruk",
+    "Yirrkala land rights"
+  ]
+}

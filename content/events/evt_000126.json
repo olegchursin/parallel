@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000126",
+  "slug": "the-ardabil-carpets-receive-dated-inscriptions",
+  "title": "The Ardabil carpets receive dated inscriptions",
+  "summary": "The paired Ardabil carpets carry inscriptions naming Maqsud of Kashan and the year AH 946, corresponding to 1539–1540 CE.",
+  "regionIds": [
+    "west-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000126-c106",
+      "sourceId": "src_000106",
+      "locator": "Dating, inscription and design sections; AH 946 and 1539–1540 CE",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    },
+    {
+      "id": "evt_000126-c131",
+      "sourceId": "src_000131",
+      "locator": "Object 53.50.2; Date Made and 2024 curatorial notes",
+      "supportRole": "supports",
+      "note": "Supports only the claims explicitly linked to this citation; source-family independence is described in the review note."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000126-occurrence",
+      "text": "The paired Ardabil carpets carry inscriptions naming Maqsud of Kashan and the year AH 946, corresponding to 1539–1540 CE.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000126-c106",
+        "evt_000126-c131"
+      ]
+    },
+    {
+      "id": "evt_000126-date",
+      "text": "The two CE years express the inscribed Hijri year, not a two-year weaving duration. The museums supply the conversion.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000126-c106",
+        "evt_000126-c131"
+      ]
+    },
+    {
+      "id": "evt_000126-context",
+      "text": "Their wool pile forms a medallion and hanging-lamp design. Maqsud probably supervised the work; the original commission and weaving location remain uncertain.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000126-c106",
+        "evt_000126-c131"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "V&A and LACMA accounts agree on AH 946 / 1539–40. Both qualify the commission and Maqsud’s role; their shared attribution is not certainty."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "1539–1540 CE (AH 946)",
+      "earliest": {
+        "year": 1539,
+        "precision": "year"
+      },
+      "latest": {
+        "year": 1540,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Islamic Hijri inscription; museum conversion to CE",
+      "originalExpression": "AH 946 / 1539–40 CE",
+      "conversionNote": "The two CE years express the inscribed Hijri year, not a two-year weaving duration. The museums supply the conversion.",
+      "dateClaimIds": [
+        "evt_000126-date"
+      ]
+    }
+  },
+  "primaryRegion": "west-asia",
+  "subregion": "Iran & Arabia",
+  "themeIds": [
+    "arts",
+    "belief"
+  ],
+  "tier": "contextual",
+  "context": "Their wool pile forms a medallion and hanging-lamp design. Maqsud probably supervised the work; the original commission and weaving location remain uncertain.",
+  "dateNote": "The two CE years express the inscribed Hijri year, not a two-year weaving duration. The museums supply the conversion.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000126"
+  ],
+  "alternativeTitles": [
+    "Ardebil carpet",
+    "Maqsud Kashani"
+  ]
+}

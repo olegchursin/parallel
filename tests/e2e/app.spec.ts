@@ -60,6 +60,29 @@ test('landing, search, detail sources and a deep refresh', async ({ page }) => {
   )
   expect(errors).toEqual([])
 })
+test('expanded museum records are searchable and retain uncertainty and source links', async ({
+  page,
+}) => {
+  await page.goto('/search?q=Ardabil')
+  await page.getByRole('link', { name: 'The Ardabil carpets receive dated inscriptions' }).click()
+  await expect(page.locator('main')).toContainText('1539–1540 CE (AH 946)')
+  await expect(page.locator('main')).toContainText('not a two-year weaving duration')
+  await page.reload()
+  await expect(page.locator('h1')).toContainText('Ardabil')
+  await page.goto('/sources/src_000106')
+  await expect(page.getByRole('link', { name: 'Read the original source' })).toHaveAttribute(
+    'href',
+    'https://www.vam.ac.uk/articles/the-ardabil-carpet/',
+  )
+  await page.goto('/search?q=Nataraja')
+  await page.getByRole('link', { name: 'Chola artists cast Shiva as Lord of Dance' }).click()
+  await expect(page.locator('main')).toContainText('late 12th–early 13th century CE')
+  await page.goto('/sources/src_000108')
+  await expect(page.getByRole('link', { name: 'Read the original source' })).toHaveAttribute(
+    'href',
+    'https://www.metmuseum.org/art/collection/search/39329',
+  )
+})
 test('URL state, filters, synchronized compare and browser history', async ({ page }) => {
   await page.goto('/timeline?from=1000CE&to=1400CE&regions=africa,east-asia,americas&view=compare')
   await expect(page.getByRole('button', { name: 'Compare', exact: true })).toHaveAttribute(

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000133",
+  "preferredName": "Gansu–Samarkand correspondence network",
+  "placeType": "historical-place",
+  "regionIds": [
+    "central-asia",
+    "east-asia"
+  ],
+  "sourceRefs": [
+    "src_000113",
+    "src_000132"
+  ],
+  "modernLocator": "Gansu, China, and Samarkand, Uzbekistan"
+}

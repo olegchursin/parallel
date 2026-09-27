@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000123",
+  "slug": "asante-weavers-rework-imported-silk-for-kente",
+  "title": "Asante weavers rework imported silk for kente",
+  "summary": "Asante weavers unraveled imported silk cloth to obtain richly colored threads for kente, connecting local weaving skills with long-distance textile trade.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000123-c103",
+      "sourceId": "src_000103",
+      "locator": "Kente cloth section: imported silk in eighteenth-century Asante weaving",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000123-occurrence",
+      "text": "Asante weavers unraveled imported silk cloth to obtain richly colored threads for kente, connecting local weaving skills with long-distance textile trade.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000123-c103"
+      ]
+    },
+    {
+      "id": "evt_000123-date",
+      "text": "Century-level evidence for the practice, not an exact invention date or the beginning of kente weaving.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000123-c103"
+      ]
+    },
+    {
+      "id": "evt_000123-context",
+      "text": "Kente is assembled from narrow woven strips joined along their edges. Imported silk expanded the colors available to eighteenth-century Asante makers.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000123-c103"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met exhibition’s Kente cloth passage was inspected. An additional Met collection result was found but would not constitute a second source family."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "18th century CE",
+      "earliest": {
+        "year": 1701,
+        "precision": "year"
+      },
+      "latest": {
+        "year": 1800,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "18th century CE",
+      "conversionNote": "Century-level evidence for the practice, not an exact invention date or the beginning of kente weaving.",
+      "dateClaimIds": [
+        "evt_000123-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "West Africa",
+  "themeIds": [
+    "arts",
+    "exchange"
+  ],
+  "tier": "contextual",
+  "context": "Kente is assembled from narrow woven strips joined along their edges. Imported silk expanded the colors available to eighteenth-century Asante makers.",
+  "dateNote": "Century-level evidence for the practice, not an exact invention date or the beginning of kente weaving.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000123"
+  ],
+  "alternativeTitles": [
+    "Ashanti kente",
+    "Kente cloth"
+  ]
+}

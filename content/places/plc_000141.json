@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000141",
+  "preferredName": "Nasca region",
+  "placeType": "historical-place",
+  "regionIds": [
+    "americas"
+  ],
+  "sourceRefs": [
+    "src_000121",
+    "src_000133"
+  ],
+  "modernLocator": "Nasca region, Peru"
+}

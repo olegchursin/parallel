@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000124",
+  "slug": "iraqi-potters-make-a-polychrome-luster-bowl",
+  "title": "Iraqi potters make a polychrome luster bowl",
+  "summary": "A glazed earthenware bowl attributed to ninth-century Iraq combines ruby-colored and golden luster around a large palmette design.",
+  "regionIds": [
+    "west-asia"
+  ],
+  "citations": [
+    {
+      "id": "evt_000124-c104",
+      "sourceId": "src_000104",
+      "locator": "Object 22.49.1; Date, Geography, Medium and opening description",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000124-occurrence",
+      "text": "A glazed earthenware bowl attributed to ninth-century Iraq combines ruby-colored and golden luster around a large palmette design.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000124-c104"
+      ]
+    },
+    {
+      "id": "evt_000124-date",
+      "text": "The catalogue gives only the ninth century. The range marks uncertainty about one object’s manufacture, not a century-long production task.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000124-c104"
+      ]
+    },
+    {
+      "id": "evt_000124-context",
+      "text": "The museum’s attribution concerns this surviving bowl. Its decorated surface provides material evidence of polychrome luster painting, without identifying an individual potter.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000124-c104"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met object’s description and catalogue fields were compared. No independent workshop attribution or narrower dating was established."
+  },
+  "kind": "event",
+  "time": {
+    "type": "point",
+    "when": {
+      "label": "9th century CE",
+      "earliest": {
+        "year": 801,
+        "precision": "year"
+      },
+      "latest": {
+        "year": 900,
+        "precision": "year"
+      },
+      "qualifier": "uncertain",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "9th century CE",
+      "conversionNote": "The catalogue gives only the ninth century. The range marks uncertainty about one object’s manufacture, not a century-long production task.",
+      "dateClaimIds": [
+        "evt_000124-date"
+      ]
+    }
+  },
+  "primaryRegion": "west-asia",
+  "subregion": "Mesopotamia",
+  "themeIds": [
+    "arts",
+    "knowledge"
+  ],
+  "tier": "contextual",
+  "context": "The museum’s attribution concerns this surviving bowl. Its decorated surface provides material evidence of polychrome luster painting, without identifying an individual potter.",
+  "dateNote": "The catalogue gives only the ninth century. The range marks uncertainty about one object’s manufacture, not a century-long production task.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000124"
+  ],
+  "alternativeTitles": [
+    "Abbasid lusterware",
+    "Lustre ceramics"
+  ]
+}

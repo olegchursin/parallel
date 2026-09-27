@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000123",
+  "preferredName": "Asante",
+  "placeType": "historical-place",
+  "regionIds": [
+    "africa"
+  ],
+  "sourceRefs": [
+    "src_000103"
+  ],
+  "modernLocator": "Ghana"
+}

@@ -1,17 +1,17 @@
 {
-  "verifiedAt": "2026-09-27T03:49:59.434Z",
-  "contentVersion": "v-ea50d793fcce8fa3",
+  "verifiedAt": "2026-09-27T05:52:16.681Z",
+  "contentVersion": "v-0b747fa80135e5ed",
   "mode": "preview",
-  "prerenderedPages": 257,
-  "verifiedArtifacts": 150,
+  "prerenderedPages": 329,
+  "verifiedArtifacts": 196,
   "budgets": {
-    "allRouteJavaScriptGzipBytes": 170830,
+    "allRouteJavaScriptGzipBytes": 170863,
     "initialCssGzipBytes": 10932,
-    "overviewGzipBytes": 20360,
-    "searchGzipBytes": 11851,
-    "allTextGzipBytes": 173747,
-    "landingHtmlGzipBytes": 40872,
-    "conservativeLandingGzipBytes": 222634,
+    "overviewGzipBytes": 25104,
+    "searchGzipBytes": 15237,
+    "allTextGzipBytes": 219279,
+    "landingHtmlGzipBytes": 49561,
+    "conservativeLandingGzipBytes": 231356,
     "limits": {
       "initialJs": 250000,
       "css": 40000,
@@ -23,96 +23,96 @@
   },
   "scripts": [
     {
-      "name": "Details-CCtnt045.js",
-      "gzipBytes": 3383
-    },
-    {
       "name": "not-found-i5RsCZif.js",
       "gzipBytes": 111
     },
     {
-      "name": "search-T-kDvfJZ.js",
-      "gzipBytes": 171
+      "name": "lazyRouteComponent-CfFR4I4v.js",
+      "gzipBytes": 1431
     },
     {
-      "name": "sources._sourceId-DV5-lHSL.js",
-      "gzipBytes": 171
+      "name": "journeys._journeyId-Chc-GcS7.js",
+      "gzipBytes": 166
     },
     {
-      "name": "App-BsI2L0l4.js",
-      "gzipBytes": 43305
+      "name": "Timeline-BljnP6iy.js",
+      "gzipBytes": 6306
     },
     {
-      "name": "journeys._journeyId-BJz0HgVF.js",
-      "gzipBytes": 169
+      "name": "move-horizontal-Bi-Kmk31.js",
+      "gzipBytes": 457
     },
     {
-      "name": "routes-nmkqabVv.js",
-      "gzipBytes": 2189
+      "name": "bookmarks-Bjt1TBOS.js",
+      "gzipBytes": 86
     },
     {
-      "name": "lazyRouteComponent-BJLiG3ts.js",
-      "gzipBytes": 1430
+      "name": "shield-check-DH4KbELv.js",
+      "gzipBytes": 268
     },
     {
-      "name": "entities._entityId-DtWM3YHd.js",
-      "gzipBytes": 167
+      "name": "index-9rLfr2F9.js",
+      "gzipBytes": 102051
     },
     {
-      "name": "timeline-C13m8qgT.js",
-      "gzipBytes": 89
+      "name": "downloads-FzRNRMso.js",
+      "gzipBytes": 86
     },
     {
       "name": "offline-DdkvFgum.js",
       "gzipBytes": 163
     },
     {
-      "name": "Timeline-BFRpBNzl.js",
-      "gzipBytes": 6302
+      "name": "search-D22-YmID.js",
+      "gzipBytes": 169
     },
     {
-      "name": "shield-check-DF9s39xC.js",
-      "gzipBytes": 266
+      "name": "App-C5A_H-JQ.js",
+      "gzipBytes": 43306
     },
     {
-      "name": "events._eventId-DgbkwDIQ.js",
-      "gzipBytes": 378
+      "name": "arrow-right-DFjRPf1W.js",
+      "gzipBytes": 179
     },
     {
-      "name": "bookmarks-VlDbVsg4.js",
-      "gzipBytes": 86
+      "name": "content-BDkxOkbW.js",
+      "gzipBytes": 932
     },
     {
-      "name": "Pages-DRbCEZGK.js",
-      "gzipBytes": 8055
+      "name": "routes-Bj20zbD6.js",
+      "gzipBytes": 2193
     },
     {
-      "name": "downloads-BBc5eINb.js",
-      "gzipBytes": 86
+      "name": "sources._sourceId-C6fFaVVS.js",
+      "gzipBytes": 171
+    },
+    {
+      "name": "timeline-DWdVeJGH.js",
+      "gzipBytes": 89
+    },
+    {
+      "name": "about-B-uohNYN.js",
+      "gzipBytes": 83
+    },
+    {
+      "name": "Details-D9jE496C.js",
+      "gzipBytes": 3384
+    },
+    {
+      "name": "Pages-xbxyRnE3.js",
+      "gzipBytes": 8070
     },
     {
       "name": "jsx-runtime-Cx0BB4qO.js",
       "gzipBytes": 612
     },
     {
-      "name": "move-horizontal-Bx0amXKx.js",
-      "gzipBytes": 454
+      "name": "entities._entityId-f8l_bdro.js",
+      "gzipBytes": 168
     },
     {
-      "name": "index-Dnd98mAF.js",
-      "gzipBytes": 102051
-    },
-    {
-      "name": "arrow-right-DixCychh.js",
-      "gzipBytes": 178
-    },
-    {
-      "name": "content-FXcRKYbD.js",
-      "gzipBytes": 931
-    },
-    {
-      "name": "about-CEaV_xJs.js",
-      "gzipBytes": 83
+      "name": "events._eventId-BRAxVWNK.js",
+      "gzipBytes": 382
     }
   ],
   "styles": [

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "plc_000150",
+  "preferredName": "International sequencing consortium",
+  "placeType": "historical-place",
+  "regionIds": [
+    "global"
+  ],
+  "sourceRefs": [
+    "src_000130"
+  ],
+  "modernLocator": "China, France, Germany, Japan, United Kingdom and United States"
+}

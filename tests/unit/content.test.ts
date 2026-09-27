@@ -15,11 +15,11 @@ describe('release content and state', () => {
     const a = await buildContent({ write: false }),
       b = await buildContent({ write: false })
     expect(a.manifest.recordCounts).toMatchObject({
-      events: 120,
+      events: 150,
       entities: 25,
       periods: 15,
       journeys: 6,
-      sources: 100,
+      sources: 142,
       published: 0,
     })
     expect(a.manifest.contentVersion).toBe(b.manifest.contentVersion)
@@ -76,7 +76,7 @@ describe('release content and state', () => {
       events.every(
         (e) =>
           ['africa', 'oceania'].includes(e.primaryRegion) &&
-          ['society', 'rights'].includes(e.themeIds[0]),
+          e.themeIds.some((theme) => ['society', 'rights'].includes(theme)),
       ),
     ).toBe(true)
     expect(filterEvents(catalog.events, DEFAULTS).some((e) => e.id === 'evt_000004')).toBe(true)
@@ -91,7 +91,7 @@ describe('release content and state', () => {
   it('keeps all 5,000 synthetic records accessible and clusters deterministically', async () => {
     const { catalog } = await buildContent({ write: false })
     const synthetic: EventIndex[] = Array.from({ length: 5000 }, (_, i) => ({
-      ...catalog.events[i % 120],
+      ...catalog.events[i % catalog.events.length],
       id: 'synthetic_' + String(i).padStart(5, '0'),
     }))
     const t = performance.now()

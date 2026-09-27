@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "evt_000121",
+  "slug": "ife-artists-model-terracotta-figures",
+  "title": "Ife artists model terracotta figures",
+  "summary": "At Ife, artists made terracotta figures and vessels depicting people, animals and spiritual beings, in styles ranging from naturalistic to abstract.",
+  "regionIds": [
+    "africa"
+  ],
+  "citations": [
+    {
+      "id": "evt_000121-c101",
+      "sourceId": "src_000101",
+      "locator": "Essay title and paragraphs on form, excavation context and ritual reuse",
+      "supportRole": "supports",
+      "note": "Supports the linked claims within the stated date and attribution limits."
+    }
+  ],
+  "claims": [
+    {
+      "id": "evt_000121-occurrence",
+      "text": "At Ife, artists made terracotta figures and vessels depicting people, animals and spiritual beings, in styles ranging from naturalistic to abstract.",
+      "claimType": "occurrence",
+      "citationIds": [
+        "evt_000121-c101"
+      ]
+    },
+    {
+      "id": "evt_000121-date",
+      "text": "The Met groups this tradition around 1000–1400 CE; these are approximate cultural boundaries, not dates for every surviving sculpture.",
+      "claimType": "date",
+      "citationIds": [
+        "evt_000121-c101"
+      ]
+    },
+    {
+      "id": "evt_000121-context",
+      "text": "Many finds come from secondary settings. Ritual reuse complicates attempts to reconstruct their original functions; these works cannot all be identified as royal portraits.",
+      "claimType": "interpretation",
+      "citationIds": [
+        "evt_000121-c101"
+      ]
+    }
+  ],
+  "review": {
+    "status": "evidence-checked",
+    "authoredBy": "Codex — source-assisted research draft",
+    "checkedBy": null,
+    "reviewedAt": null,
+    "revision": 1,
+    "unresolvedIssues": [
+      "Independent historical review pending."
+    ],
+    "corroboration": "The Met essay was inspected. Its excavation caveat is retained; independent corroboration of the chronology was not established."
+  },
+  "kind": "process",
+  "time": {
+    "type": "span",
+    "start": {
+      "label": "c. 1000 CE",
+      "anchor": {
+        "year": 1000,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "c. 1000 CE",
+      "conversionNote": "The Met groups this tradition around 1000–1400 CE; these are approximate cultural boundaries, not dates for every surviving sculpture.",
+      "dateClaimIds": [
+        "evt_000121-date"
+      ]
+    },
+    "end": {
+      "label": "c. 1400 CE",
+      "anchor": {
+        "year": 1400,
+        "precision": "year"
+      },
+      "qualifier": "approximate",
+      "sourceCalendar": "Scholarly CE/BCE dating; year-level projection",
+      "originalExpression": "c. 1400 CE",
+      "conversionNote": "The Met groups this tradition around 1000–1400 CE; these are approximate cultural boundaries, not dates for every surviving sculpture.",
+      "dateClaimIds": [
+        "evt_000121-date"
+      ]
+    }
+  },
+  "primaryRegion": "africa",
+  "subregion": "West Africa",
+  "themeIds": [
+    "arts",
+    "belief"
+  ],
+  "tier": "contextual",
+  "context": "Many finds come from secondary settings. Ritual reuse complicates attempts to reconstruct their original functions; these works cannot all be identified as royal portraits.",
+  "dateNote": "The Met groups this tradition around 1000–1400 CE; these are approximate cultural boundaries, not dates for every surviving sculpture.",
+  "entityIds": [],
+  "placeIds": [
+    "plc_000121"
+  ],
+  "alternativeTitles": [
+    "Ife terracottas",
+    "Ile Ife"
+  ]
+}
