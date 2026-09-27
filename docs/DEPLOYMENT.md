@@ -1,6 +1,21 @@
 # Deployment and rollback
 
-No hosting deployment is part of this delivery. The application is a static artifact in `dist/client`; the Start server output is a build/prerender tool, not a required production backend.
+The application is a static artifact in `dist/client`; the Start server output is a build/prerender tool, not a required production backend.
+
+## Vercel
+
+The checked-in `vercel.json` selects the **Other** framework preset and publishes `dist/client`. The default Vite preset publishes `dist`, which is the wrong directory for this TanStack Start build. The install command uses `scripts/setup.sh` to download and verify project-local Bun 1.4.2, and the build command uses that pinned runtime. These file-based settings override dashboard defaults.
+
+The configuration serves the prerendered directories directly without a blanket SPA rewrite. Missing records and assets remain errors. Immutable data and assets receive long-lived cache headers; HTML, the worker and release pointer revalidate. Deployment protection settings are managed independently in Vercel and are not changed by this configuration.
+
+For a CLI preview of the existing project:
+
+```sh
+vercel link --project parallel --scope oleg-chursins-projects
+vercel deploy --scope oleg-chursins-projects
+```
+
+Check the preview's landing page, a deep event URL, search, `sw.js`, and missing JSON/JS responses before promoting it. A push to the connected production branch also builds with these settings. `.vercel/` and local environment files are ignored; `.vercelignore` excludes working research, tests and reports from CLI source uploads.
 
 ## Prepare a release
 
